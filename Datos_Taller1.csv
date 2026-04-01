@@ -1,0 +1,2200 @@
+ID;Parcela;Placa;Familia;Especie;CAP_cm;POM_cm;Altura_m
+1;PP_1;1;Lauraceae;;59,1;130;14,27
+2;PP_1;2;Lauraceae;Beilschmiedia pendula;82,8;130;15,9
+3;PP_1;3;Euphorbiaceae;Alchornea glandulosa;87,2;130;12,67
+4;PP_1;4;Myrtaceae;Myrcia hartwegiana;39,5;130;9,53
+5;PP_1;5;Meliaceae;Trichilia pallida;133,4;130;11,8
+6;PP_1;6;Staphyleaceae;Turpinia occidentalis;35;158;10,6
+7;PP_1;7;Tapisciaceae;Huertea granadina;46,6;130;11,3
+8;PP_1;8;Moraceae;Ficus mutisii;110,5;140;16,33
+9;PP_1;9;Icacinaceae;Calatola costaricensis;42,6;238;NA
+10;PP_1;10;Lauraceae;Persea rigens;35,1;130;NA
+11;PP_1;11;Nyctaginaceae;Neea amplifolia;39,1;130;11,93
+12;PP_1;12;Hamamelidaceae;Matudaea colombiana;89,7;214,5;18,27
+13;PP_1;13;Indet;;36,6;132;NA
+14;PP_1;14;Euphorbiaceae;Alchornea glandulosa;32,6;130;11,63
+15;PP_1;15;Hamamelidaceae;Matudaea colombiana;35,8;130;13,7
+16;PP_1;16;Lauraceae;;33,8;130;NA
+17;PP_1;17;Lauraceae;;46,8;130;14,9
+18;PP_1;18;Meliaceae;Guarea kunthiana;48,7;130;10,73
+19;PP_1;19;Hamamelidaceae;Matudaea colombiana;33,6;130;15,3
+20;PP_1;20;Lauraceae;Cinnamomum triplinerve;51,4;130;17,73
+21;PP_1;21;Moraceae;Ficus andicola;39,4;187;NA
+22;PP_1;22;Sapindaceae;;NA;130;NA
+23;PP_1;23;Sapindaceae;Billia rosea;57,4;130;13,1
+24;PP_1;24;Sapindaceae;Billia rosea;45,5;130;12,63
+25;PP_1;25;Sapindaceae;Billia rosea;37,2;130;7,97
+26;PP_1;26;Euphorbiaceae;Croton smithianus;58;162,5;17,17
+27;PP_1;27;Fabaceae;;41,3;131,5;NA
+28;PP_1;28;Hamamelidaceae;Matudaea colombiana;39,1;130;12,17
+29;PP_1;29;Hamamelidaceae;Matudaea colombiana;56,7;130;16,03
+30;PP_1;30;Euphorbiaceae;;33,8;130;NA
+31;PP_1;31;Hamamelidaceae;Matudaea colombiana;48;130;14
+32;PP_1;32;Ericaceae;Cavendishia pubescens;45,2;135;NA
+33;PP_1;33;Hypericaceae;;50,5;130;14,93
+34;PP_1;34;Euphorbiaceae;Croton smithianus;112,3;130;17
+35;PP_1;35;Staphyleaceae;Turpinia occidentalis;33,3;130;13,1
+36;PP_1;36;Hamamelidaceae;Matudaea colombiana;43,6;130;13,23
+37;PP_1;37;Cyatheaceae;Alsophila erinacea;34,7;130;NA
+38;PP_1;38;Sapindaceae;Billia rosea;47;130;18,07
+39;PP_1;39;Rubiaceae;;81,1;130;11,37
+40;PP_1;40;Lauraceae;Aniba perutilis;70,9;130;10,9
+41;PP_1;41;Hypericaceae;;73,7;126;14,63
+42;PP_1;42;Euphorbiaceae;Alchornea glandulosa;30,7;130;8,37
+43;PP_1;43;Annonaceae;Guatteria goudotiana;36,3;130;13,7
+44;PP_1;44;Moraceae;Ficus tovarensis;46,5;130;8,2
+45;PP_1;45;Fagaceae;Quercus humboldtii;108,2;218;22,3
+46;PP_1;46;Fagaceae;Quercus humboldtii;58,9;180;16,97
+47;PP_1;47;Rubiaceae;Ladenbergia macrocarpa;41,3;130;NA
+48;PP_1;48;Annonaceae;Guatteria goudotiana;62,8;130;14,17
+49;PP_1;49;Hamamelidaceae;Matudaea colombiana;67,7;130;17,87
+50;PP_1;50;Hamamelidaceae;Matudaea colombiana;35;130;13,83
+51;PP_1;51;Fagaceae;Quercus humboldtii;88,5;260;18,47
+52;PP_1;52;Hamamelidaceae;Matudaea colombiana;110,8;335;23,33
+53;PP_1;53;Hamamelidaceae;Matudaea colombiana;48,2;130;NA
+54;PP_1;54;Hamamelidaceae;Matudaea colombiana;41,7;130;22,17
+55;PP_1;55;Hamamelidaceae;Matudaea colombiana;34,5;130;18,17
+56;PP_1;56;Lauraceae;Persea rigens;94,6;130;16,7
+57;PP_1;57;Nyctaginaceae;Neea amplifolia;78,1;120;11,03
+58;PP_1;58;Salicaceae;Hasseltia lateriflora;33,5;130;8,93
+59;PP_1;59;Calophyllaceae;Calophyllum brasiliense;45,1;130;13,6
+60;PP_1;60;Lamiaceae;Aegiphila alba;75,1;130;NA
+61;PP_1;61;Actinidiaceae;Saurauia laevigata;42,6;130;10,7
+62;PP_1;62;Sabiaceae;;43,6;130;13,93
+63;PP_1;63;Sapindaceae;Matayba elegans;75,6;130;16
+64;PP_1;64;Lauraceae;;33,8;130;11,93
+65;PP_1;65;Lauraceae;Persea rigens;46,1;130;13,53
+66;PP_1;66;Tapisciaceae;Huertea granadina;38,5;130;12,37
+67;PP_1;67;Lauraceae;Persea americana;32,2;120;6,83
+68;PP_1;68;Euphorbiaceae;Aparisthmium cordatum;82,4;150;NA
+69;PP_1;69;Euphorbiaceae;Sapium cuatrecasii;50,4;140;12,77
+70;PP_1;70;Sapotaceae;Pouteria lucuma;35,9;130;11,93
+71;PP_1;71;Staphyleaceae;Turpinia occidentalis;76,9;150;11,47
+72;PP_1;72;Lauraceae;Persea rigens;35,4;240;8,23
+73;PP_1;73;Melastomataceae;Miconia tonduzii;44,4;130;6,8
+74;PP_1;74;Lauraceae;Persea americana;49,9;130;12,47
+75;PP_1;75;Lauraceae;Persea rigens;62,7;130;NA
+76;PP_1;76;Indet;;99,6;230;25,97
+77;PP_1;77;Actinidiaceae;Saurauia laevigata;33,1;130;8,9
+78;PP_1;78;Lauraceae;Beilschmiedia pendula;104,9;130;19,33
+79;PP_1;79;Lauraceae;;42,8;130;13,2
+80;PP_1;80;Lauraceae;Persea rigens;73,7;130;14,03
+81;PP_1;81;Calophyllaceae;Calophyllum brasiliense;41,5;130;9,87
+82;PP_1;82;Staphyleaceae;Turpinia occidentalis;75,1;125;NA
+83;PP_1;83;Malpighiaceae;;40,9;130;15,1
+84;PP_1;84;Annonaceae;Guatteria goudotiana;45,3;130;11,1
+85;PP_1;85;Hamamelidaceae;Matudaea colombiana;44,7;130;NA
+86;PP_1;86;Rubiaceae;;34,2;130;NA
+87;PP_1;87;Anacardiaceae;Toxicodendron striatum;48,6;130;12,57
+88;PP_1;88;Euphorbiaceae;Croton killipianus;129,6;130;19,6
+89;PP_1;89;Lauraceae;;107,3;130;21,43
+90;PP_1;90;Hamamelidaceae;Matudaea colombiana;49,7;130;14,27
+91;PP_1;91;Euphorbiaceae;Croton smithianus;55;130;NA
+92;PP_1;92;Tapisciaceae;Huertea granadina;74,7;130;11,73
+93;PP_1;93;Rubiaceae;Rudgea sclerocalyx;64,2;130;11,4
+94;PP_1;94;Lauraceae;Persea rigens;72,9;130;12
+95;PP_1;95;Sapotaceae;Pouteria lucuma;52,5;130;16,7
+96;PP_1;96;Tapisciaceae;Huertea granadina;57;130;10,87
+97;PP_1;97;Meliaceae;Trichilia pallida;33,2;126;NA
+98;PP_1;98;Magnoliaceae;Magnolia espinalii;77,3;130;23,13
+99;PP_1;99;Staphyleaceae;Turpinia occidentalis;55,7;130;17,67
+100;PP_1;100;Celastraceae;;90,7;130;14,73
+101;PP_1;101;Calophyllaceae;Calophyllum brasiliense;39,5;130;11,3
+102;PP_1;102;Sapindaceae;;41,7;130;13,27
+103;PP_1;103;Annonaceae;Guatteria goudotiana;36,8;130;10,3
+104;PP_1;104;Euphorbiaceae;Croton smithianus;61,9;130;14,5
+105;PP_1;105;Anacardiaceae;Mauria ferruginea;30,2;130;11,2
+106;PP_1;106;Rubiaceae;Guettarda crispiflora;53,5;130;12,07
+107;PP_1;107;Anacardiaceae;Mauria ferruginea;47;130;11,53
+108;PP_1;108;Melastomataceae;Miconia caudata;NA;125;10,2
+109;PP_1;109;Staphyleaceae;Turpinia occidentalis;42,2;130;11,17
+110;PP_1;110;Hamamelidaceae;Matudaea colombiana;56;196;13,83
+111;PP_1;111;Hamamelidaceae;Matudaea colombiana;54,5;215;15,93
+112;PP_1;112;Tapisciaceae;Huertea granadina;47;130;15,3
+113;PP_1;113;Rubiaceae;Elaeagia myriantha;36,4;130;5,6
+114;PP_1;114;Moraceae;Morus insignis;39,7;277;12,27
+115;PP_1;115;Moraceae;Ficus mutisii;80,2;130;15,67
+116;PP_1;116;Anacardiaceae;Toxicodendron striatum;48;130;NA
+117;PP_1;117;Euphorbiaceae;Alchornea grandiflora;33,1;130;NA
+118;PP_1;118;Anacardiaceae;Toxicodendron striatum;76,2;215;9,47
+119;PP_1;119;Rosaceae;Prunus subcorymbosa;42,6;130;8,7
+120;PP_1;120;Symplocaceae;;42,8;140;12,43
+121;PP_1;121;Clethraceae;Clethra fagifolia;106,4;161;14,8
+122;PP_1;122;Fabaceae;Inga multijuga;41,8;130;13
+123;PP_1;123;Lauraceae;;33,5;120,5;NA
+124;PP_1;124;Hamamelidaceae;Matudaea colombiana;87,5;130;NA
+125;PP_1;125;Euphorbiaceae;Croton smithianus;48,6;130;NA
+126;PP_1;126;Hamamelidaceae;Matudaea colombiana;36,5;130;9,73
+127;PP_1;127;Hamamelidaceae;Matudaea colombiana;69,9;290;16,7
+128;PP_1;128;Hamamelidaceae;Matudaea colombiana;34,5;130;NA
+129;PP_1;129;Actinidiaceae;;32,6;130;NA
+130;PP_1;130;Hamamelidaceae;Matudaea colombiana;36,7;130;NA
+131;PP_1;131;Euphorbiaceae;Croton smithianus;42,4;130;NA
+132;PP_1;132;Rubiaceae;Guettarda crispiflora;61;130;8,87
+133;PP_1;133;Hamamelidaceae;Matudaea colombiana;65,1;130;18,27
+134;PP_1;134;Fabaceae;;32,1;130;10,8
+135;PP_1;135;Euphorbiaceae;Croton smithianus;52,5;130;19,6
+136;PP_1;136;Hamamelidaceae;Matudaea colombiana;45,1;130;13,53
+137;PP_1;137;Euphorbiaceae;Croton smithianus;66;130;20,27
+138;PP_1;138;Sapotaceae;Pouteria torta;40,5;146;15,23
+139;PP_1;139;Euphorbiaceae;Alchornea grandiflora;40,9;130;13,3
+140;PP_1;140;Fabaceae;Macrolobium colombianum;60,1;130;NA
+141;PP_1;141;Euphorbiaceae;Croton smithianus;45;130;NA
+142;PP_1;142;Elaeocarpaceae;;43,1;130;15,5
+143;PP_1;143;Magnoliaceae;Magnolia espinalii;57;130;NA
+144;PP_1;144;Euphorbiaceae;Croton smithianus;43,7;130;NA
+145;PP_1;145;Lauraceae;Persea rigens;37,3;133,5;NA
+146;PP_1;146;Rubiaceae;Guettarda crispiflora;34;130;8,93
+147;PP_1;147;Euphorbiaceae;Croton smithianus;75,2;130;18,23
+148;PP_1;148;Staphyleaceae;Turpinia occidentalis;44,6;147;7,27
+149;PP_1;149;Hamamelidaceae;Matudaea colombiana;41,4;130;12,33
+150;PP_1;150;Urticaceae;;71,7;130;16,2
+151;PP_1;151;Staphyleaceae;Turpinia occidentalis;48,3;130;15,2
+152;PP_1;152;Fabaceae;;29,9;130;NA
+153;PP_1;153;Cyatheaceae;Alsophila erinacea;35;130;3,37
+154;PP_1;154;Indet;;115,7;320;NA
+155;PP_1;155;Actinidiaceae;Saurauia laevigata;35,3;130;NA
+156;PP_1;156;Staphyleaceae;Turpinia occidentalis;63,2;130;NA
+157;PP_1;157;Rubiaceae;Guettarda crispiflora;85;240;NA
+158;PP_1;158;Rosaceae;Prunus subcorymbosa;96,7;130;NA
+159;PP_1;159;Nyctaginaceae;Neea amplifolia;38,8;138,5;15,63
+160;PP_1;160;Lauraceae;Beilschmiedia latifolia;67,6;142,5;24,03
+161;PP_1;161;Lauraceae;Beilschmiedia pendula;79,9;130;25
+162;PP_1;162;Lauraceae;Beilschmiedia pendula;35,8;130;NA
+163;PP_1;163;Lauraceae;;44,7;130;NA
+164;PP_1;164;Rubiaceae;Guettarda crispiflora;78,7;210;NA
+165;PP_1;165;Rubiaceae;Guettarda crispiflora;59,8;207;NA
+166;PP_1;166;Actinidiaceae;Saurauia laevigata;30,4;130;NA
+167;PP_1;167;Lamiaceae;Aegiphila alba;56,3;130;NA
+168;PP_1;168;Tapisciaceae;Huertea granadina;63,5;130;NA
+169;PP_1;169;Tapisciaceae;Huertea granadina;38;130;14,53
+170;PP_1;170;Actinidiaceae;Saurauia laevigata;33,6;130;25,3
+171;PP_1;171;Rubiaceae;Elaeagia myriantha;37,4;156;13,4
+172;PP_1;172;Rubiaceae;Elaeagia myriantha;65,4;175;NA
+173;PP_1;173;Lauraceae;;41,2;130;NA
+174;PP_1;174;Staphyleaceae;Turpinia occidentalis;46,6;130;14,13
+175;PP_1;175;Lauraceae;;55,1;130;13,83
+176;PP_1;176;Lauraceae;;54,8;130;15,07
+177;PP_1;177;Actinidiaceae;Saurauia laevigata;35;130;14,7
+178;PP_1;178;Actinidiaceae;Saurauia laevigata;56,3;130;NA
+179;PP_1;179;Actinidiaceae;Saurauia laevigata;34,8;130;NA
+180;PP_1;180;Rosaceae;Prunus subcorymbosa;67,6;130;NA
+181;PP_1;181;Actinidiaceae;Saurauia laevigata;56,5;130;NA
+182;PP_1;182;Styracaceae;;52,6;NA;NA
+183;PP_1;183;Fabaceae;Macrolobium pittieri;29,4;130;NA
+184;PP_1;184;Icacinaceae;Calatola costaricensis;46,7;144;16,4
+185;PP_1;185;Moraceae;Ficus tovarensis;86,4;130;NA
+186;PP_1;186;Nyctaginaceae;Neea amplifolia;75,2;130;NA
+187;PP_1;187;Lauraceae;Endlicheria metallica;37,9;166;NA
+188;PP_1;188;Malvaceae;Heliocarpus americanus;32,9;130;13,1
+189;PP_1;189;Euphorbiaceae;Croton smithianus;64,6;130;NA
+190;PP_1;190;Euphorbiaceae;Croton smithianus;56;150;NA
+191;PP_1;191;Actinidiaceae;Saurauia laevigata;34;130;NA
+192;PP_1;192;Euphorbiaceae;Alchornea grandiflora;44,1;130;19
+193;PP_1;193;Staphyleaceae;Turpinia occidentalis;37,1;130;NA
+194;PP_1;194;Juglandaceae;Juglans neotropica;32,5;130;21,4
+195;PP_1;195;Nyctaginaceae;Neea amplifolia;33,2;130;NA
+196;PP_1;196;Lamiaceae;Aegiphila alba;59,2;128,5;NA
+197;PP_1;197;Lamiaceae;Aegiphila alba;57,7;130;NA
+198;PP_1;198;Lauraceae;Persea rigens;92,8;130;21,8
+199;PP_1;199;Lauraceae;;39,5;130;NA
+200;PP_1;200;Euphorbiaceae;Sapium cuatrecasii;60,3;130;NA
+201;PP_1;201;Sapotaceae;Pouteria torta;45,6;130;NA
+202;PP_1;202;Cyatheaceae;Cyathea corallifera;31,4;136;10,5
+203;PP_1;203;Myrtaceae;Myrcia hartwegiana;71,7;130;NA
+204;PP_1;204;Actinidiaceae;Saurauia laevigata;62,7;132;NA
+205;PP_1;205;Lauraceae;Beilschmiedia pendula;42,7;130;NA
+206;PP_1;206;Chrysobalanaceae;;38,7;130;14,6
+207;PP_1;207;Malpighiaceae;;52;136,4;NA
+208;PP_1;208;Tapisciaceae;Huertea granadina;47,1;130;NA
+209;PP_1;209;Rubiaceae;Guettarda crispiflora;60;130;NA
+210;PP_1;210;Nyctaginaceae;Neea amplifolia;41,3;130;NA
+211;PP_1;211;Nyctaginaceae;Neea amplifolia;32,4;130;NA
+212;PP_1;212;Lauraceae;Persea rigens;59,8;130;18,6
+213;PP_1;213;Rubiaceae;Ladenbergia macrocarpa;46,7;130;NA
+214;PP_1;214;Lauraceae;Beilschmiedia pendula;57;130;NA
+215;PP_1;215;Lauraceae;Aiouea dubia;55;130;NA
+216;PP_1;216;Actinidiaceae;Saurauia laevigata;54,4;147;NA
+217;PP_1;217;Calophyllaceae;Calophyllum brasiliense;52,5;130;NA
+218;PP_1;218;Hamamelidaceae;Matudaea colombiana;56,1;130;17,8
+219;PP_1;219;Hamamelidaceae;Matudaea colombiana;71,8;172,7;NA
+220;PP_1;220;Hamamelidaceae;Matudaea colombiana;34,1;130;NA
+221;PP_1;221;Hamamelidaceae;Matudaea colombiana;34,6;120,5;NA
+222;PP_1;222;Lauraceae;Cinnamomum triplinerve;57,6;130;NA
+223;PP_1;223;Lauraceae;Ocotea jelskii;57,8;166;20,1
+224;PP_1;224;Lauraceae;;100,3;164;NA
+225;PP_1;225;Sapindaceae;;37;132,1;NA
+226;PP_1;226;Myrtaceae;Myrcia hartwegiana;32,4;130;12,4
+227;PP_1;227;Moraceae;Helicostylis tovarensis;37,5;130;NA
+228;PP_1;228;Euphorbiaceae;Croton smithianus;62,7;130;14,2
+229;PP_1;229;Euphorbiaceae;Alchornea grandiflora;39,5;130;9,97
+230;PP_1;230;Actinidiaceae;Saurauia laevigata;37,4;130;NA
+231;PP_1;231;Tapisciaceae;Huertea granadina;36,4;130;NA
+232;PP_1;232;Sapotaceae;;38;130;NA
+233;PP_1;233;Indet;;160,2;130;NA
+234;PP_1;234;Sapotaceae;Pouteria torta;79;130;NA
+235;PP_1;235;Salicaceae;Hasseltia lateriflora;30,6;130;NA
+236;PP_1;236;Indet;;129,3;130;NA
+237;PP_1;237;Rubiaceae;Guettarda crispiflora;38,8;130;NA
+238;PP_1;238;Actinidiaceae;Saurauia laevigata;45,1;130;NA
+239;PP_1;239;Euphorbiaceae;Croton smithianus;68,9;130;19,07
+240;PP_1;240;Cyatheaceae;Alsophila erinacea;33,9;130;8,03
+241;PP_1;241;Staphyleaceae;Turpinia occidentalis;42,9;120;NA
+242;PP_1;242;Staphyleaceae;Turpinia occidentalis;50,6;130;NA
+243;PP_1;243;Euphorbiaceae;Croton killipianus;44,2;130;NA
+244;PP_1;244;Fabaceae;;30,7;130;NA
+245;PP_1;245;Moraceae;Naucleopsis glabra;36,9;137;NA
+246;PP_1;246;Rubiaceae;Faramea flavicans;48,7;NA;NA
+247;PP_1;247;Rubiaceae;Guettarda crispiflora;32;130;11,27
+248;PP_1;248;Rubiaceae;Guettarda crispiflora;71,3;130;NA
+249;PP_1;249;Lauraceae;Nectandra laurel;65,6;130;NA
+250;PP_1;250;Lauraceae;Nectandra laurel;55,5;130;12,13
+251;PP_1;251;Cyatheaceae;Alsophila erinacea;32,8;130;4,6
+252;PP_1;252;Euphorbiaceae;Croton smithianus;56,8;130;NA
+253;PP_1;253;Fabaceae;Macrolobium colombianum;33,5;130;10,03
+254;PP_1;254;Rubiaceae;Guettarda crispiflora;38,5;130;9,2
+255;PP_1;255;Lauraceae;Beilschmiedia pendula;51,1;130;NA
+256;PP_1;256;Euphorbiaceae;Croton smithianus;48,5;139;11,67
+257;PP_1;257;Primulaceae;Myrsine coriacea;43,3;128,1;10,1
+258;PP_1;258;Cyatheaceae;Alsophila incana;39,1;130;NA
+259;PP_1;259;Pentaphylacaceae;Ternstroemia macrocarpa;66,1;130;10,8
+260;PP_1;260;Tapisciaceae;Huertea granadina;72,8;130;10,17
+261;PP_1;261;Tapisciaceae;Huertea granadina;36,1;130;NA
+262;PP_1;262;Rubiaceae;Rudgea sclerocalyx;42,1;130;12,73
+263;PP_1;263;Lauraceae;Beilschmiedia pendula;66,3;130;NA
+264;PP_1;264;Annonaceae;Guatteria goudotiana;33,1;130;NA
+265;PP_1;265;Moraceae;Ficus mutisii;120,1;130;21,77
+266;PP_1;266;Moraceae;Ficus mutisii;39,8;130;10,03
+267;PP_1;267;Rubiaceae;Guettarda crispiflora;39,8;130;9,27
+268;PP_1;268;Rubiaceae;Guettarda crispiflora;41,1;130;2,47
+269;PP_1;269;Actinidiaceae;;31,3;150;NA
+270;PP_2;1;Melastomataceae;Graffenrieda galeottii;50,5;150;13,47
+271;PP_2;2;Euphorbiaceae;Alchornea glandulosa;39,2;130;9,67
+272;PP_2;3;Fabaceae;Abarema lehmannii;47,3;130;14,2
+273;PP_2;4;Fabaceae;Abarema lehmannii;39,1;130;13,83
+274;PP_2;5;Rubiaceae;Guettarda crispiflora;57,2;130;10,43
+275;PP_2;6;Lauraceae;Persea rigens;34,6;130;10,8
+276;PP_2;7;Euphorbiaceae;Croton smithianus;50,5;130;10,9
+277;PP_2;8;Euphorbiaceae;Croton smithianus;42,2;140;7,3
+278;PP_2;9;Hamamelidaceae;Matudaea colombiana;55,4;150;NA
+279;PP_2;10;Hamamelidaceae;Matudaea colombiana;67,5;280;16,9
+280;PP_2;11;Hamamelidaceae;Matudaea colombiana;41,8;130;16
+281;PP_2;12;Fabaceae;Inga multijuga;37,5;130;13,8
+282;PP_2;13;Euphorbiaceae;Croton smithianus;65;133;13,43
+283;PP_2;14;Clethraceae;Clethra fagifolia;45,3;130;NA
+284;PP_2;15;Euphorbiaceae;Croton smithianus;37,2;130;NA
+285;PP_2;16;Hamamelidaceae;Matudaea colombiana;49,5;126;NA
+286;PP_2;17;Rubiaceae;Guettarda crispiflora;46,7;130;NA
+287;PP_2;18;Hamamelidaceae;Matudaea colombiana;100,1;130;15,93
+288;PP_2;19;Hamamelidaceae;Matudaea colombiana;47,8;130;14,23
+289;PP_2;20;Euphorbiaceae;Croton smithianus;51,5;130;13,5
+290;PP_2;21;Euphorbiaceae;Croton smithianus;38,7;130;8,97
+291;PP_2;22;Euphorbiaceae;Croton smithianus;36,8;130;10,93
+292;PP_2;23;Hypericaceae;Vismia baccifera;40,4;130;12,33
+293;PP_2;24;Euphorbiaceae;Croton smithianus;33,4;130;11,2
+294;PP_2;25;Euphorbiaceae;Croton smithianus;34,6;130;10,87
+295;PP_2;26;Euphorbiaceae;Croton smithianus;34,2;130;9,33
+296;PP_2;27;Euphorbiaceae;Croton smithianus;36,3;130;10,03
+297;PP_2;28;Euphorbiaceae;Croton smithianus;40,4;130;15,43
+298;PP_2;29;Euphorbiaceae;Croton smithianus;36,9;130;11,47
+299;PP_2;30;Euphorbiaceae;Croton smithianus;61,5;130;14,73
+300;PP_2;31;Melastomataceae;Miconia tonduzii;40,5;130;9,63
+301;PP_2;32;Euphorbiaceae;Croton smithianus;49,9;130;15,37
+302;PP_2;33;Urticaceae;Cecropia obtusifolia;39,1;130;9,6
+303;PP_2;34;Euphorbiaceae;Croton smithianus;49,8;130;11,57
+304;PP_2;35;Urticaceae;Cecropia obtusifolia;44,5;130;11
+305;PP_2;36;Rubiaceae;;32,4;130;NA
+306;PP_2;37;Urticaceae;Cecropia obtusifolia;NA;130;NA
+307;PP_2;38;Euphorbiaceae;Croton smithianus;69,6;130;15,17
+308;PP_2;39;Brunelliaceae;Brunellia sibundoya;82,7;130;15,73
+309;PP_2;40;Euphorbiaceae;Croton smithianus;61,6;130;15,73
+310;PP_2;41;Melastomataceae;Miconia tonduzii;48;130;NA
+311;PP_2;42;Euphorbiaceae;Sapium cuatrecasii;45,4;130;11,27
+312;PP_2;43;Euphorbiaceae;Sapium cuatrecasii;47,7;130;10,87
+313;PP_2;44;Melastomataceae;Miconia theaezans;38,6;130;10,37
+314;PP_2;45;Fabaceae;Inga multijuga;49,3;130;11,3
+315;PP_2;46;Fagaceae;Quercus humboldtii;77,7;130;12,73
+316;PP_2;47;Primulaceae;Myrsine coriacea;34,7;130;9,77
+317;PP_2;48;Fagaceae;Quercus humboldtii;33,4;130;NA
+318;PP_2;49;Rubiaceae;Guettarda crispiflora;34,1;130;12,27
+319;PP_2;50;Euphorbiaceae;Croton killipianus;37,4;130;12,3
+320;PP_2;51;Rubiaceae;Guettarda crispiflora;37,4;130;NA
+321;PP_2;52;Proteaceae;;71,8;130;15,4
+322;PP_2;53;Lauraceae;Ocotea jelskii;42;130;14,8
+323;PP_2;54;Rubiaceae;Guettarda crispiflora;45,4;130;NA
+324;PP_2;55;Hamamelidaceae;Matudaea colombiana;67,3;130;15,47
+325;PP_2;56;Hamamelidaceae;Matudaea colombiana;42,9;134;14,57
+326;PP_2;57;Lauraceae;Persea rigens;38,2;130;12,1
+327;PP_2;58;Fabaceae;Macrolobium colombianum;37,9;130;14,43
+328;PP_2;59;Rubiaceae;Guettarda crispiflora;37,8;130;10,77
+329;PP_2;60;Indet;;45,9;130;11,23
+330;PP_2;61;Rubiaceae;Guettarda crispiflora;37,3;145;10,93
+331;PP_2;62;Euphorbiaceae;Sapium cuatrecasii;82;233;12,5
+332;PP_2;63;Euphorbiaceae;Croton smithianus;NA;130;8,73
+333;PP_2;64;Euphorbiaceae;Croton smithianus;66,1;130;10,8
+334;PP_2;65;Hamamelidaceae;Matudaea colombiana;34,8;224;13,63
+335;PP_2;66;Fabaceae;Inga sierrae;52,5;130;16,97
+336;PP_2;67;Sabiaceae;;49,2;130;12,63
+337;PP_2;68;Hamamelidaceae;Matudaea colombiana;64;212;14,8
+338;PP_2;69;Hamamelidaceae;Matudaea colombiana;75,9;139;15,93
+339;PP_2;70;Hamamelidaceae;Matudaea colombiana;57,4;130;13,93
+340;PP_2;71;Moraceae;Ficus mutisii;56,4;130;15,53
+341;PP_2;72;Rubiaceae;Guettarda crispiflora;37,8;130;13,4
+342;PP_2;73;Lauraceae;;32,1;130;NA
+343;PP_2;74;Arecaceae;Geonoma undata;34,5;130;9,77
+344;PP_2;75;Fabaceae;Abarema lehmannii;58,6;130;13,7
+345;PP_2;76;Euphorbiaceae;Alchornea glandulosa;31,7;124;12,13
+346;PP_2;77;Melastomataceae;Miconia longifolia;30,3;120;8,93
+347;PP_2;78;Hamamelidaceae;Matudaea colombiana;51,2;130;NA
+348;PP_2;79;Fagaceae;Quercus humboldtii;36,8;130;13,9
+349;PP_2;80;Primulaceae;Myrsine coriacea;34,4;130;12,03
+350;PP_2;81;Euphorbiaceae;Croton smithianus;41,7;130;16,13
+351;PP_2;82;Staphyleaceae;Turpinia occidentalis;40,2;130;9,93
+352;PP_2;83;Sapotaceae;Pouteria torta;61,6;130;15,03
+353;PP_2;84;Clethraceae;Clethra fagifolia;75;130;19,13
+354;PP_2;85;Lauraceae;Endlicheria metallica;52,2;130;15,23
+355;PP_2;86;Urticaceae;;58,8;130;12,63
+356;PP_2;87;Lauraceae;;32,2;130;11,63
+357;PP_2;88;Lecythidaceae;Eschweilera albiflora;31,7;130;NA
+358;PP_2;89;Euphorbiaceae;Croton smithianus;89,7;130;17,43
+359;PP_2;90;Proteaceae;Euplassa duquei;72,2;130;17,63
+360;PP_2;91;Euphorbiaceae;Alchornea glandulosa;38,3;130;10,83
+361;PP_2;92;Staphyleaceae;Turpinia occidentalis;43,2;130;10,27
+362;PP_2;93;Primulaceae;Myrsine coriacea;31,4;130;11
+363;PP_2;94;Lauraceae;Aiouea dubia;33,6;130;10,4
+364;PP_2;95;Euphorbiaceae;Croton smithianus;68,8;130;11,77
+365;PP_2;96;Rubiaceae;Guettarda crispiflora;46,6;153;NA
+366;PP_2;97;Lauraceae;Aiouea dubia;45,3;130;NA
+367;PP_2;98;Moraceae;Ficus mutisii;85,7;153;17,97
+368;PP_2;99;Lauraceae;Ocotea macrophylla;49,1;130;NA
+369;PP_2;100;Indet;;73,4;130;13,6
+370;PP_2;101;Urticaceae;;67,2;130;13,53
+371;PP_2;102;Euphorbiaceae;Sapium cuatrecasii;52,4;130;14,53
+372;PP_2;103;Euphorbiaceae;Sapium cuatrecasii;34,8;130;12,47
+373;PP_2;104;Fabaceae;Abarema lehmannii;43,5;130;13,17
+374;PP_2;105;Staphyleaceae;Turpinia occidentalis;37,6;130;11,1
+375;PP_2;106;Staphyleaceae;Turpinia occidentalis;35,3;130;10,83
+376;PP_2;107;Euphorbiaceae;Croton smithianus;97,5;130;17,67
+377;PP_2;108;Rubiaceae;Guettarda crispiflora;60,1;130;NA
+378;PP_2;109;Lauraceae;;57,7;130;15,4
+379;PP_2;110;Fabaceae;Abarema lehmannii;65;130;15,33
+380;PP_2;111;Myrtaceae;Myrcia hartwegiana;32,4;130;10,73
+381;PP_2;112;Rubiaceae;Guettarda crispiflora;65,2;166;10,87
+382;PP_2;113;Elaeocarpaceae;;36,1;130;12,97
+383;PP_2;114;Cyatheaceae;Alsophila erinacea;31,7;127;3,2
+384;PP_2;115;Clethraceae;Clethra fagifolia;94,8;130;18,23
+385;PP_2;116;Euphorbiaceae;Croton smithianus;54,7;130;17,6
+386;PP_2;117;Rubiaceae;Guettarda crispiflora;41;130;11,37
+387;PP_2;118;Lauraceae;Nectandra acutifolia;62,7;130;13,9
+388;PP_2;119;Staphyleaceae;Turpinia occidentalis;46,6;130;11,6
+389;PP_2;120;Phyllanthaceae;Hieronyma antioquensis;52,1;130;14,13
+390;PP_2;121;Fabaceae;Abarema lehmannii;41,9;130;12,33
+391;PP_2;122;Staphyleaceae;Turpinia occidentalis;48,6;130;11,63
+392;PP_2;123;Euphorbiaceae;Croton smithianus;43;130;14,27
+393;PP_2;124;Euphorbiaceae;Croton smithianus;71,9;130;16,2
+394;PP_2;125;Euphorbiaceae;Croton smithianus;65;130;13,9
+395;PP_2;126;Euphorbiaceae;Croton smithianus;67,7;130;15,23
+396;PP_2;127;Euphorbiaceae;Croton smithianus;45,5;130;13,87
+397;PP_2;128;Lauraceae;;32,5;130;NA
+398;PP_2;129;Euphorbiaceae;Alchornea glandulosa;30,4;130;9,57
+399;PP_2;130;Rubiaceae;Guettarda crispiflora;40,2;130;8,3
+400;PP_2;131;Urticaceae;;53,3;130;12,2
+401;PP_2;132;Indet;;48,3;130;11,63
+402;PP_2;133;Indet;;62,7;130;12,07
+403;PP_2;134;Indet;;50,4;130;13,33
+404;PP_2;135;Cannabaceae;Trema micrantha;33,2;130;9,1
+405;PP_2;136;Rubiaceae;Guettarda crispiflora;46,8;130;NA
+406;PP_2;137;Cannabaceae;Trema micrantha;44,7;130;10,53
+407;PP_2;138;Cannabaceae;Trema micrantha;33,2;130;7,23
+408;PP_2;139;Brunelliaceae;Brunellia sibundoya;72,2;130;13,5
+409;PP_2;140;Asteraceae;Verbesina nudipes;35,3;130;NA
+410;PP_2;141;Brunelliaceae;Brunellia sibundoya;46,9;130;11,93
+411;PP_2;142;Euphorbiaceae;Croton smithianus;83,5;130;17,7
+412;PP_2;143;Euphorbiaceae;Croton smithianus;58,9;130;14,5
+413;PP_2;144;Brunelliaceae;Brunellia sibundoya;89,5;130;15,87
+414;PP_2;145;Urticaceae;Pourouma bicolor;49,8;130;13,07
+415;PP_2;146;Cannabaceae;Trema micrantha;38,3;130;9,03
+416;PP_2;147;Cannabaceae;Trema micrantha;34,1;130;NA
+417;PP_2;148;Rubiaceae;Guettarda crispiflora;40,7;130;10,77
+418;PP_2;149;Rubiaceae;Guettarda crispiflora;43;130;NA
+419;PP_2;150;Rubiaceae;Guettarda crispiflora;37,9;130;NA
+420;PP_2;151;Phyllanthaceae;Hieronyma antioquensis;46,2;130;13,03
+421;PP_2;152;Rubiaceae;Guettarda crispiflora;48,9;130;10,8
+422;PP_2;153;Melastomataceae;Miconia tonduzii;42,1;130;8,07
+423;PP_2;154;Rubiaceae;Guettarda crispiflora;38,3;130;8,67
+424;PP_2;155;Urticaceae;Cecropia angustifolia;44,2;135;10,7
+425;PP_2;156;Indet;;53,9;130;NA
+426;PP_2;157;Rubiaceae;Guettarda crispiflora;42,2;130;8,37
+427;PP_2;158;Brunelliaceae;Brunellia sibundoya;54,7;143;9,13
+428;PP_2;159;Melastomataceae;Miconia theaezans;37,8;134;7,4
+429;PP_2;160;Primulaceae;Myrsine coriacea;32,3;130;NA
+430;PP_2;161;Melastomataceae;Miconia theaezans;32,9;130;NA
+431;PP_2;162;Arecaceae;Geonoma undata;32,1;130;10,7
+432;PP_2;163;Tapisciaceae;Huertea granadina;45,1;130;12,27
+433;PP_2;164;Sapotaceae;Pouteria lucuma;42,2;130;13,03
+434;PP_2;165;Rubiaceae;Guettarda crispiflora;65,8;130;15,43
+435;PP_2;166;Tapisciaceae;Huertea granadina;67,3;130;13
+436;PP_2;167;Euphorbiaceae;Croton smithianus;70,8;136;26,27
+437;PP_2;168;Tapisciaceae;Huertea granadina;64,3;130;15,17
+438;PP_2;169;Euphorbiaceae;Croton killipianus;40,9;130;10,8
+439;PP_2;170;Moraceae;Helicostylis tovarensis;35,8;130;11,7
+440;PP_2;171;Rubiaceae;Guettarda crispiflora;42,4;130;11,07
+441;PP_2;172;Euphorbiaceae;Croton smithianus;95,2;150;NA
+442;PP_2;173;Lauraceae;Ocotea macrophylla;30,3;130;NA
+443;PP_2;174;Hamamelidaceae;Matudaea colombiana;86,1;130;13,53
+444;PP_2;175;Salicaceae;Hasseltia lateriflora;39,6;130;14,43
+445;PP_2;176;Euphorbiaceae;Croton smithianus;104,9;171;12,07
+446;PP_2;177;Lauraceae;Ocotea jelskii;71;130;15,7
+447;PP_2;178;Lauraceae;Ocotea jelskii;45,9;180;15,3
+448;PP_2;179;Lauraceae;Ocotea jelskii;39,9;130;13,1
+449;PP_2;180;Clethraceae;Clethra fagifolia;37,8;130;12,9
+450;PP_2;181;Euphorbiaceae;Sapium cuatrecasii;33,5;130;10,97
+451;PP_2;182;Lauraceae;;55,4;130;16,2
+452;PP_2;183;Moraceae;Morus insignis;63,3;130;15,57
+453;PP_2;184;Rubiaceae;Guettarda crispiflora;41,6;130;NA
+454;PP_2;185;Annonaceae;Guatteria goudotiana;41,1;130;18,83
+455;PP_2;186;Annonaceae;Guatteria goudotiana;42,1;130;13,77
+456;PP_2;187;Sapindaceae;Matayba elegans;72,1;130;11,13
+457;PP_2;188;Fabaceae;Inga multijuga;65,7;130;17,07
+458;PP_2;189;Fabaceae;Macrolobium colombianum;34,9;130;10,97
+459;PP_2;190;Rubiaceae;Guettarda crispiflora;37,3;130;9,7
+460;PP_2;191;Indet;;63;130;10,8
+461;PP_2;192;Indet;;45,3;130;11,8
+462;PP_2;193;Urticaceae;;87,9;130;15,73
+463;PP_2;194;Fabaceae;Inga multijuga;45,1;130;10,5
+464;PP_2;195;Rubiaceae;Guettarda crispiflora;42;130;10,23
+465;PP_2;196;Magnoliaceae;Magnolia espinalii;43,8;130;13,77
+466;PP_2;197;Rubiaceae;Guettarda crispiflora;73,6;130;NA
+467;PP_2;198;Clethraceae;Clethra fagifolia;41,1;130;NA
+468;PP_2;199;Clethraceae;Clethra fagifolia;77,7;130;18,8
+469;PP_2;200;Euphorbiaceae;Croton smithianus;48,2;130;14,2
+470;PP_2;201;Melastomataceae;Miconia tonduzii;42,2;130;7,7
+471;PP_2;202;Moraceae;;35,9;130;10,8
+472;PP_2;203;Sapindaceae;Billia rosea;38,8;130;12,7
+473;PP_2;204;Hamamelidaceae;Matudaea colombiana;33;130;NA
+474;PP_2;205;Hamamelidaceae;Matudaea colombiana;36,6;130;NA
+475;PP_2;206;Proteaceae;Euplassa duquei;31,6;130;NA
+476;PP_2;207;Rubiaceae;Ladenbergia oblongifolia;33,5;130;NA
+477;PP_2;208;Moraceae;Ficus macbridei;33,5;130;NA
+478;PP_2;209;Euphorbiaceae;Croton smithianus;75;130;19,07
+479;PP_2;210;Fabaceae;Abarema lehmannii;34,1;130;11,23
+480;PP_2;211;Fabaceae;Abarema lehmannii;39;130;13,1
+481;PP_2;212;Rubiaceae;Guettarda crispiflora;36,4;130;10,47
+482;PP_2;213;Cannabaceae;Trema micrantha;35,5;130;11,47
+483;PP_2;214;Cannabaceae;Trema micrantha;46,2;130;11
+484;PP_2;215;Cannabaceae;Trema micrantha;46,4;130;9,37
+485;PP_2;216;Melastomataceae;Miconia tonduzii;34,6;130;NA
+486;PP_2;217;Euphorbiaceae;Croton killipianus;50;130;13,03
+487;PP_2;218;Euphorbiaceae;Croton killipianus;64,9;132;NA
+488;PP_2;219;Euphorbiaceae;Croton killipianus;53;130;12,23
+489;PP_2;220;Urticaceae;;42,2;130;11,07
+490;PP_2;221;Rubiaceae;Guettarda crispiflora;58,2;130;13,57
+491;PP_2;222;Cyatheaceae;Cyathea divergens;44,7;130;7,2
+492;PP_2;223;Brunelliaceae;Brunellia sibundoya;59,9;130;10,17
+493;PP_2;224;Euphorbiaceae;Croton smithianus;51,9;130;16,8
+494;PP_2;225;Moraceae;Morus insignis;77,9;130;12,17
+495;PP_2;226;Moraceae;Morus insignis;87,4;130;14,07
+496;PP_2;227;Melastomataceae;Miconia tonduzii;50,1;130;14,73
+497;PP_2;228;Cannabaceae;Trema micrantha;37,2;130;9,33
+498;PP_2;229;Tapisciaceae;Huertea granadina;49,3;130;14,27
+499;PP_2;230;Tapisciaceae;Huertea granadina;59;130;14,73
+500;PP_2;231;Tapisciaceae;Huertea granadina;48,9;130;10,87
+501;PP_2;232;Brunelliaceae;Brunellia sibundoya;56,3;130;11,43
+502;PP_2;233;Cannabaceae;Trema micrantha;47,5;130;9,83
+503;PP_2;234;Rubiaceae;Guettarda crispiflora;47;130;10,63
+504;PP_2;235;Euphorbiaceae;Sapium cuatrecasii;46,3;130;11,23
+505;PP_2;236;Euphorbiaceae;Sapium cuatrecasii;38,1;130;10,27
+506;PP_2;237;Cannabaceae;Trema micrantha;36,6;130;10,63
+507;PP_2;238;Brunelliaceae;Brunellia sibundoya;40,5;130;10,53
+508;PP_2;239;Cannabaceae;Trema micrantha;42,4;130;NA
+509;PP_2;240;Euphorbiaceae;Croton smithianus;54,5;130;11,43
+510;PP_2;241;Brunelliaceae;Brunellia sibundoya;37;130;10,97
+511;PP_2;242;Cannabaceae;Trema micrantha;51,3;125;6,7
+512;PP_2;243;Rubiaceae;Guettarda crispiflora;38,2;132;NA
+513;PP_2;244;Lauraceae;;36;130;NA
+514;PP_2;245;Euphorbiaceae;;33,2;130;NA
+515;PP_3;1;Linaceae;;69,5;130;NA
+516;PP_3;2;Sapotaceae;Chrysophyllum argenteum;56,4;130;NA
+517;PP_3;3;Myristicaceae;;65,3;130;NA
+518;PP_3;4;Myristicaceae;;45,9;130;NA
+519;PP_3;5;Fagaceae;Quercus humboldtii;75,7;130;19
+520;PP_3;6;Fabaceae;Ormosia cuatrecasasii;41,3;262;NA
+521;PP_3;7;Fabaceae;;34,3;130;NA
+522;PP_3;8;Fabaceae;Ormosia cuatrecasasii;36,4;130;15,75
+523;PP_3;9;Sapotaceae;Chrysophyllum argenteum;46,1;130;14,88
+524;PP_3;10;Rubiaceae;Elaeagia pastoensis;67,5;130;NA
+525;PP_3;11;Erythroxylaceae;Erythroxylum citrifolium;61,7;130;NA
+526;PP_3;12;Lauraceae;Ocotea balanocarpa;55;130;NA
+527;PP_3;13;Malvaceae;Quararibea intricata;40,3;130;11,17
+528;PP_3;14;Myristicaceae;;NA;130;NA
+529;PP_3;15;Lauraceae;;57,8;130;NA
+530;PP_3;16;Indet;;43,6;130;13,92
+531;PP_3;17;Clusiaceae;Tovomita weddelliana;50,2;130;NA
+532;PP_3;18;Calophyllaceae;;52,4;130;NA
+533;PP_3;19;Sapotaceae;Chrysophyllum argenteum;80,9;130;NA
+534;PP_3;20;Salicaceae;;62,5;130;NA
+535;PP_3;21;Burseraceae;Protium tovarense;43,2;130;NA
+536;PP_3;22;Fabaceae;Macrolobium gracile;39,2;130;NA
+537;PP_3;23;Chloranthaceae;Hedyosmum bonplandianum;39,4;150;NA
+538;PP_3;24;Arecaceae;Wettinia kalbreyeri;34,1;130;NA
+539;PP_3;25;Hypericaceae;Vismia laevis;37,7;130;NA
+540;PP_3;26;Lauraceae;;79,8;130;21,8
+541;PP_3;27;Rubiaceae;Elaeagia pastoensis;32,5;130;NA
+542;PP_3;28;Rubiaceae;Elaeagia utilis;47,5;NA;13,13
+543;PP_3;29;Melastomataceae;;NA;235;NA
+544;PP_3;30;Myristicaceae;;72,3;130;NA
+545;PP_3;31;Burseraceae;Dacryodes belemensis;40,6;130;17
+546;PP_3;32;Melastomataceae;Miconia plena;56,3;130;NA
+547;PP_3;33;Melastomataceae;Miconia plena;33,2;NA;NA
+548;PP_3;34;Fagaceae;Quercus humboldtii;95,9;130;NA
+549;PP_3;35;Arecaceae;Euterpe precatoria;41,5;130;NA
+550;PP_3;36;Lecythidaceae;Eschweilera sessilis;47,7;130;17,36
+551;PP_3;37;Fagaceae;Quercus humboldtii;92,4;130;NA
+552;PP_3;38;Anacardiaceae;Tapirira guianensis;65,9;130;NA
+553;PP_3;39;Fagaceae;Quercus humboldtii;54,3;130;17,8
+554;PP_3;40;Fabaceae;Cynometra bauhiniifolia;36,1;130;NA
+555;PP_3;41;Lecythidaceae;Eschweilera sessilis;50,5;130;13,6
+556;PP_3;42;Myristicaceae;Virola sebifera;83,9;130;NA
+557;PP_3;43;Melastomataceae;;40,5;130;NA
+558;PP_3;44;Rhamnaceae;Frangula sphaerosperma;44,9;130;NA
+559;PP_3;45;Fagaceae;Quercus humboldtii;89,1;130;NA
+560;PP_3;46;Burseraceae;;83,2;130;NA
+561;PP_3;47;Clusiaceae;Tovomita weddelliana;35,9;130;NA
+562;PP_3;48;Myristicaceae;Virola sebifera;52,4;130;18,43
+563;PP_3;49;Indet;;49,9;130;12,89
+564;PP_3;50;Fabaceae;Macrolobium gracile;44,6;130;16,08
+565;PP_3;51;Rubiaceae;Elaeagia pastoensis;61,3;130;NA
+566;PP_3;52;Burseraceae;Protium colombianum;111,5;130;NA
+567;PP_3;53;Lauraceae;;45,2;130;NA
+568;PP_3;54;Fagaceae;Quercus humboldtii;50,8;145;NA
+569;PP_3;55;Melastomataceae;;45,3;130;NA
+570;PP_3;56;Burseraceae;Dacryodes belemensis;39,4;130;NA
+571;PP_3;57;Clusiaceae;Tovomita weddelliana;38,2;130;NA
+572;PP_3;58;Lauraceae;;32,9;130;NA
+573;PP_3;59;Indet;;101,1;130;NA
+574;PP_3;60;Fagaceae;Quercus humboldtii;53,4;130;NA
+575;PP_3;61;Sapotaceae;Chrysophyllum argenteum;124,5;130;26
+576;PP_3;62;Apocynaceae;Aspidosperma desmanthum;35,1;130;13,5
+577;PP_3;63;Clusiaceae;Tovomita weddelliana;37,7;130;NA
+578;PP_3;64;Fabaceae;Ormosia cuatrecasasii;50,2;130;NA
+579;PP_3;65;Burseraceae;Dacryodes belemensis;55,1;130;13,15
+580;PP_3;66;Fagaceae;Quercus humboldtii;57,7;130;NA
+581;PP_3;67;Myristicaceae;;84;130;11,3
+582;PP_3;68;Lauraceae;;47,4;130;10,65
+583;PP_3;69;Arecaceae;Wettinia kalbreyeri;32,9;130;NA
+584;PP_3;70;Clusiaceae;Tovomita weddelliana;35,7;130;NA
+585;PP_3;71;Rubiaceae;Ladenbergia macrocarpa;43;130;NA
+586;PP_3;72;Myristicaceae;;62,3;130;NA
+587;PP_3;73;Fabaceae;Cynometra bauhiniifolia;61,4;130;19,5
+588;PP_3;74;Ochnaceae;;91,6;NA;NA
+589;PP_3;75;Lauraceae;Persea cuneata;85,2;180;NA
+590;PP_3;76;Fabaceae;;69;130;NA
+591;PP_3;77;Melastomataceae;Graffenrieda micrantha;40,6;130;12,06
+592;PP_3;78;Sapindaceae;;55,9;130;22,02
+593;PP_3;79;Melastomataceae;;41,4;130;NA
+594;PP_3;80;Myristicaceae;Virola sebifera;83,5;130;21,02
+595;PP_3;81;Rubiaceae;Elaeagia pastoensis;58,4;130;17,2
+596;PP_3;82;Clusiaceae;Tovomita weddelliana;34,8;130;13,52
+597;PP_3;83;Myristicaceae;Virola sebifera;89;130;NA
+598;PP_3;84;Primulaceae;Geissanthus occidentalis;38,2;130;NA
+599;PP_3;85;Myrtaceae;;48,3;130;16,55
+600;PP_3;86;Myristicaceae;Virola sebifera;NA;130;NA
+601;PP_3;87;Anacardiaceae;Tapirira guianensis;65,6;140;19,4
+602;PP_3;88;Magnoliaceae;Magnolia yarumalensis;64,7;130;NA
+603;PP_3;89;Fagaceae;Quercus humboldtii;133,9;130;26,4
+604;PP_3;90;Phyllanthaceae;Hieronyma oblonga;33,7;130;15,7
+605;PP_3;91;Fabaceae;Cynometra bauhiniifolia;35,3;130;10,75
+606;PP_3;92;Hypericaceae;Vismia laevis;36,2;130;NA
+607;PP_3;93;Euphorbiaceae;Alchornea triplinervia;62,1;130;NA
+608;PP_3;94;Hypericaceae;Vismia laevis;35;130;NA
+609;PP_3;95;Melastomataceae;;49,8;130;13,4
+610;PP_3;96;Vochysiaceae;;54,4;130;14,03
+611;PP_3;97;Chloranthaceae;Hedyosmum bonplandianum;33,5;130;12,8
+612;PP_3;98;Arecaceae;Wettinia kalbreyeri;39,8;130;NA
+613;PP_3;99;Hypericaceae;Vismia laevis;37,7;150;NA
+614;PP_3;100;Hypericaceae;Vismia laevis;48,2;130;NA
+615;PP_3;101;Sapotaceae;;47,2;130;15,5
+616;PP_3;102;Sapotaceae;;64,5;150;NA
+617;PP_3;103;Lauraceae;Endlicheria tschudyana;39,2;130;12,5
+618;PP_3;104;Chloranthaceae;Hedyosmum bonplandianum;40,7;252;NA
+619;PP_3;105;Salicaceae;Macrohasseltia macroterantha;42;130;NA
+620;PP_3;106;Anacardiaceae;Tapirira guianensis;43,9;130;13,01
+621;PP_3;107;Lauraceae;;56,4;130;19,5
+622;PP_3;108;Melastomataceae;Blakea quadrangularis;32,7;130;NA
+623;PP_3;109;Fagaceae;Quercus humboldtii;102;130;11,69
+624;PP_3;110;Linaceae;;35,7;130;13
+625;PP_3;111;Fabaceae;Ormosia cuatrecasasii;74,4;130;NA
+626;PP_3;112;Anacardiaceae;Tapirira guianensis;54,2;130;NA
+627;PP_3;113;Sapotaceae;;45,5;130;NA
+628;PP_3;114;Linaceae;;59,9;130;19
+629;PP_3;115;Burseraceae;;65,1;130;19,1
+630;PP_3;116;Lauraceae;;33,9;130;NA
+631;PP_3;117;Euphorbiaceae;Tetrorchidium andinum;57,7;130;NA
+632;PP_3;118;Linaceae;;46,5;130;NA
+633;PP_3;119;Fabaceae;Ormosia cuatrecasasii;44,6;130;13,68
+634;PP_3;120;Fabaceae;Ormosia cuatrecasasii;60,9;130;11,94
+635;PP_3;121;Clusiaceae;Tovomita weddelliana;59;130;15,3
+636;PP_3;122;Lauraceae;;35,1;130;NA
+637;PP_3;123;Linaceae;;67,5;150;18,5
+638;PP_3;124;Burseraceae;Protium tovarense;48;130;NA
+639;PP_3;125;Sapotaceae;Chrysophyllum argenteum;59,6;130;NA
+640;PP_3;126;Rubiaceae;Ladenbergia macrocarpa;38,6;130;NA
+641;PP_3;127;Fabaceae;Ormosia cuatrecasasii;69,4;130;NA
+642;PP_3;128;Burseraceae;Dacryodes belemensis;35,8;130;15,3
+643;PP_3;129;Fagaceae;Quercus humboldtii;92,8;130;16
+644;PP_3;130;Burseraceae;Protium tovarense;55,6;130;14,7
+645;PP_3;131;Elaeocarpaceae;Sloanea parvifructa;38,9;130;NA
+646;PP_3;132;Sapotaceae;Chrysophyllum argenteum;48,3;130;NA
+647;PP_3;133;Burseraceae;Dacryodes belemensis;52,8;130;NA
+648;PP_3;134;Myristicaceae;;72,7;130;12
+649;PP_3;135;Linaceae;;33,6;130;16,49
+650;PP_3;136;Chrysobalanaceae;;43;130;NA
+651;PP_3;137;Fagaceae;Quercus humboldtii;69,7;130;18,5
+652;PP_3;138;Vochysiaceae;;52,9;130;15
+653;PP_3;139;Sapotaceae;Chrysophyllum argenteum;83,3;130;NA
+654;PP_3;140;Clusiaceae;Tovomita weddelliana;41,7;130;NA
+655;PP_3;141;Linaceae;;53;130;14,3
+656;PP_3;142;Myristicaceae;Virola sebifera;43;130;15,2
+657;PP_3;143;Fabaceae;;48,8;130;15,6
+658;PP_3;144;Primulaceae;Geissanthus occidentalis;33,8;130;NA
+659;PP_3;145;Primulaceae;Myrsine guianensis;58,8;130;NA
+660;PP_3;146;Fagaceae;Quercus humboldtii;88,9;130;26,21
+661;PP_3;147;Lecythidaceae;Eschweilera sessilis;41;130;NA
+662;PP_3;148;Burseraceae;Protium tovarense;36,5;130;NA
+663;PP_3;149;Lecythidaceae;Eschweilera sessilis;86,3;130;NA
+664;PP_3;150;Fabaceae;Cynometra bauhiniifolia;52,3;130;NA
+665;PP_3;151;Clusiaceae;;39,1;130;NA
+666;PP_3;152;Linaceae;;51,7;130;14,65
+667;PP_3;153;Burseraceae;Protium tovarense;33,6;130;NA
+668;PP_3;154;Lauraceae;;40,5;130;NA
+669;PP_3;155;Fabaceae;Ormosia cuatrecasasii;59,5;130;NA
+670;PP_3;156;Erythroxylaceae;Erythroxylum citrifolium;58,3;130;NA
+671;PP_3;157;Linaceae;;61,5;130;NA
+672;PP_3;158;Myrtaceae;;33;130;NA
+673;PP_3;159;Clusiaceae;Tovomita weddelliana;51,1;130;NA
+674;PP_3;160;Rubiaceae;Elaeagia pastoensis;59,3;130;20,2
+675;PP_3;161;Lecythidaceae;Eschweilera sessilis;48,8;130;NA
+676;PP_3;162;Lauraceae;;62,8;130;NA
+677;PP_3;163;Burseraceae;Protium tovarense;50,9;130;15,61
+678;PP_3;164;Anacardiaceae;Tapirira guianensis;51,4;NA;14,5
+679;PP_3;165;Clusiaceae;Tovomita weddelliana;40,3;130;16
+680;PP_3;166;Burseraceae;Protium tovarense;53,5;130;NA
+681;PP_3;167;Indet;;73,4;130;NA
+682;PP_3;168;Myrtaceae;;41,8;130;13,8
+683;PP_3;169;Linaceae;;43,9;130;18
+684;PP_3;170;Sapotaceae;Chrysophyllum argenteum;87,3;130;NA
+685;PP_3;171;Melastomataceae;Miconia plena;36,1;130;13,3
+686;PP_3;172;Anacardiaceae;Tapirira guianensis;45;130;NA
+687;PP_3;173;Euphorbiaceae;Alchornea triplinervia;51,5;130;NA
+688;PP_3;174;Euphorbiaceae;Alchornea triplinervia;43,9;130;NA
+689;PP_3;175;Burseraceae;Dacryodes belemensis;34,7;130;7,6
+690;PP_3;176;Myristicaceae;;31,4;130;11,8
+691;PP_3;177;Melastomataceae;Miconia plena;35,4;130;16,84
+692;PP_3;178;Melastomataceae;Graffenrieda micrantha;37,8;130;9,01
+693;PP_3;179;Clusiaceae;Tovomita weddelliana;48,9;130;NA
+694;PP_3;180;Burseraceae;Protium tovarense;67,4;130;NA
+695;PP_3;181;Linaceae;;50,7;130;NA
+696;PP_3;182;Fabaceae;Ormosia cuatrecasasii;56;130;NA
+697;PP_3;183;Linaceae;;55,3;130;NA
+698;PP_3;184;Anacardiaceae;Tapirira guianensis;54,1;130;NA
+699;PP_3;185;Arecaceae;Euterpe precatoria;42,6;130;NA
+700;PP_3;186;Rubiaceae;Elaeagia pastoensis;40,6;130;11,7
+701;PP_3;187;Fabaceae;Inga heterophylla;42,2;130;10,18
+702;PP_3;188;Lauraceae;;42,8;130;NA
+703;PP_3;189;Fagaceae;Quercus humboldtii;91,7;130;16,4
+704;PP_3;190;Euphorbiaceae;Alchornea glandulosa;38,9;130;NA
+705;PP_3;191;Erythroxylaceae;Erythroxylum citrifolium;39,3;130;NA
+706;PP_3;192;Myrtaceae;;36,1;130;NA
+707;PP_3;193;Linaceae;;52,7;130;16,1
+708;PP_3;194;Clusiaceae;;33,6;130;14,1
+709;PP_3;195;Vochysiaceae;;49,4;128;20,1
+710;PP_3;196;Fabaceae;Macrolobium gracile;33,6;130;14,8
+711;PP_3;197;Dichapetalaceae;Stephanopodium aptotum;44,2;130;NA
+712;PP_3;198;Burseraceae;Protium tovarense;44,1;130;12,8
+713;PP_3;199;Rubiaceae;Ladenbergia macrocarpa;48,7;130;NA
+714;PP_3;200;Clusiaceae;Tovomita weddelliana;36,1;130;NA
+715;PP_3;201;Clusiaceae;Tovomita weddelliana;45;130;NA
+716;PP_3;202;Clusiaceae;;59,9;130;13,5
+717;PP_3;203;Fabaceae;Macrolobium gracile;32,6;125;NA
+718;PP_3;204;Clusiaceae;Tovomita weddelliana;35,9;130;NA
+719;PP_3;205;Burseraceae;Protium tovarense;52,3;130;NA
+720;PP_3;206;Clusiaceae;Tovomita weddelliana;39,9;126;12,3
+721;PP_3;207;Clusiaceae;;40;130;NA
+722;PP_3;208;Clusiaceae;Tovomita weddelliana;48,7;130;NA
+723;PP_3;209;Clusiaceae;Tovomita weddelliana;37,1;130;NA
+724;PP_3;210;Lauraceae;;59,3;130;NA
+725;PP_3;211;Clusiaceae;Tovomita weddelliana;78,5;130;NA
+726;PP_3;212;Rubiaceae;Elaeagia pastoensis;39,3;130;NA
+727;PP_3;213;Fabaceae;Ormosia cuatrecasasii;43,4;130;13,08
+728;PP_3;214;Fabaceae;Ormosia cuatrecasasii;38,4;130;NA
+729;PP_3;215;Burseraceae;Protium tovarense;52,8;130;NA
+730;PP_3;216;Fagaceae;Quercus humboldtii;141,3;130;NA
+731;PP_3;217;Linaceae;;60,2;130;13
+732;PP_3;218;Rosaceae;Prunus opaca;58,4;130;NA
+733;PP_3;219;Clusiaceae;Tovomita weddelliana;35,8;180;NA
+734;PP_3;220;Vochysiaceae;;40;130;NA
+735;PP_3;221;Melastomataceae;;38,2;130;15
+736;PP_3;222;Myristicaceae;Virola sebifera;45,6;130;12,8
+737;PP_3;223;Viburnaceae;Viburnum toronis;38,2;130;NA
+738;PP_3;224;Hypericaceae;Vismia laevis;43,1;130;NA
+739;PP_3;225;Melastomataceae;;34,7;130;12,01
+740;PP_3;226;Lauraceae;;40,7;130;NA
+741;PP_3;227;Fagaceae;Quercus humboldtii;37,4;130;NA
+742;PP_3;228;Burseraceae;;40,5;130;14
+743;PP_3;229;Burseraceae;;33,9;130;NA
+744;PP_3;230;Fabaceae;;34,2;130;NA
+745;PP_3;231;Fagaceae;Quercus humboldtii;57;130;16,5
+746;PP_3;232;Sapotaceae;Chrysophyllum argenteum;50,3;130;NA
+747;PP_3;233;Anacardiaceae;Tapirira guianensis;65,7;130;16,5
+748;PP_3;234;Fabaceae;Ormosia cuatrecasasii;56,4;130;NA
+749;PP_3;235;Indet;;61,9;130;12,2
+750;PP_3;236;Fabaceae;Ormosia cuatrecasasii;33,8;130;13,3
+751;PP_3;237;Fagaceae;Quercus humboldtii;45,5;130;14,3
+752;PP_3;238;Rubiaceae;Ladenbergia macrocarpa;54,2;130;NA
+753;PP_3;239;Fagaceae;Quercus humboldtii;61,9;130;16,5
+754;PP_3;240;Sapotaceae;Chrysophyllum argenteum;35,4;130;13,68
+755;PP_3;241;Fagaceae;Quercus humboldtii;45,3;130;NA
+756;PP_3;242;Araliaceae;Schefflera jahnii;38,5;130;NA
+757;PP_3;243;Fabaceae;;76,8;130;NA
+758;PP_3;244;Clusiaceae;;58,7;180;NA
+759;PP_3;245;Burseraceae;Protium tovarense;40,7;130;11,6
+760;PP_3;246;Lauraceae;;62,3;130;NA
+761;PP_3;247;Melastomataceae;Miconia spicellata;35,8;130;NA
+762;PP_3;248;Clusiaceae;Tovomita weddelliana;40,4;130;NA
+763;PP_3;249;Lauraceae;;36;130;NA
+764;PP_3;250;Linaceae;;45,1;130;13,19
+765;PP_3;251;Primulaceae;Geissanthus occidentalis;41;145;NA
+766;PP_3;252;Vochysiaceae;;47,5;130;9,29
+767;PP_3;253;Clusiaceae;Clusia hydrogera;42,9;130;NA
+768;PP_3;254;Cunoniaceae;Weinmannia multijuga;39,9;130;NA
+769;PP_3;255;Sapotaceae;;52,5;130;NA
+770;PP_3;256;Fabaceae;Ormosia cuatrecasasii;43,4;130;NA
+771;PP_3;257;Rhizophoraceae;Sterigmapetalum colombianum;50,6;130;NA
+772;PP_3;258;Linaceae;;50,4;130;NA
+773;PP_3;259;Rubiaceae;Ladenbergia macrocarpa;33,7;130;NA
+774;PP_3;260;Myrtaceae;;84,6;130;NA
+775;PP_3;261;Lauraceae;;59,2;130;NA
+776;PP_3;262;Fabaceae;Ormosia cuatrecasasii;40,9;130;15,18
+777;PP_3;263;Calophyllaceae;;36,6;130;NA
+778;PP_3;264;Fagaceae;Quercus humboldtii;77,2;130;20,73
+779;PP_3;265;Clusiaceae;;44;130;NA
+780;PP_3;266;Burseraceae;Dacryodes belemensis;35,9;130;NA
+781;PP_3;267;Vochysiaceae;;34,8;179;NA
+782;PP_3;268;Fabaceae;Ormosia cuatrecasasii;41,1;130;12,44
+783;PP_3;269;Fagaceae;Quercus humboldtii;80,5;130;17
+784;PP_3;270;Calophyllaceae;;32,8;130;NA
+785;PP_3;271;Primulaceae;Myrsine guianensis;34,6;130;NA
+786;PP_3;272;Fagaceae;Quercus humboldtii;31,1;130;NA
+787;PP_3;273;Hypericaceae;Vismia baccifera;30,5;130;14,05
+788;PP_3;274;Clusiaceae;;32,3;130;NA
+789;PP_3;275;Lauraceae;Beilschmiedia costaricensis;34;130;NA
+790;PP_3;276;Myristicaceae;Virola sebifera;32,3;130;NA
+791;PP_3;277;Burseraceae;;30,9;130;NA
+792;PP_3;278;Linaceae;Hebepetalum humiriifolium;31,5;130;NA
+793;PP_3;279;Melastomataceae;;34,2;130;NA
+794;PP_3;280;Fabaceae;Ormosia cuatrecasasii;33,3;130;NA
+795;PP_3;281;Melastomataceae;Graffenrieda micrantha;34,3;130;NA
+796;PP_3;282;Fabaceae;;35,5;130;NA
+797;PP_3;283;Lauraceae;;33;130;NA
+798;PP_3;284;Burseraceae;;32,1;142,8;NA
+799;PP_3;285;Fagaceae;Quercus humboldtii;33,4;130;NA
+800;PP_3;286;Indet;;33,4;130;NA
+801;PP_3;287;Myrtaceae;;30,2;130;NA
+802;PP_3;288;Primulaceae;Cybianthus laurifolius;42,8;146,6;NA
+803;PP_3;289;Indet;;31,9;130;NA
+804;PP_3;290;Aquifoliaceae;Ilex laurina;33,8;130;NA
+805;PP_3;291;Clusiaceae;;32,9;130;NA
+806;PP_3;292;Clusiaceae;;35,2;130;NA
+807;PP_3;293;Lauraceae;;33,9;130;NA
+808;PP_3;294;Myristicaceae;;49,6;130;12
+809;PP_3;295;Sapindaceae;Billia rosea;54,7;130;NA
+810;PP_3;296;Indet;;34;150;NA
+811;PP_3;297;Primulaceae;Geissanthus occidentalis;52,1;130;NA
+812;PP_3;298;Sapindaceae;Billia rosea;32,4;130;NA
+813;PP_3;299;Fabaceae;Cynometra bauhiniifolia;34,9;130;NA
+814;PP_3;300;Burseraceae;Protium tovarense;36,9;130;NA
+815;PP_3;301;Lauraceae;;38,7;130;16,3
+816;PP_3;302;Fabaceae;Ormosia cuatrecasasii;45,1;130;NA
+817;PP_3;303;Nyctaginaceae;Guapira costaricana;34,9;130;NA
+818;PP_3;304;Primulaceae;Geissanthus occidentalis;43;130;NA
+819;PP_3;305;Fabaceae;Macrolobium gracile;55,7;130;NA
+820;PP_3;306;Lauraceae;;31,5;130;NA
+821;PP_7;1;Cyatheaceae;Cyathea caracasana;44,6;130;NA
+822;PP_7;2;Piperaceae;Piper imperiale;41,4;130;NA
+823;PP_7;3;Lauraceae;Ocotea floribunda;58,9;130;NA
+824;PP_7;4;Lecythidaceae;Eschweilera antioquensis;149,2;130;NA
+825;PP_7;5;Arecaceae;Wettinia kalbreyeri;31,1;150;NA
+826;PP_7;6;Sapindaceae;Billia rosea;184,6;500;NA
+827;PP_7;7;Arecaceae;Wettinia kalbreyeri;43,9;220;NA
+828;PP_7;8;Arecaceae;Wettinia kalbreyeri;37,1;143;NA
+829;PP_7;9;Arecaceae;Wettinia kalbreyeri;35,9;152;NA
+830;PP_7;10;Rubiaceae;Palicourea andaluciana;42,1;130;10,9
+831;PP_7;11;Rubiaceae;Palicourea andaluciana;32,9;130;8,6
+832;PP_7;12;Clusiaceae;Chrysochlamys colombiana;70,4;130;13,1
+833;PP_7;13;Arecaceae;Wettinia kalbreyeri;51,5;323;17,6
+834;PP_7;14;Arecaceae;Wettinia kalbreyeri;NA;250;20
+835;PP_7;15;Phyllanthaceae;Hieronyma antioquensis;95,6;130;11,3
+836;PP_7;16;Phyllanthaceae;Hieronyma antioquensis;78;130;15
+837;PP_7;17;Arecaceae;Wettinia kalbreyeri;54,5;210;NA
+838;PP_7;18;Arecaceae;Wettinia kalbreyeri;45,6;148;NA
+839;PP_7;19;Arecaceae;Wettinia kalbreyeri;56,4;155;9,2
+840;PP_7;20;Arecaceae;Wettinia kalbreyeri;37,8;135;NA
+841;PP_7;21;Arecaceae;Wettinia kalbreyeri;37,4;120;7,4
+842;PP_7;22;Lecythidaceae;Eschweilera antioquensis;49,9;135;11
+843;PP_7;23;Myrtaceae;Myrcianthes rhopaloides;223,7;224;NA
+844;PP_7;24;Lecythidaceae;Eschweilera antioquensis;34,9;130;NA
+845;PP_7;25;Arecaceae;Wettinia kalbreyeri;33,6;230;NA
+846;PP_7;26;Arecaceae;Wettinia kalbreyeri;44,8;142;17,4
+847;PP_7;27;Arecaceae;Wettinia kalbreyeri;51,3;156;10
+848;PP_7;28;Lauraceae;Ocotea floribunda;96,4;166;22,9
+849;PP_7;29;Moraceae;Ficus mutisii;NA;143;21,8
+850;PP_7;30;Staphyleaceae;Turpinia occidentalis;94,9;130;14,1
+851;PP_7;31;Staphyleaceae;Turpinia occidentalis;71,2;130;20,9
+852;PP_7;32;Arecaceae;Wettinia kalbreyeri;53,3;175;14,8
+853;PP_7;33;Urticaceae;;72,4;130;20,1
+854;PP_7;34;Arecaceae;Wettinia kalbreyeri;39,2;159;NA
+855;PP_7;35;Dichapetalaceae;Stephanopodium aptotum;42,8;130;10,5
+856;PP_7;36;Phyllanthaceae;Hieronyma antioquensis;108,9;130;19
+857;PP_7;37;Arecaceae;Wettinia kalbreyeri;49,5;220;19,3
+858;PP_7;38;Arecaceae;Wettinia kalbreyeri;39,3;160;NA
+859;PP_7;39;Lecythidaceae;Eschweilera antioquensis;35,3;130;14,1
+860;PP_7;40;Lauraceae;Endlicheria colombiana;45,2;130;17,8
+861;PP_7;41;Arecaceae;Wettinia kalbreyeri;51,3;150;9,9
+862;PP_7;42;Lecythidaceae;Eschweilera antioquensis;104;130;19,3
+863;PP_7;43;Arecaceae;Wettinia kalbreyeri;44,6;196;8,8
+864;PP_7;44;Arecaceae;Wettinia kalbreyeri;50,8;196;12,3
+865;PP_7;45;Arecaceae;Wettinia kalbreyeri;50,1;198;12,2
+866;PP_7;46;Arecaceae;Wettinia kalbreyeri;38;190;NA
+867;PP_7;47;Clusiaceae;Clusia multiflora;58,6;130;NA
+868;PP_7;48;Aquifoliaceae;Ilex laurina;63,9;130;NA
+869;PP_7;49;Arecaceae;Wettinia kalbreyeri;42,1;169;7,3
+870;PP_7;50;Phyllanthaceae;Hieronyma antioquensis;84,4;130;19,5
+871;PP_7;51;Ochnaceae;;61,3;130;NA
+872;PP_7;52;Arecaceae;Wettinia kalbreyeri;41,8;232;9,9
+873;PP_7;53;Lauraceae;;133,4;130;NA
+874;PP_7;54;Lauraceae;;73,1;130;20,9
+875;PP_7;55;Arecaceae;Wettinia kalbreyeri;43,7;230;9,7
+876;PP_7;56;Arecaceae;Wettinia kalbreyeri;50,1;189;11,7
+877;PP_7;57;Arecaceae;Wettinia kalbreyeri;54,9;178;11,9
+878;PP_7;58;Sapindaceae;Billia rosea;162;130;NA
+879;PP_7;59;Sapindaceae;Billia rosea;129,1;130;10,1
+880;PP_7;60;Arecaceae;Wettinia kalbreyeri;42,4;145;14
+881;PP_7;61;Arecaceae;Wettinia kalbreyeri;43,4;147;10
+882;PP_7;62;Arecaceae;Wettinia kalbreyeri;36,3;137;NA
+883;PP_7;63;Lauraceae;Ocotea floribunda;54;130;17,4
+884;PP_7;64;Arecaceae;Wettinia kalbreyeri;42,4;230;13,5
+885;PP_7;65;Lecythidaceae;Eschweilera antioquensis;72,7;130;17,2
+886;PP_7;66;Lauraceae;;80,2;130;16,2
+887;PP_7;67;Fabaceae;Ormosia antioquensis;65,8;130;NA
+888;PP_7;68;Myrtaceae;;44,4;130;12,2
+889;PP_7;69;Arecaceae;Wettinia kalbreyeri;36,6;230;8,5
+890;PP_7;70;Arecaceae;Wettinia kalbreyeri;42;214;NA
+891;PP_7;71;Sapindaceae;Billia rosea;81,3;130;14,1
+892;PP_7;72;Rubiaceae;Ladenbergia macrocarpa;93,6;130;12,6
+893;PP_7;73;Arecaceae;Wettinia kalbreyeri;37;172;NA
+894;PP_7;74;Pentaphylacaceae;Ternstroemia macrocarpa;55,2;130;13,3
+895;PP_7;75;Lecythidaceae;Eschweilera antioquensis;43,1;130;10,5
+896;PP_7;76;Lecythidaceae;Eschweilera antioquensis;86,9;130;19,7
+897;PP_7;77;Magnoliaceae;;54,9;130;13,3
+898;PP_7;78;Urticaceae;;54;130;18
+899;PP_7;79;Lecythidaceae;Eschweilera antioquensis;49,2;130;11,9
+900;PP_7;80;Proteaceae;Panopsis yolombo;85,1;130;16,6
+901;PP_7;81;Indet;;59;130;16,1
+902;PP_7;82;Rubiaceae;;75,2;140;12
+903;PP_7;83;Arecaceae;Wettinia kalbreyeri;42,8;180;NA
+904;PP_7;84;Elaeocarpaceae;Sloanea brevispina;106,3;445;NA
+905;PP_7;85;Lauraceae;;104,3;211;18,2
+906;PP_7;86;Lecythidaceae;Eschweilera antioquensis;48,2;130;15,3
+907;PP_7;87;Phyllanthaceae;Hieronyma antioquensis;61,5;130;10,1
+908;PP_7;88;Arecaceae;Wettinia kalbreyeri;35,6;136;7,3
+909;PP_7;89;Arecaceae;Wettinia kalbreyeri;42,1;230;NA
+910;PP_7;90;Moraceae;Ficus mutisii;53,2;130;NA
+911;PP_7;91;Lauraceae;;82,9;130;NA
+912;PP_7;92;Lauraceae;;104,9;130;NA
+913;PP_7;93;Urticaceae;;147,4;130;18,5
+914;PP_7;94;Myrtaceae;Myrcia coumete;51,4;130;14,7
+915;PP_7;95;Indet;;176,2;280;NA
+916;PP_7;96;Arecaceae;Wettinia kalbreyeri;45,2;230;15,5
+917;PP_7;97;Piperaceae;Piper imperiale;76,9;143;NA
+918;PP_7;98;Piperaceae;Piper imperiale;40,8;130;NA
+919;PP_7;99;Lauraceae;Ocotea floribunda;71,9;130;NA
+920;PP_7;100;Arecaceae;Wettinia kalbreyeri;46,4;250;20,3
+921;PP_7;101;Arecaceae;Wettinia kalbreyeri;46,1;177;10,3
+922;PP_7;102;Lauraceae;;143,2;130;28
+923;PP_7;103;Lecythidaceae;Eschweilera antioquensis;120,1;247;32,4
+924;PP_7;104;Clusiaceae;Clusia multiflora;60,2;220;NA
+925;PP_7;105;Arecaceae;Wettinia kalbreyeri;56;185;NA
+926;PP_7;106;Lecythidaceae;Eschweilera antioquensis;59,5;130;16,8
+927;PP_7;107;Arecaceae;Wettinia kalbreyeri;42,2;160;12
+928;PP_7;108;Phyllanthaceae;Hieronyma antioquensis;65,1;162;NA
+929;PP_7;109;Clusiaceae;Chrysochlamys colombiana;78,1;200;NA
+930;PP_7;110;Arecaceae;Wettinia kalbreyeri;44,8;194;NA
+931;PP_7;111;Elaeocarpaceae;Sloanea brevispina;39,8;130;NA
+932;PP_7;112;Arecaceae;Wettinia kalbreyeri;53,1;230;NA
+933;PP_7;113;Staphyleaceae;Turpinia occidentalis;97,8;130;NA
+934;PP_7;114;Rubiaceae;Ladenbergia macrocarpa;93,6;245;NA
+935;PP_7;115;Arecaceae;Wettinia kalbreyeri;48,2;188;15,6
+936;PP_7;116;Arecaceae;Wettinia kalbreyeri;49,2;165;NA
+937;PP_7;117;Elaeocarpaceae;Sloanea brevispina;39,7;130;7,5
+938;PP_7;118;Lecythidaceae;Eschweilera antioquensis;40,5;130;7
+939;PP_7;119;Elaeocarpaceae;Sloanea brevispina;103,9;160;8,6
+940;PP_7;120;Sabiaceae;;84,6;130;10,2
+941;PP_7;121;Cunoniaceae;Weinmannia balbisiana;56,8;130;11,8
+942;PP_7;122;Arecaceae;Wettinia kalbreyeri;47,5;182;NA
+943;PP_7;123;Dichapetalaceae;Stephanopodium aptotum;51,5;130;11,5
+944;PP_7;124;Clusiaceae;Clusia ducuoides;73,2;130;14,1
+945;PP_7;125;Phyllanthaceae;Hieronyma antioquensis;125,2;130;NA
+946;PP_7;126;Lauraceae;Ocotea floribunda;33,5;130;5,3
+947;PP_7;127;Arecaceae;Wettinia kalbreyeri;32,6;130;NA
+948;PP_7;128;Arecaceae;Wettinia kalbreyeri;43;198;NA
+949;PP_7;129;Arecaceae;Wettinia kalbreyeri;54,4;212;NA
+950;PP_7;130;Arecaceae;Wettinia kalbreyeri;42,7;180;NA
+951;PP_7;131;Lecythidaceae;Eschweilera antioquensis;41,1;134;9
+952;PP_7;132;Arecaceae;Wettinia kalbreyeri;35,9;230;NA
+953;PP_7;133;Arecaceae;Wettinia kalbreyeri;50,3;169;17,2
+954;PP_7;134;Arecaceae;Wettinia kalbreyeri;44;212;14,3
+955;PP_7;135;Moraceae;Ficus mutisii;67,9;130;8
+956;PP_7;136;Lecythidaceae;Eschweilera antioquensis;98;130;18,6
+957;PP_7;137;Lecythidaceae;Eschweilera antioquensis;66,6;130;12
+958;PP_7;138;Rubiaceae;Ladenbergia macrocarpa;64,3;130;13,2
+959;PP_7;139;Rubiaceae;Ladenbergia macrocarpa;35,5;146;NA
+960;PP_7;140;Arecaceae;Wettinia kalbreyeri;41,1;179;NA
+961;PP_7;141;Arecaceae;Wettinia kalbreyeri;39,9;130;NA
+962;PP_7;142;Sapindaceae;Billia rosea;270;220;NA
+963;PP_7;143;Sapindaceae;Billia rosea;52,3;130;NA
+964;PP_7;144;Clusiaceae;Clusia multiflora;42,1;130;NA
+965;PP_7;145;Lecythidaceae;Eschweilera antioquensis;66,9;130;13,3
+966;PP_7;146;Arecaceae;Wettinia kalbreyeri;50,6;237;10,2
+967;PP_7;147;Arecaceae;Wettinia kalbreyeri;59,8;230;14,2
+968;PP_7;148;Arecaceae;Wettinia kalbreyeri;41,7;179;7,6
+969;PP_7;149;Arecaceae;Wettinia kalbreyeri;53,3;220;14
+970;PP_7;150;Rubiaceae;;48,8;130;11,7
+971;PP_7;151;Arecaceae;Wettinia kalbreyeri;33,6;213;NA
+972;PP_7;152;Phyllanthaceae;Hieronyma antioquensis;64,3;130;NA
+973;PP_7;153;Arecaceae;Wettinia kalbreyeri;42,8;148;7,9
+974;PP_7;154;Arecaceae;Wettinia kalbreyeri;54,5;230;15,4
+975;PP_7;155;Lauraceae;;113,3;130;18,6
+976;PP_7;156;Arecaceae;Wettinia kalbreyeri;47,1;172;7,3
+977;PP_7;157;Arecaceae;Wettinia kalbreyeri;47,5;176;13,1
+978;PP_7;158;Staphyleaceae;Turpinia occidentalis;75,6;140;15,6
+979;PP_7;159;Arecaceae;Wettinia kalbreyeri;47,1;230;NA
+980;PP_7;160;Phyllanthaceae;Hieronyma antioquensis;42,5;130;NA
+981;PP_7;161;Arecaceae;Wettinia kalbreyeri;54,5;230;7,9
+982;PP_7;162;Ochnaceae;;73,3;130;16,6
+983;PP_7;163;Rubiaceae;Ladenbergia macrocarpa;81,6;130;NA
+984;PP_7;164;Rhamnaceae;Frangula granulosa;165;130;NA
+985;PP_7;165;Sapindaceae;Billia rosea;38,3;130;10,6
+986;PP_7;166;Clusiaceae;Clusia multiflora;52,3;174;NA
+987;PP_7;167;Clusiaceae;Clusia ducuoides;88,8;130;NA
+988;PP_7;168;Rubiaceae;;61,3;188;NA
+989;PP_7;169;Arecaceae;Wettinia kalbreyeri;59,8;254;15,2
+990;PP_7;170;Lauraceae;Aiouea dubia;79,1;225;NA
+991;PP_7;171;Arecaceae;Wettinia kalbreyeri;42,8;229;15,4
+992;PP_7;172;Arecaceae;Wettinia kalbreyeri;59,4;198;NA
+993;PP_7;173;Elaeocarpaceae;Sloanea brevispina;73,9;155;13,1
+994;PP_7;174;Melastomataceae;Miconia acanthocoryne;33,7;130;NA
+995;PP_7;175;Melastomataceae;Miconia acanthocoryne;38,2;130;NA
+996;PP_7;176;Arecaceae;Wettinia kalbreyeri;66,3;232;NA
+997;PP_7;177;Arecaceae;Wettinia kalbreyeri;40,8;230;NA
+998;PP_7;178;Arecaceae;Wettinia kalbreyeri;34,9;230;5,6
+999;PP_7;179;Clusiaceae;Chrysochlamys colombiana;37;135;9,7
+1000;PP_7;180;Arecaceae;Wettinia kalbreyeri;41,2;230;11,9
+1001;PP_7;181;Piperaceae;Piper imperiale;111,9;130;NA
+1002;PP_7;182;Piperaceae;Piper imperiale;53,1;130;NA
+1003;PP_7;183;Arecaceae;Wettinia kalbreyeri;39,9;225;12,7
+1004;PP_7;184;Arecaceae;Wettinia kalbreyeri;42,4;263;11,2
+1005;PP_7;185;Arecaceae;Wettinia kalbreyeri;47;130;NA
+1006;PP_7;186;Melastomataceae;Miconia acanthocoryne;52,4;130;NA
+1007;PP_7;187;Arecaceae;Wettinia kalbreyeri;57,2;176;NA
+1008;PP_7;188;Arecaceae;Wettinia kalbreyeri;43,8;192;12,5
+1009;PP_7;189;Melastomataceae;Miconia dolichopoda;97,7;130;NA
+1010;PP_7;190;Arecaceae;Wettinia kalbreyeri;49,7;204;12,7
+1011;PP_7;191;Euphorbiaceae;Alchornea verticillata;53;200;NA
+1012;PP_7;192;Lauraceae;;108,2;130;NA
+1013;PP_7;193;Ochnaceae;;55,1;130;NA
+1014;PP_7;194;Rubiaceae;Palicourea andaluciana;61,1;130;10,5
+1015;PP_7;195;Rhamnaceae;Frangula granulosa;187,1;130;NA
+1016;PP_7;196;Arecaceae;Wettinia kalbreyeri;45,4;220;NA
+1017;PP_7;197;Arecaceae;Wettinia kalbreyeri;51,8;247;10,7
+1018;PP_7;198;Arecaceae;Wettinia kalbreyeri;34,2;139;13,2
+1019;PP_7;199;Arecaceae;Wettinia kalbreyeri;47,7;227;NA
+1020;PP_7;200;Arecaceae;Wettinia kalbreyeri;32,8;143,3;NA
+1021;PP_7;201;Arecaceae;Wettinia kalbreyeri;53,4;230;NA
+1022;PP_7;202;Melastomataceae;Miconia dolichopoda;44,2;130;16
+1023;PP_7;203;Lauraceae;;95,4;130;NA
+1024;PP_7;204;Sapindaceae;Billia rosea;77,8;130;12,9
+1025;PP_7;205;Arecaceae;Wettinia kalbreyeri;46,3;224;NA
+1026;PP_7;206;Arecaceae;Wettinia kalbreyeri;38,9;210;NA
+1027;PP_7;207;Moraceae;Ficus mutisii;280,1;130;NA
+1028;PP_7;208;Arecaceae;Wettinia kalbreyeri;42,4;250;NA
+1029;PP_7;209;Phyllanthaceae;Hieronyma antioquensis;75,8;130;NA
+1030;PP_7;210;Lauraceae;;39,7;130;8,1
+1031;PP_7;211;Ochnaceae;;80,2;130;NA
+1032;PP_7;212;Myrtaceae;Myrcia coumete;39,8;130;NA
+1033;PP_7;213;Arecaceae;Wettinia kalbreyeri;49,6;139;NA
+1034;PP_7;214;Arecaceae;Wettinia kalbreyeri;47,9;165;12,3
+1035;PP_7;215;Arecaceae;Wettinia kalbreyeri;44,3;230;NA
+1036;PP_7;216;Arecaceae;Wettinia kalbreyeri;48,9;230;8,6
+1037;PP_7;217;Sapindaceae;Billia rosea;58,7;130;10,1
+1038;PP_7;218;Lauraceae;Ocotea floribunda;78,7;130;17,1
+1039;PP_7;219;Myrtaceae;Myrcianthes rhopaloides;106,9;245;15,4
+1040;PP_7;220;Arecaceae;Wettinia kalbreyeri;50,1;265;14,2
+1041;PP_7;221;Lauraceae;Aiouea dubia;160,3;130;18,3
+1042;PP_7;222;Arecaceae;Wettinia kalbreyeri;50,1;159;NA
+1043;PP_7;223;Arecaceae;Wettinia kalbreyeri;36,6;130;NA
+1044;PP_7;224;Melastomataceae;Miconia lehmannii;35,3;135;NA
+1045;PP_7;225;Moraceae;Ficus mutisii;39,5;130;NA
+1046;PP_7;226;Arecaceae;Wettinia kalbreyeri;37,7;170;NA
+1047;PP_7;227;Moraceae;Ficus mutisii;32,3;130;NA
+1048;PP_7;228;Arecaceae;Wettinia kalbreyeri;32,4;130;NA
+1049;PP_7;229;Arecaceae;Wettinia kalbreyeri;34,5;144;NA
+1050;PP_7;230;Arecaceae;Wettinia kalbreyeri;33,2;160;NA
+1051;PP_7;231;Arecaceae;Wettinia kalbreyeri;37,7;130;NA
+1052;PP_7;232;Lecythidaceae;Eschweilera sessilis;38,5;130;NA
+1053;PP_7;233;Clusiaceae;Clusia ducuoides;30;130;NA
+1054;PP_7;234;Lecythidaceae;Eschweilera sessilis;34,1;130;NA
+1055;PP_7;235;Arecaceae;Wettinia kalbreyeri;35,2;158;NA
+1056;PP_7;236;Araliaceae;;31,3;153;NA
+1057;PP_7;237;Rubiaceae;Ladenbergia macrocarpa;32,3;136;NA
+1058;PP_7;238;Lecythidaceae;Eschweilera sessilis;30,3;130;NA
+1059;PP_7;239;Lauraceae;Ocotea floribunda;33,2;137;NA
+1060;PP_7;240;Arecaceae;Wettinia kalbreyeri;49,3;177;NA
+1061;PP_7;241;Arecaceae;Wettinia kalbreyeri;48,1;215;14,2
+1062;PP_10;1;Lauraceae;Aniba puchury-minor;47,5;130;9,43
+1063;PP_10;2;Myristicaceae;Otoba novogranatensis;57,5;130;14,8
+1064;PP_10;3;Sapotaceae;;36,7;130;15,63
+1065;PP_10;4;Hypericaceae;Vismia macrophylla;63,4;130;NA
+1066;PP_10;5;Moraceae;Maquira guianensis;39,7;130;13,59
+1067;PP_10;6;Meliaceae;Guarea macrophylla;65,9;130;NA
+1068;PP_10;7;Myristicaceae;Virola flexuosa;46,8;150;NA
+1069;PP_10;8;Myristicaceae;Virola flexuosa;43,8;130;NA
+1070;PP_10;9;Rubiaceae;Warszewiczia uxpanapensis;47;130;NA
+1071;PP_10;10;Annonaceae;Rollinia pittieri;123,1;130;NA
+1072;PP_10;11;Bignoniaceae;Jacaranda copaia;74,9;130;NA
+1073;PP_10;12;Burseraceae;Tetragastris panamensis;44,9;130;19,56
+1074;PP_10;13;Lauraceae;;37;130;14,17
+1075;PP_10;14;Fabaceae;Macrolobium gracile;270,9;164;32,63
+1076;PP_10;15;Sapotaceae;;147,9;130;NA
+1077;PP_10;16;Moraceae;Maquira guianensis;41,6;130;NA
+1078;PP_10;17;Rubiaceae;Coussarea grandifolia;34,7;130;NA
+1079;PP_10;18;Sapindaceae;;93,2;130;NA
+1080;PP_10;19;Chrysobalanaceae;;34;130;NA
+1081;PP_10;20;Moraceae;Maquira guianensis;36,9;130;NA
+1082;PP_10;21;Rubiaceae;Coussarea grandifolia;32,4;160;16,7
+1083;PP_10;22;Moraceae;Ficus schippii;177,9;240;NA
+1084;PP_10;23;Rubiaceae;Coussarea grandifolia;36,6;130;13,88
+1085;PP_10;24;Moraceae;Perebea angustifolia;55,3;130;14,39
+1086;PP_10;25;Moraceae;Maquira guianensis;33,3;154;NA
+1087;PP_10;26;Sapotaceae;;33,6;130;NA
+1088;PP_10;27;Meliaceae;Guarea macrophylla;58,8;130;NA
+1089;PP_10;28;Rubiaceae;Coussarea grandifolia;46;130;NA
+1090;PP_10;29;Achariaceae;Lindackeria laurina;NA;185;NA
+1091;PP_10;30;Sapindaceae;;60,1;130;NA
+1092;PP_10;31;Burseraceae;Tetragastris panamensis;113,4;130;19,21
+1093;PP_10;32;Myrtaceae;Myrcia splendens;96,3;136;NA
+1094;PP_10;33;Burseraceae;Tetragastris panamensis;35,1;130;9,35
+1095;PP_10;34;Fabaceae;Inga pezizifera;55,7;130;NA
+1096;PP_10;35;Rubiaceae;Coussarea grandifolia;32;130;NA
+1097;PP_10;36;Nyctaginaceae;;34,6;130;NA
+1098;PP_10;37;Indet;;145,6;130;26,33
+1099;PP_10;38;Moraceae;Maquira guianensis;38,1;130;NA
+1100;PP_10;39;Meliaceae;Guarea macrophylla;52,7;130;12,78
+1101;PP_10;40;Calophyllaceae;Calophyllum brasiliense;77,8;148,8;NA
+1102;PP_10;41;Melastomataceae;Miconia elata;67,3;130;NA
+1103;PP_10;42;Rubiaceae;Coussarea grandifolia;38,4;130;7,28
+1104;PP_10;43;Myristicaceae;Otoba novogranatensis;87,8;130;18,96
+1105;PP_10;44;Annonaceae;Pseudoxandra sclerocarpa;74,9;130;NA
+1106;PP_10;45;Rubiaceae;Coussarea grandifolia;55,8;130;14,67
+1107;PP_10;46;Rubiaceae;Coussarea grandifolia;43,8;130;10,94
+1108;PP_10;47;Achariaceae;Mayna grandifolia;57,1;130;NA
+1109;PP_10;48;Urticaceae;;37,6;146;NA
+1110;PP_10;49;Simaroubaceae;Picrolemma huberi;93;170;NA
+1111;PP_10;50;Rubiaceae;Coussarea grandifolia;34,9;120;NA
+1112;PP_10;51;Moraceae;Maquira guianensis;34,5;130;NA
+1113;PP_10;52;Rubiaceae;Schizocalyx bracteosa;42,6;130;NA
+1114;PP_10;53;Bignoniaceae;Jacaranda copaia;44,8;130;NA
+1115;PP_10;54;Annonaceae;Guatteria aberrans;127;150;NA
+1116;PP_10;55;Burseraceae;Tetragastris panamensis;99,8;137,5;NA
+1117;PP_10;56;Lauraceae;Rhodostemonodaphne grandis;31,7;135,9;NA
+1118;PP_10;57;Bignoniaceae;Jacaranda copaia;52,8;130;22,87
+1119;PP_10;58;Rubiaceae;Schizocalyx bracteosa;59,4;130;NA
+1120;PP_10;59;Rubiaceae;Schizocalyx bracteosa;55,1;153;NA
+1121;PP_10;60;Rubiaceae;Schizocalyx bracteosa;44,5;169;NA
+1122;PP_10;61;Rubiaceae;Schizocalyx bracteosa;46,1;130;NA
+1123;PP_10;62;Malvaceae;Apeiba glabra;78,4;130;NA
+1124;PP_10;63;Melastomataceae;Miconia elata;64,4;130;14,01
+1125;PP_10;64;Annonaceae;Pseudoxandra sclerocarpa;52,8;130;17,22
+1126;PP_10;65;Rubiaceae;Schizocalyx bracteosa;40,5;130;NA
+1127;PP_10;66;Bignoniaceae;Jacaranda copaia;140,1;130;NA
+1128;PP_10;67;Burseraceae;Crepidospermum rhoifolium;41,4;130;14,94
+1129;PP_10;68;Rubiaceae;Psychotria monsalveae;47,7;130;NA
+1130;PP_10;69;Rubiaceae;Coussarea paniculata;32,1;130;NA
+1131;PP_10;70;Chrysobalanaceae;Licania parviflora;126,7;130;NA
+1132;PP_10;71;Bignoniaceae;Jacaranda copaia;179,4;223;NA
+1133;PP_10;72;Rubiaceae;Schizocalyx bracteosa;42;128;NA
+1134;PP_10;73;Chrysobalanaceae;;40,6;130;NA
+1135;PP_10;74;Boraginaceae;Cordia bicolor;101,3;130;NA
+1136;PP_10;75;Rubiaceae;Coussarea grandifolia;69,3;130;NA
+1137;PP_10;76;Moraceae;Maquira guianensis;34,9;130;NA
+1138;PP_10;77;Melastomataceae;Miconia elata;56,9;130;13,76
+1139;PP_10;78;Rubiaceae;Coussarea grandifolia;40,7;130;11,55
+1140;PP_10;79;Moraceae;Maquira guianensis;94,6;130;18,02
+1141;PP_10;80;Meliaceae;Guarea cartaguenya;36,8;130;NA
+1142;PP_10;81;Fabaceae;Macrolobium gracile;112,7;130;NA
+1143;PP_10;82;Lauraceae;Aniba perutilis;48;130;NA
+1144;PP_10;83;Meliaceae;Guarea macrophylla;63,7;157,2;NA
+1145;PP_10;84;Myrtaceae;Myrcia splendens;33,7;130;14,25
+1146;PP_10;85;Rubiaceae;Schizocalyx bracteosa;50,6;130;15,5
+1147;PP_10;86;Lauraceae;Aniba perutilis;NA;130;17,42
+1148;PP_10;87;Salicaceae;Casearia arborea;32,6;130;NA
+1149;PP_10;88;Lauraceae;;32,8;130;NA
+1150;PP_10;89;Phyllanthaceae;;73,4;130;NA
+1151;PP_10;90;Bignoniaceae;Jacaranda copaia;156,7;130;NA
+1152;PP_10;91;Myrtaceae;Myrcia splendens;51,9;130;NA
+1153;PP_10;92;Anacardiaceae;Tapirira guianensis;54,1;130;NA
+1154;PP_10;93;Rubiaceae;Coussarea grandifolia;34,3;130;NA
+1155;PP_10;94;Moraceae;Maquira guianensis;64,4;130;NA
+1156;PP_10;95;Indet;;39;156;NA
+1157;PP_10;96;Myristicaceae;Virola flexuosa;105,8;130;NA
+1158;PP_10;97;Moraceae;Helicostylis tomentosa;69,5;146;NA
+1159;PP_10;98;Meliaceae;Guarea cartaguenya;95,4;158;14,1
+1160;PP_10;99;Burseraceae;Tetragastris panamensis;37,8;130;NA
+1161;PP_10;100;Lauraceae;Aniba perutilis;47,5;130;14,42
+1162;PP_10;101;Rubiaceae;Coussarea grandifolia;63,6;130;16,75
+1163;PP_10;102;Sapotaceae;;79;155;NA
+1164;PP_10;103;Burseraceae;Tetragastris panamensis;81,9;138;NA
+1165;PP_10;104;Euphorbiaceae;Conceveiba parvifolia;189,5;485;NA
+1166;PP_10;105;Annonaceae;Pseudoxandra sclerocarpa;40,4;140;NA
+1167;PP_10;106;Clusiaceae;Tovomita weddelliana;62,2;252,5;NA
+1168;PP_10;107;Primulaceae;Myrsine coriacea;125,6;130;28,38
+1169;PP_10;108;Burseraceae;Tetragastris panamensis;32,2;130;NA
+1170;PP_10;109;Chrysobalanaceae;;103,1;130;20,34
+1171;PP_10;110;Moraceae;Maquira guianensis;55,6;130;17,08
+1172;PP_10;111;Lauraceae;Aniba perutilis;103,3;130;23,73
+1173;PP_10;112;Caryocaraceae;Caryocar glabrum;70,9;130;NA
+1174;PP_10;113;Rubiaceae;Ladenbergia oblongifolia;111,1;130;NA
+1175;PP_10;114;Urticaceae;;111,6;130;NA
+1176;PP_10;115;Lauraceae;Aniba perutilis;50,6;130;NA
+1177;PP_10;116;Rubiaceae;Schizocalyx bracteosa;43,9;150;NA
+1178;PP_10;117;Phyllanthaceae;;56,4;130;NA
+1179;PP_10;118;Rubiaceae;Schizocalyx bracteosa;32,4;130;NA
+1180;PP_10;119;Phyllanthaceae;;83,1;130;NA
+1181;PP_10;120;Indet;;69,6;130;NA
+1182;PP_10;121;Moraceae;Brosimum utile;109,1;130;NA
+1183;PP_10;122;Sapotaceae;Pouteria torta;40,7;130;16,77
+1184;PP_10;123;Moraceae;Maquira guianensis;70,2;130;20,53
+1185;PP_10;124;Erythroxylaceae;Erythroxylum citrifolium;52,2;130;16,07
+1186;PP_10;125;Lauraceae;;50;130;NA
+1187;PP_10;126;Moraceae;Pseudolmedia laevigata;42,7;130;20,99
+1188;PP_10;127;Euphorbiaceae;;49,1;169;15,1
+1189;PP_10;128;Phyllanthaceae;;73,4;140;13,37
+1190;PP_10;129;Clusiaceae;Chrysochlamys dependens;35,9;130;14,06
+1191;PP_10;130;Lauraceae;;41,8;130;NA
+1192;PP_10;131;Moraceae;Maquira guianensis;43,3;130;NA
+1193;PP_10;132;Rubiaceae;Ladenbergia oblongifolia;69,4;130;NA
+1194;PP_10;133;Lauraceae;;34,7;130;14,03
+1195;PP_10;134;Lauraceae;Aniba perutilis;62,7;130;14,7
+1196;PP_10;135;Lauraceae;Aniba perutilis;41,1;130;16,21
+1197;PP_10;136;Lauraceae;Aniba perutilis;55;130;12,53
+1198;PP_10;137;Lauraceae;Aniba perutilis;33;130;14,6
+1199;PP_10;138;Urticaceae;;72,9;130;15,15
+1200;PP_10;139;Urticaceae;;119,1;130;15,72
+1201;PP_10;140;Caryocaraceae;Caryocar glabrum;46,9;130;16,32
+1202;PP_10;141;Lauraceae;Aniba perutilis;52,2;130;NA
+1203;PP_10;142;Moraceae;Maquira guianensis;35,3;130;NA
+1204;PP_10;143;Rubiaceae;Ladenbergia oblongifolia;51,5;130;NA
+1205;PP_10;144;Euphorbiaceae;Maprounea guianensis;40,7;130;16,98
+1206;PP_10;145;Caryocaraceae;Caryocar glabrum;81,2;130;NA
+1207;PP_10;146;Anacardiaceae;Tapirira guianensis;244,4;130;NA
+1208;PP_10;147;Clusiaceae;Chrysochlamys dependens;36,9;130;NA
+1209;PP_10;148;Rubiaceae;Ladenbergia oblongifolia;59,5;130;NA
+1210;PP_10;149;Moraceae;Maquira guianensis;78,6;171;NA
+1211;PP_10;150;Sapindaceae;Matayba elegans;42,6;130;NA
+1212;PP_10;151;Lauraceae;Ocotea guianensis;34,7;130;NA
+1213;PP_10;152;Anacardiaceae;Tapirira guianensis;104;130;NA
+1214;PP_10;153;Chrysobalanaceae;;53,3;130;NA
+1215;PP_10;154;Rubiaceae;Ladenbergia oblongifolia;89,2;130;NA
+1216;PP_10;155;Melastomataceae;Miconia elata;38,5;130;13,9
+1217;PP_10;156;Phyllanthaceae;;77,4;130;NA
+1218;PP_10;157;Rubiaceae;Schizocalyx bracteosa;35,9;130;NA
+1219;PP_10;158;Rubiaceae;Schizocalyx bracteosa;31,8;130;NA
+1220;PP_10;159;Rubiaceae;Schizocalyx bracteosa;40,1;130;11,5
+1221;PP_10;160;Lauraceae;;137,3;367;NA
+1222;PP_10;161;Phyllanthaceae;;61,5;163;NA
+1223;PP_10;162;Rubiaceae;Schizocalyx bracteosa;37;130;NA
+1224;PP_10;163;Rubiaceae;Schizocalyx bracteosa;39,7;130;NA
+1225;PP_10;164;Achariaceae;Lindackeria laurina;46;130;NA
+1226;PP_10;165;Moraceae;Maquira guianensis;47,5;160;20,86
+1227;PP_10;166;Lauraceae;Aniba perutilis;49,3;130;18,19
+1228;PP_10;167;Chrysobalanaceae;;40,9;130;19,12
+1229;PP_10;168;Caryocaraceae;Caryocar glabrum;128,4;130;NA
+1230;PP_10;169;Clusiaceae;Chrysochlamys dependens;43,2;130;11,8
+1231;PP_10;170;Phyllanthaceae;;61,4;147;15,14
+1232;PP_10;171;Annonaceae;Guatteria recurvisepala;83,5;130;NA
+1233;PP_10;172;Lauraceae;Aniba perutilis;77,9;130;19,08
+1234;PP_10;173;Lauraceae;Ocotea aurantiodora;45,7;130;16,06
+1235;PP_10;174;Euphorbiaceae;Maprounea guianensis;121,9;130;27,46
+1236;PP_10;175;Lauraceae;Ocotea aciphylla;42,4;130;11,33
+1237;PP_10;176;Bignoniaceae;Jacaranda copaia;71,6;130;NA
+1238;PP_10;177;Rubiaceae;Warszewiczia coccinea;32,8;130;11,1
+1239;PP_10;178;Caryocaraceae;Caryocar glabrum;53;130;14,32
+1240;PP_10;179;Euphorbiaceae;Alchornea megalophylla;38,4;130;10,91
+1241;PP_10;180;Phyllanthaceae;;102,8;307;16,55
+1242;PP_10;181;Phyllanthaceae;;89,3;130;16,54
+1243;PP_10;182;Lauraceae;;150;210;17,44
+1244;PP_10;183;Caryocaraceae;Caryocar glabrum;50,3;130;14,39
+1245;PP_10;184;Lauraceae;Aniba perutilis;68,2;130;15,76
+1246;PP_10;185;Lauraceae;Ocotea macrophylla;34;130;13,27
+1247;PP_10;186;Lauraceae;Ocotea macrophylla;35,3;130;12,41
+1248;PP_10;187;Clusiaceae;Chrysochlamys dependens;32,9;130;NA
+1249;PP_10;188;Rubiaceae;Schizocalyx bracteosa;69,8;130;15,51
+1250;PP_10;189;Rubiaceae;Schizocalyx bracteosa;66,5;130;13,02
+1251;PP_10;190;Moraceae;Maquira guianensis;70,5;130;21,01
+1252;PP_10;191;Rubiaceae;Psychotria monsalveae;59,5;130;17,81
+1253;PP_10;192;Urticaceae;Pourouma bicolor;96,5;130;24,34
+1254;PP_10;193;Lauraceae;Aniba perutilis;41,3;130;17,47
+1255;PP_10;194;Rubiaceae;Coussarea grandifolia;69,6;130;18,53
+1256;PP_10;195;Moraceae;Maquira guianensis;38,8;130;19,45
+1257;PP_10;196;Lauraceae;;44,5;130;15,33
+1258;PP_10;197;Lauraceae;Aniba perutilis;38,1;130;14,77
+1259;PP_10;198;Hypericaceae;Vismia macrophylla;56,8;130;12,52
+1260;PP_10;199;Melastomataceae;Miconia elata;59,2;130;15,95
+1261;PP_10;200;Clusiaceae;Chrysochlamys weberbaueri;40,2;130;11,97
+1262;PP_12;1;Peraceae;Pera arborea;82,9;130;NA
+1263;PP_12;2;Moraceae;Pseudolmedia laevigata;41,9;130;9,9
+1264;PP_12;3;Sapotaceae;Manilkara chicle;66,4;130;15,6
+1265;PP_12;4;Peraceae;Pera arborea;96,8;130;NA
+1266;PP_12;5;Moraceae;Pseudolmedia laevigata;47,1;130;11,9
+1267;PP_12;6;Rubiaceae;Palicourea guianensis;46,6;150;NA
+1268;PP_12;7;Rubiaceae;Amaioua corymbosa;48,9;130;21,2
+1269;PP_12;8;Araliaceae;Schefflera morototoni;119,6;130;NA
+1270;PP_12;9;Araliaceae;Schefflera morototoni;101,4;130;NA
+1271;PP_12;10;Urticaceae;Pourouma bicolor;136,8;350;NA
+1272;PP_12;11;Annonaceae;;76;130;12,7
+1273;PP_12;12;Urticaceae;Pourouma bicolor;43;130;NA
+1274;PP_12;13;Boraginaceae;Cordia bicolor;63,6;130;20,7
+1275;PP_12;14;Urticaceae;Pourouma bicolor;NA;260;NA
+1276;PP_12;15;Annonaceae;;46,2;130;13,6
+1277;PP_12;16;Annonaceae;;61,1;130;NA
+1278;PP_12;17;Annonaceae;;62,4;130;16,3
+1279;PP_12;18;Primulaceae;Myrsine pellucidopunctata;87,2;130;20,3
+1280;PP_12;19;Lacistemataceae;Lacistema aggregatum;40,5;130;15,1
+1281;PP_12;20;Vochysiaceae;Vochysia ferruginea;112;130;NA
+1282;PP_12;21;Achariaceae;Lindackeria laurina;51,2;130;15,1
+1283;PP_12;22;Vochysiaceae;Vochysia ferruginea;75,4;130;11,4
+1284;PP_12;23;Annonaceae;;41,5;130;9,8
+1285;PP_12;24;Annonaceae;;50,2;130;15,4
+1286;PP_12;25;Sapotaceae;Chrysophyllum argenteum;31,1;130;NA
+1287;PP_12;26;Moraceae;Pseudolmedia laevigata;32,3;130;NA
+1288;PP_12;27;Indet;;30,9;130;NA
+1289;PP_12;28;Lacistemataceae;Lacistema aggregatum;36,5;130;12,4
+1290;PP_12;29;Urticaceae;Pourouma bicolor;82,2;130;NA
+1291;PP_12;30;Melastomataceae;Miconia trinervia;47,7;130;14,4
+1292;PP_12;31;Melastomataceae;Miconia elata;57,8;130;NA
+1293;PP_12;32;Arecaceae;Oenocarpus minor;32,5;130;11,1
+1294;PP_12;33;Annonaceae;;62,8;130;9,4
+1295;PP_12;34;Boraginaceae;Cordia bicolor;93,2;145;15,3
+1296;PP_12;35;Sapotaceae;Manilkara chicle;44,1;130;13,3
+1297;PP_12;36;Achariaceae;Lindackeria laurina;60;130;NA
+1298;PP_12;37;Boraginaceae;Cordia bicolor;62,4;130;15,7
+1299;PP_12;38;Urticaceae;Pourouma bicolor;80,6;130;13,7
+1300;PP_12;39;Urticaceae;Pourouma bicolor;72,3;130;14,1
+1301;PP_12;40;Urticaceae;Pourouma bicolor;75,3;130;21,2
+1302;PP_12;41;Boraginaceae;Cordia bicolor;135,4;315;NA
+1303;PP_12;42;Sapindaceae;Matayba arborescens;90,8;198;17,3
+1304;PP_12;43;Vochysiaceae;;44,8;130;11,2
+1305;PP_12;44;Burseraceae;;98,6;130;NA
+1306;PP_12;45;Sapindaceae;Matayba arborescens;46,1;193;NA
+1307;PP_12;46;Melastomataceae;;56,8;130;16,4
+1308;PP_12;47;Arecaceae;Oenocarpus minor;31,8;130;NA
+1309;PP_12;48;Arecaceae;Oenocarpus minor;33,5;130;NA
+1310;PP_12;49;Lacistemataceae;Lacistema aggregatum;37,1;130;11,2
+1311;PP_12;50;Lauraceae;Ocotea macrophylla;35,4;130;NA
+1312;PP_12;51;Bignoniaceae;Jacaranda copaia;33,2;130;NA
+1313;PP_12;52;Indet;;30,8;130;NA
+1314;PP_12;53;Moraceae;Helicostylis tomentosa;32,9;130;NA
+1315;PP_12;54;Sapotaceae;Manilkara chicle;49,3;146;16,1
+1316;PP_12;55;Fabaceae;Enterolobium contortisiliquum;212,4;206;NA
+1317;PP_12;56;Salicaceae;Casearia grandiflora;44;142;NA
+1318;PP_12;57;Myristicaceae;Virola sebifera;88,3;130;23,1
+1319;PP_12;58;Peraceae;Pera arborea;101;130;29,4
+1320;PP_12;59;Primulaceae;Myrsine pellucidopunctata;98,1;130;19,7
+1321;PP_12;60;Erythroxylaceae;Erythroxylum citrifolium;57,1;130;NA
+1322;PP_12;61;Fabaceae;Abarema jupunba;72,4;170;NA
+1323;PP_12;62;Sabiaceae;;34,5;130;NA
+1324;PP_12;63;Sapindaceae;Matayba arborescens;38,9;130;15,7
+1325;PP_12;64;Peraceae;Pera arborea;81,7;130;30,3
+1326;PP_12;65;Boraginaceae;Cordia bicolor;51,2;130;NA
+1327;PP_12;66;Urticaceae;Pourouma bicolor;105,5;130;NA
+1328;PP_12;67;Annonaceae;;64,8;130;15,7
+1329;PP_12;68;Moraceae;Pseudolmedia laevigata;39,9;130;10,3
+1330;PP_12;69;Achariaceae;Lindackeria laurina;73,1;130;12,85
+1331;PP_12;70;Myristicaceae;Virola sebifera;84,9;130;18,2
+1332;PP_12;71;Urticaceae;Pourouma bicolor;91;130;12,05
+1333;PP_12;72;Urticaceae;;51,4;130;8,7
+1334;PP_12;73;Urticaceae;Pourouma bicolor;77,6;130;NA
+1335;PP_12;74;Achariaceae;Lindackeria laurina;38;130;10,1
+1336;PP_12;75;Vochysiaceae;Vochysia ferruginea;55,9;NA;9,4
+1337;PP_12;76;Annonaceae;Xylopia frutescens;56;130;NA
+1338;PP_12;77;Urticaceae;Pourouma bicolor;54,5;130;11
+1339;PP_12;78;Achariaceae;Lindackeria laurina;NA;130;NA
+1340;PP_12;79;Achariaceae;Lindackeria laurina;42,8;130;NA
+1341;PP_12;80;Burseraceae;Trattinnickia lawrancei;32,8;130;NA
+1342;PP_12;81;Myristicaceae;Virola sebifera;39,5;130;13
+1343;PP_12;82;Achariaceae;Lindackeria laurina;50,6;130;10
+1344;PP_12;83;Sapindaceae;Matayba arborescens;53,9;157;18,3
+1345;PP_12;84;Sapindaceae;Matayba arborescens;113,5;130;16,2
+1346;PP_12;85;Sapindaceae;Matayba arborescens;61,6;130;14,3
+1347;PP_12;86;Urticaceae;Pourouma bicolor;107,9;130;NA
+1348;PP_12;87;Arecaceae;Oenocarpus minor;31,8;130;NA
+1349;PP_12;88;Primulaceae;Myrsine pellucidopunctata;72,6;130;12,8
+1350;PP_12;89;Nyctaginaceae;Neea parviflora;85,2;130;NA
+1351;PP_12;90;Primulaceae;Myrsine pellucidopunctata;112,4;130;20,1
+1352;PP_12;91;Lauraceae;Rhodostemonodaphne grandis;36,7;130;12,8
+1353;PP_12;92;Arecaceae;Oenocarpus minor;31,1;130;NA
+1354;PP_12;93;Arecaceae;Oenocarpus minor;34,9;130;NA
+1355;PP_12;94;Arecaceae;Oenocarpus minor;35,1;130;NA
+1356;PP_12;95;Arecaceae;Oenocarpus minor;39,7;130;NA
+1357;PP_12;96;Arecaceae;Oenocarpus minor;34,2;130;NA
+1358;PP_12;97;Clusiaceae;Chrysochlamys weberbaueri;35,8;130;NA
+1359;PP_12;98;Rubiaceae;Amaioua corymbosa;41,1;130;NA
+1360;PP_12;99;Moraceae;Pseudolmedia laevigata;47;130;14,5
+1361;PP_12;100;Moraceae;Pseudolmedia laevigata;40,5;130;10,6
+1362;PP_12;101;Arecaceae;Euterpe precatoria;32,3;130;NA
+1363;PP_12;102;Peraceae;Pera arborea;117,5;130;25,2
+1364;PP_12;103;Indet;;36;130;NA
+1365;PP_12;104;Arecaceae;Oenocarpus minor;34;130;NA
+1366;PP_12;105;Arecaceae;Oenocarpus minor;33,8;130;NA
+1367;PP_12;106;Arecaceae;Oenocarpus minor;36,1;130;NA
+1368;PP_12;107;Araliaceae;Schefflera morototoni;75,2;130;NA
+1369;PP_12;108;Fabaceae;Inga pezizifera;65,7;130;NA
+1370;PP_12;109;Moraceae;Pseudolmedia laevigata;35,3;130;NA
+1371;PP_12;110;Moraceae;Pseudolmedia laevigata;31,1;130;NA
+1372;PP_12;111;Annonaceae;;51,6;130;20,1
+1373;PP_12;112;Boraginaceae;Cordia bicolor;66,3;130;NA
+1374;PP_12;113;Moraceae;Pseudolmedia laevigata;60,3;130;17,5
+1375;PP_12;114;Erythroxylaceae;Erythroxylum citrifolium;32;130;NA
+1376;PP_12;115;Myristicaceae;Virola sebifera;113,3;130;18,7
+1377;PP_12;116;Peraceae;Pera arborea;64;130;15,1
+1378;PP_12;117;Rubiaceae;Coutarea hexandra;133;130;21
+1379;PP_12;118;Moraceae;Pseudolmedia laevigata;59,7;130;18
+1380;PP_12;119;Annonaceae;;82,3;130;16,1
+1381;PP_12;120;Rubiaceae;Amaioua corymbosa;36,6;130;NA
+1382;PP_12;121;Moraceae;Pseudolmedia laevigata;77;130;16,2
+1383;PP_12;122;Achariaceae;Lindackeria laurina;47,9;130;12,1
+1384;PP_12;123;Moraceae;Helicostylis tomentosa;34,5;130;NA
+1385;PP_12;124;Myristicaceae;Virola sebifera;55,4;130;NA
+1386;PP_12;125;Fabaceae;Abarema jupunba;49,7;130;NA
+1387;PP_12;126;Boraginaceae;Cordia bicolor;116,3;130;20,4
+1388;PP_12;127;Annonaceae;;94,1;123;14,4
+1389;PP_12;128;Moraceae;Pseudolmedia laevigata;42,3;130;13,1
+1390;PP_12;129;Fabaceae;Abarema jupunba;40,8;130;8,1
+1391;PP_12;130;Bignoniaceae;Jacaranda copaia;94,5;130;17,5
+1392;PP_12;131;Proteaceae;Roupala montana;72,1;130;NA
+1393;PP_12;132;Sapindaceae;Matayba arborescens;49,5;130;NA
+1394;PP_12;133;Proteaceae;Roupala montana;53;130;17,9
+1395;PP_12;134;Urticaceae;Pourouma bicolor;92;130;15,7
+1396;PP_12;135;Rosaceae;;37,1;130;11,3
+1397;PP_12;136;Moraceae;Helicostylis tomentosa;35,5;130;NA
+1398;PP_12;137;Peraceae;Pera arborea;60,2;130;14,2
+1399;PP_12;138;Erythroxylaceae;Erythroxylum citrifolium;64,1;130;13,7
+1400;PP_12;139;Fabaceae;Inga thibaudiana;43,6;130;10,8
+1401;PP_12;140;Fabaceae;Inga pezizifera;50,4;130;15,2
+1402;PP_12;141;Moraceae;Pseudolmedia laevigata;64,9;130;16,5
+1403;PP_12;142;Moraceae;Pseudolmedia laevigata;37,6;130;11,7
+1404;PP_12;143;Peraceae;Pera colombiana;42,6;130;14,3
+1405;PP_12;144;Burseraceae;Tetragastris panamensis;88,2;130;NA
+1406;PP_12;145;Achariaceae;Lindackeria laurina;43,3;130;12,5
+1407;PP_12;146;Urticaceae;Pourouma bicolor;87,7;130;17,6
+1408;PP_12;147;Annonaceae;;95,9;130;13,3
+1409;PP_12;148;Urticaceae;Pourouma bicolor;106,6;130;15,1
+1410;PP_12;149;Annonaceae;;46,1;130;12,9
+1411;PP_12;150;Urticaceae;Pourouma bicolor;75,5;130;NA
+1412;PP_12;151;Urticaceae;Pourouma bicolor;NA;130;NA
+1413;PP_12;152;Erythroxylaceae;Erythroxylum citrifolium;38,7;130;12,3
+1414;PP_12;153;Arecaceae;Oenocarpus minor;34,3;130;NA
+1415;PP_12;154;Araliaceae;Schefflera morototoni;105,4;130;19,7
+1416;PP_12;155;Primulaceae;Myrsine pellucidopunctata;75,1;130;18,1
+1417;PP_12;156;Moraceae;Pseudolmedia laevigata;54;130;12,3
+1418;PP_12;157;Rubiaceae;Amaioua corymbosa;49,2;130;14
+1419;PP_12;158;Boraginaceae;Cordia bicolor;101,5;130;25,7
+1420;PP_12;159;Annonaceae;;37;130;13,3
+1421;PP_12;160;Peraceae;Pera arborea;63,3;130;17,5
+1422;PP_12;161;Sapindaceae;Matayba arborescens;116,1;130;20,2
+1423;PP_12;162;Arecaceae;Oenocarpus bataua;57,9;130;19,9
+1424;PP_12;163;Rubiaceae;Amaioua corymbosa;119,8;280;23,2
+1425;PP_12;164;Urticaceae;;31,5;130;NA
+1426;PP_12;165;Vochysiaceae;;32,8;130;NA
+1427;PP_12;166;Moraceae;Pseudolmedia laevigata;55,5;130;13,6
+1428;PP_12;167;Sapindaceae;Matayba arborescens;35;130;NA
+1429;PP_12;168;Urticaceae;Pourouma bicolor;96,1;130;NA
+1430;PP_12;169;Moraceae;Pseudolmedia laevigata;75,6;130;15,9
+1431;PP_12;170;Myristicaceae;Virola sebifera;41;130;12,3
+1432;PP_12;171;Arecaceae;Oenocarpus minor;32;130;NA
+1433;PP_12;172;Arecaceae;Oenocarpus bataua;32,3;130;NA
+1434;PP_12;173;Arecaceae;Oenocarpus bataua;31,5;130;NA
+1435;PP_12;174;Arecaceae;Oenocarpus bataua;31,9;130;NA
+1436;PP_12;175;Myrtaceae;Myrcia splendens;47,6;130;9,5
+1437;PP_12;176;Moraceae;Pseudolmedia laevigata;33,1;130;NA
+1438;PP_12;177;Erythroxylaceae;Erythroxylum citrifolium;55,6;130;17,3
+1439;PP_12;178;Ochnaceae;Ouratea rubricyanea;36,2;130;NA
+1440;PP_12;179;Fabaceae;Abarema jupunba;46,5;130;NA
+1441;PP_12;180;Fabaceae;Abarema jupunba;65,1;288;NA
+1442;PP_12;181;Lauraceae;Ocotea guianensis;33,7;150;NA
+1443;PP_12;182;Lauraceae;Ocotea guianensis;50,5;130;NA
+1444;PP_12;183;Fabaceae;;61,7;130;16
+1445;PP_12;184;Moraceae;Helicostylis tomentosa;33,1;130;NA
+1446;PP_15;1;Moraceae;Clarisia racemosa;67,2;130;20,4
+1447;PP_15;2;Lauraceae;Rhodostemonodaphne kunthiana;68,1;180;NA
+1448;PP_15;3;Fabaceae;;96,2;156;NA
+1449;PP_15;4;Lauraceae;Ocotea javitensis;81;130;NA
+1450;PP_15;5;Fabaceae;;37,5;130;NA
+1451;PP_15;6;Meliaceae;Guarea pterorhachis;44,2;130;NA
+1452;PP_15;7;Sapotaceae;Manilkara chicle;193,2;187;27,6
+1453;PP_15;8;Sapotaceae;Micropholis egensis;43,6;130;NA
+1454;PP_15;9;Sapotaceae;;50,1;130;12,2
+1455;PP_15;10;Anacardiaceae;Tapirira guianensis;86,1;130;NA
+1456;PP_15;11;Burseraceae;Protium panamense;32,4;130;NA
+1457;PP_15;12;Sapotaceae;Manilkara chicle;41,3;130;NA
+1458;PP_15;13;Lacistemataceae;Lacistema aggregatum;40,4;144;NA
+1459;PP_15;14;Lauraceae;Rhodostemonodaphne kunthiana;NA;130;22,6
+1460;PP_15;15;Myristicaceae;Virola macrocarpa;54,4;130;16,8
+1461;PP_15;16;Apocynaceae;;33;130;NA
+1462;PP_15;17;Chrysobalanaceae;Licania hypoleuca;128,2;130;NA
+1463;PP_15;18;Clusiaceae;Garcinia magnifolia;NA;130;NA
+1464;PP_15;19;Rutaceae;;72,5;180;NA
+1465;PP_15;20;Myristicaceae;;35,8;130;NA
+1466;PP_15;21;Myristicaceae;Virola macrocarpa;70,1;130;16,6
+1467;PP_15;22;Arecaceae;Socratea exorrhiza;39;205;15,8
+1468;PP_15;23;Clusiaceae;;51,6;154;NA
+1469;PP_15;24;Myristicaceae;Virola macrocarpa;72,9;130;20,4
+1470;PP_15;25;Lauraceae;Rhodostemonodaphne kunthiana;38,7;130;NA
+1471;PP_15;26;Myristicaceae;Virola macrocarpa;73,2;130;NA
+1472;PP_15;27;Lecythidaceae;;35,1;130;13
+1473;PP_15;28;Lecythidaceae;;155,4;130;27,6
+1474;PP_15;29;Myristicaceae;Virola macrocarpa;112,5;130;24
+1475;PP_15;30;Sapotaceae;;33,6;149;NA
+1476;PP_15;31;Myristicaceae;Virola macrocarpa;87,1;130;22,2
+1477;PP_15;32;Moraceae;Batocarpus costaricensis;97,3;130;NA
+1478;PP_15;33;Myristicaceae;Virola macrocarpa;72,3;130;NA
+1479;PP_15;34;Lauraceae;;68,7;130,5;18,6
+1480;PP_15;35;Myristicaceae;Otoba novogranatensis;88,3;130;24,4
+1481;PP_15;36;Sapotaceae;Chrysophyllum lucentifolium;160,2;213;NA
+1482;PP_15;37;Clusiaceae;;83;172;NA
+1483;PP_15;38;Boraginaceae;Cordia lasiocalyx;61,9;147;NA
+1484;PP_15;39;Clusiaceae;;48,1;156;NA
+1485;PP_15;40;Lauraceae;;104;190;23,4
+1486;PP_15;41;Rubiaceae;Cosmibuena grandiflora;161,5;244;27
+1487;PP_15;42;Lecythidaceae;;203,3;188;28,4
+1488;PP_15;43;Lecythidaceae;;105,1;130;NA
+1489;PP_15;44;Chrysobalanaceae;Licania hypoleuca;38,8;134;14,6
+1490;PP_15;45;Myristicaceae;Otoba novogranatensis;43,9;153;NA
+1491;PP_15;46;Lecythidaceae;;121,2;130;23,4
+1492;PP_15;47;Fabaceae;Lonchocarpus macrophyllus;42,2;130;20
+1493;PP_15;48;Annonaceae;;54,4;144;NA
+1494;PP_15;49;Sapotaceae;Manilkara chicle;80,5;130;20,6
+1495;PP_15;50;Lecythidaceae;;194;268;NA
+1496;PP_15;51;Bignoniaceae;Amphitecna latifolia;75,4;159;NA
+1497;PP_15;52;Arecaceae;Socratea exorrhiza;32,7;248;22
+1498;PP_15;53;Lecythidaceae;;177,4;167;NA
+1499;PP_15;54;Clusiaceae;;76,4;255;17
+1500;PP_15;55;Lauraceae;Rhodostemonodaphne kunthiana;58,8;196;12,6
+1501;PP_15;56;Myristicaceae;Virola macrocarpa;38,4;130;NA
+1502;PP_15;57;Sapotaceae;Pouteria torta;44,1;130;NA
+1503;PP_15;58;Burseraceae;Tetragastris panamensis;138,7;198;23
+1504;PP_15;59;Fabaceae;;40,6;130;NA
+1505;PP_15;60;Sapotaceae;;51,4;130;16
+1506;PP_15;61;Urticaceae;Cecropia peltata;52;314;NA
+1507;PP_15;62;Rubiaceae;Stenostomum acreanum;212,3;296;NA
+1508;PP_15;63;Sapotaceae;;47,2;189;NA
+1509;PP_15;64;Myristicaceae;Virola macrocarpa;51,6;130;NA
+1510;PP_15;65;Fabaceae;Dialium guianense;197,1;315;29,6
+1511;PP_15;66;Calophyllaceae;Calophyllum brasiliense;45,8;150;NA
+1512;PP_15;67;Sapotaceae;;62,3;164;NA
+1513;PP_15;68;Malvaceae;;35,5;130;NA
+1514;PP_15;69;Malvaceae;Apeiba glabra;37,5;130;NA
+1515;PP_15;70;Myrtaceae;Myrcia florida;52;130;12,4
+1516;PP_15;71;Ebenaceae;Diospyros artanthifolia;48,4;130;NA
+1517;PP_15;72;Myristicaceae;Virola macrocarpa;66,5;130;14
+1518;PP_15;73;Lecythidaceae;;200;130;NA
+1519;PP_15;74;Sapotaceae;Manilkara chicle;39,3;147;10,6
+1520;PP_15;75;Sapotaceae;Manilkara chicle;35,5;130;11,4
+1521;PP_15;76;Calophyllaceae;Calophyllum brasiliense;38,8;130;14,6
+1522;PP_15;77;Clusiaceae;;66,5;148;15
+1523;PP_15;78;Lecythidaceae;;164,3;144;30
+1524;PP_15;79;Lauraceae;Rhodostemonodaphne kunthiana;82,6;248;16,4
+1525;PP_15;80;Olacaceae;Heisteria acuminata;37,4;126;12,4
+1526;PP_15;81;Sapotaceae;;33,3;130;NA
+1527;PP_15;82;Fabaceae;Swartzia simplex;34,3;135;NA
+1528;PP_15;83;Myristicaceae;Virola macrocarpa;72,2;130;NA
+1529;PP_15;84;Arecaceae;Socratea exorrhiza;40,6;218;10,8
+1530;PP_15;85;Sapotaceae;;58,5;141;10,8
+1531;PP_15;86;Simaroubaceae;Simarouba amara;51,7;142;NA
+1532;PP_15;87;Hypericaceae;Vismia macrophylla;83,1;137;20
+1533;PP_15;88;Myristicaceae;Virola macrocarpa;114,5;198;22,6
+1534;PP_15;89;Annonaceae;;111,8;130;23,4
+1535;PP_15;90;Anacardiaceae;Tapirira guianensis;54,4;125;NA
+1536;PP_15;91;Olacaceae;Heisteria acuminata;35,8;172;NA
+1537;PP_15;92;Sapotaceae;;130;142;19,8
+1538;PP_15;93;Sapotaceae;;52,4;130;18,8
+1539;PP_15;94;Indet;;32,9;NA;NA
+1540;PP_15;95;Malvaceae;Apeiba glabra;97,6;195;NA
+1541;PP_15;96;Clusiaceae;;54,6;148;12,2
+1542;PP_15;97;Clusiaceae;;42,4;130;9,8
+1543;PP_15;98;Sapotaceae;;32;136;NA
+1544;PP_15;99;Moraceae;Brosimum guianense;39;130;NA
+1545;PP_15;100;Malvaceae;;34;125;NA
+1546;PP_15;101;Myrtaceae;Myrcia florida;53,4;130;NA
+1547;PP_15;102;Sapotaceae;;57,9;136;12
+1548;PP_15;103;Annonaceae;;79,3;166;NA
+1549;PP_15;104;Arecaceae;Socratea exorrhiza;38;180;NA
+1550;PP_15;105;Sapotaceae;;78,7;NA;NA
+1551;PP_15;106;Fabaceae;;82,8;130;NA
+1552;PP_15;107;Sapotaceae;Manilkara chicle;44,7;148;NA
+1553;PP_15;108;Lauraceae;;42,1;171;NA
+1554;PP_15;109;Malvaceae;Apeiba glabra;52,1;130;12
+1555;PP_15;110;Lauraceae;;48,9;130;13
+1556;PP_15;111;Lacistemataceae;Lacistema aggregatum;85,7;171;17,6
+1557;PP_15;112;Clusiaceae;;60,1;157;13,6
+1558;PP_15;113;Clusiaceae;Garcinia magnifolia;45,1;146;13,8
+1559;PP_15;114;Ulmaceae;;236,6;151;23
+1560;PP_15;115;Sapotaceae;Manilkara chicle;49,5;125;NA
+1561;PP_15;116;Malpighiaceae;Pterandra colombiana;79;203;NA
+1562;PP_15;117;Lecythidaceae;Cariniana pyriformis;39,7;130;14
+1563;PP_15;118;Calophyllaceae;Calophyllum brasiliense;50,4;130;14,4
+1564;PP_15;119;Lauraceae;;105,3;130;22,4
+1565;PP_15;120;Styracaceae;;49;194;NA
+1566;PP_15;121;Sapotaceae;;97,1;327;27
+1567;PP_15;122;Polygonaceae;Coccoloba densifrons;33,6;142;NA
+1568;PP_15;123;Lecythidaceae;;162,5;145;27,4
+1569;PP_15;124;Urticaceae;Cecropia peltata;39,8;130;NA
+1570;PP_15;125;Lauraceae;;37,5;130;NA
+1571;PP_15;126;Lecythidaceae;Gustavia speciosa;53,8;130;NA
+1572;PP_15;127;Rutaceae;;44,2;130;NA
+1573;PP_15;128;Moraceae;Brosimum guianense;36,6;130;12,4
+1574;PP_15;129;Moraceae;Brosimum guianense;56,7;130;17,4
+1575;PP_15;130;Clusiaceae;Garcinia magnifolia;48,1;130;NA
+1576;PP_15;131;Sapotaceae;;71,4;199;NA
+1577;PP_15;132;Anacardiaceae;Tapirira guianensis;29,4;130;NA
+1578;PP_15;133;Fabaceae;Brownea rosa-de-monte;33;143;NA
+1579;PP_15;134;Fabaceae;Swartzia haughtii;32,4;130;NA
+1580;PP_15;135;Sapotaceae;Pouteria subrotata;32,5;130;NA
+1581;PP_15;136;Sapotaceae;Pouteria subrotata;34,2;130;NA
+1582;PP_15;137;Annonaceae;;32;138;NA
+1583;PP_15;138;Olacaceae;Heisteria acuminata;35,2;130;13,4
+1584;PP_15;139;Myristicaceae;Otoba novogranatensis;37;130;NA
+1585;PP_15;140;Lauraceae;Rhodostemonodaphne kunthiana;76;201;NA
+1586;PP_15;141;Lauraceae;Rhodostemonodaphne kunthiana;104,5;172;NA
+1587;PP_24;1;Combretaceae;Terminalia amazonia;125,8;190;26
+1588;PP_24;2;Sapotaceae;Manilkara chicle;50,4;182;NA
+1589;PP_24;3;Melastomataceae;Mouriri completens;39,3;142;NA
+1590;PP_24;4;Myristicaceae;Otoba novogranatensis;55,5;130;14,6
+1591;PP_24;5;Sapotaceae;Manilkara chicle;39,3;130;NA
+1592;PP_24;6;Arecaceae;Astrocaryum standleyanum;58;130;NA
+1593;PP_24;7;Anacardiaceae;Tapirira guianensis;112,2;174;NA
+1594;PP_24;8;Lauraceae;;47,9;130;NA
+1595;PP_24;9;Fabaceae;;156,7;359;27
+1596;PP_24;10;Sapotaceae;;127,6;205;NA
+1597;PP_24;11;Clusiaceae;;40,3;189;NA
+1598;PP_24;12;Myristicaceae;Otoba novogranatensis;47,6;130;NA
+1599;PP_24;13;Myristicaceae;Virola macrocarpa;41,5;147;NA
+1600;PP_24;14;Myristicaceae;Otoba novogranatensis;NA;130;NA
+1601;PP_24;15;Lecythidaceae;;92,3;176;NA
+1602;PP_24;16;Clusiaceae;;40,3;156;NA
+1603;PP_24;17;Myristicaceae;Otoba novogranatensis;76;130;15
+1604;PP_24;18;Lecythidaceae;;124,4;137;NA
+1605;PP_24;19;Myristicaceae;Otoba novogranatensis;114,2;130;20
+1606;PP_24;20;Lecythidaceae;;126,5;159;NA
+1607;PP_24;21;Olacaceae;Heisteria acuminata;92,9;130;NA
+1608;PP_24;22;Myristicaceae;Virola macrocarpa;78,8;130;30
+1609;PP_24;23;Fabaceae;Brownea rosa-de-monte;36,7;143;NA
+1610;PP_24;24;Lecythidaceae;;200,5;130;29,4
+1611;PP_24;25;Fabaceae;Brownea rosa-de-monte;37,4;156;NA
+1612;PP_24;26;Myristicaceae;Otoba novogranatensis;119,7;130;NA
+1613;PP_24;27;Sapotaceae;;38,4;130;NA
+1614;PP_24;28;Myristicaceae;Otoba novogranatensis;58,4;173;16
+1615;PP_24;29;Lecythidaceae;;60,6;164;NA
+1616;PP_24;30;Sapotaceae;Manilkara chicle;64,2;148;NA
+1617;PP_24;31;Myristicaceae;Virola macrocarpa;41,3;191;12,2
+1618;PP_24;32;Fabaceae;Brownea rosa-de-monte;36,2;151;NA
+1619;PP_24;33;Clusiaceae;Chrysochlamys eclipes;47,3;130;14,6
+1620;PP_24;34;Lauraceae;;80,7;275;20,4
+1621;PP_24;35;Clusiaceae;Garcinia magnifolia;51,5;193;NA
+1622;PP_24;36;Clusiaceae;;43,7;141;NA
+1623;PP_24;37;Arecaceae;Socratea exorrhiza;38;255;18
+1624;PP_24;38;Fabaceae;;63,4;233;NA
+1625;PP_24;39;Ulmaceae;;41,9;152;NA
+1626;PP_24;40;Burseraceae;Protium panamense;85;200;NA
+1627;PP_24;41;Anacardiaceae;Tapirira guianensis;83,1;149;NA
+1628;PP_24;42;Burseraceae;Protium panamense;82,2;195;17
+1629;PP_24;43;Myristicaceae;Virola macrocarpa;46,1;130;13,4
+1630;PP_24;44;Lauraceae;;110,5;157;NA
+1631;PP_24;45;Sapotaceae;Pouteria torta;86,4;186;19,6
+1632;PP_24;46;Combretaceae;Terminalia amazonia;40,7;141;NA
+1633;PP_24;47;Apocynaceae;Aspidosperma desmanthum;36,2;130;8,8
+1634;PP_24;48;Fabaceae;Brownea rosa-de-monte;34,5;130;NA
+1635;PP_24;49;Annonaceae;;47,1;199;NA
+1636;PP_24;50;Lauraceae;;88,7;148;NA
+1637;PP_24;51;Myristicaceae;Virola macrocarpa;68,9;172;NA
+1638;PP_24;52;Myristicaceae;Otoba novogranatensis;120,6;174;18
+1639;PP_24;53;Melastomataceae;Mouriri completens;41,1;164;NA
+1640;PP_24;54;Myristicaceae;Otoba novogranatensis;65,6;130;20,2
+1641;PP_24;55;Burseraceae;Tetragastris panamensis;91,1;158;18,8
+1642;PP_24;56;Burseraceae;;38,7;255;NA
+1643;PP_24;57;Fabaceae;Brownea rosa-de-monte;32,3;149;NA
+1644;PP_24;58;Myristicaceae;Virola macrocarpa;35,9;130;NA
+1645;PP_24;59;Melastomataceae;Mouriri completens;35,1;130;NA
+1646;PP_24;60;Burseraceae;Protium panamense;99,1;205;18,4
+1647;PP_24;61;Burseraceae;Protium panamense;32,8;130;NA
+1648;PP_24;62;Myristicaceae;Virola macrocarpa;85,8;130,9;18,2
+1649;PP_24;63;Sapotaceae;;47,6;276;NA
+1650;PP_24;64;Sapotaceae;Manilkara chicle;70,1;147;17,6
+1651;PP_24;65;Lecythidaceae;;124,1;148;24
+1652;PP_24;66;Arecaceae;Socratea exorrhiza;34,7;190;12,8
+1653;PP_24;67;Burseraceae;Tetragastris panamensis;97;180;17,8
+1654;PP_24;68;Annonaceae;;41,2;152;NA
+1655;PP_24;69;Olacaceae;Heisteria acuminata;39;130;12
+1656;PP_24;70;Myristicaceae;Otoba novogranatensis;40,4;341,6;9,2
+1657;PP_24;71;Anacardiaceae;Tapirira guianensis;173,1;130;23,8
+1658;PP_24;72;Myristicaceae;Virola macrocarpa;62,6;130;NA
+1659;PP_24;73;Sapotaceae;Manilkara chicle;35,5;130;NA
+1660;PP_24;74;Melastomataceae;Mouriri completens;37,5;136;NA
+1661;PP_24;75;Myristicaceae;Otoba novogranatensis;116;130;21
+1662;PP_24;76;Clusiaceae;;99,2;180;NA
+1663;PP_24;77;Lecythidaceae;;161;148;NA
+1664;PP_24;78;Fabaceae;Brownea rosa-de-monte;33,7;170;NA
+1665;PP_24;79;Sapotaceae;Manilkara chicle;34,6;162;11,4
+1666;PP_24;80;Fabaceae;Lonchocarpus macrophyllus;47;130;12,4
+1667;PP_24;81;Indet;;34,1;130;NA
+1668;PP_24;82;Myristicaceae;Otoba novogranatensis;143;130;20,6
+1669;PP_24;83;Lecythidaceae;;147,6;130;NA
+1670;PP_24;84;Clusiaceae;;33,2;130;NA
+1671;PP_24;85;Olacaceae;Heisteria acuminata;33,4;130;NA
+1672;PP_24;86;Anacardiaceae;Tapirira guianensis;NA;184;NA
+1673;PP_24;87;Sapotaceae;;85,4;196;26,8
+1674;PP_24;88;Myristicaceae;Virola macrocarpa;67;130;19
+1675;PP_24;89;Sapotaceae;Pouteria torta;175,6;337,4;23
+1676;PP_24;90;Anacardiaceae;Tapirira guianensis;146;298;NA
+1677;PP_24;91;Fabaceae;Dialium guianense;183,9;151,2;26,2
+1678;PP_24;92;Melastomataceae;Mouriri completens;35,3;130;NA
+1679;PP_24;93;Myristicaceae;Virola macrocarpa;36,4;122;9,4
+1680;PP_24;94;Clusiaceae;Garcinia magnifolia;33,2;130;13
+1681;PP_24;95;Fabaceae;Dipteryx oleifera;282,3;360;34,6
+1682;PP_24;96;Clusiaceae;Garcinia magnifolia;70,5;130;NA
+1683;PP_24;97;Sapotaceae;;102,1;194;NA
+1684;PP_24;98;Olacaceae;Heisteria acuminata;34,2;136;12,6
+1685;PP_24;99;Apocynaceae;;41,5;130;14,8
+1686;PP_24;100;Olacaceae;Heisteria acuminata;37,1;130;16,2
+1687;PP_24;101;Myristicaceae;Otoba novogranatensis;40,6;130;14,4
+1688;PP_24;102;Sapotaceae;;49,3;148;NA
+1689;PP_24;103;Sapotaceae;Manilkara chicle;35,7;126;16
+1690;PP_24;104;Lecythidaceae;;181,3;130;NA
+1691;PP_24;105;Myristicaceae;Otoba novogranatensis;49,9;130;NA
+1692;PP_24;106;Myristicaceae;Virola macrocarpa;45,9;130;NA
+1693;PP_24;107;Olacaceae;Heisteria acuminata;38,1;130;12
+1694;PP_24;108;Lecythidaceae;;209,8;130;31,6
+1695;PP_24;109;Ulmaceae;;105,7;130;NA
+1696;PP_24;110;Lecythidaceae;;182,1;270;NA
+1697;PP_24;111;Clusiaceae;Garcinia magnifolia;62,8;130;12
+1698;PP_24;112;Lecythidaceae;;41,5;130;NA
+1699;PP_24;113;Arecaceae;Socratea exorrhiza;46,2;238;23
+1700;PP_24;114;Rutaceae;;45,9;130;12,6
+1701;PP_24;115;Burseraceae;Protium panamense;103,7;241;22,4
+1702;PP_24;116;Polygonaceae;Coccoloba densifrons;35,2;130;NA
+1703;PP_24;117;Lecythidaceae;Gustavia speciosa;41,8;130;NA
+1704;PP_24;118;Annonaceae;Unonopsis colombiana;43,8;150;NA
+1705;PP_24;119;Clusiaceae;;45,1;130;11,8
+1706;PP_24;120;Melastomataceae;Mouriri completens;34,2;130;NA
+1707;PP_24;121;Apocynaceae;;131,5;148;35,6
+1708;PP_24;122;Rhizophoraceae;Cassipourea guianensis;37,1;125;NA
+1709;PP_24;123;Myristicaceae;Virola macrocarpa;42,4;162;11,4
+1710;PP_24;124;Melastomataceae;Miconia minutiflora;44,7;130;NA
+1711;PP_24;125;Annonaceae;;94,5;161;NA
+1712;PP_24;126;Apocynaceae;;42,3;130;13
+1713;PP_24;127;Myristicaceae;Virola macrocarpa;44,2;161;NA
+1714;PP_24;128;Annonaceae;;123,9;157;25,8
+1715;PP_24;129;Malvaceae;;48,4;130;NA
+1716;PP_24;130;Arecaceae;Socratea exorrhiza;33,5;184;NA
+1717;PP_24;131;Ulmaceae;;43,4;130;13
+1718;PP_24;132;Clusiaceae;Garcinia madruno;48;130;16,2
+1719;PP_24;133;Clusiaceae;Garcinia madruno;91,5;170;23
+1720;PP_24;134;Myristicaceae;Otoba novogranatensis;61,9;130;15,6
+1721;PP_24;135;Moraceae;Brosimum guianense;52,1;130;NA
+1722;PP_24;136;Myristicaceae;Otoba novogranatensis;44,5;130;13
+1723;PP_24;137;Moraceae;Brosimum guianense;34;130;12,6
+1724;PP_24;138;Urticaceae;Cecropia peltata;32,5;130;NA
+1725;PP_24;139;Fabaceae;Swartzia simplex;30,7;130;NA
+1726;PP_24;140;Annonaceae;Unonopsis pacifica;32,9;130;NA
+1727;PP_24;141;Celastraceae;;32,4;130;NA
+1728;PP_24;142;Bignoniaceae;Tabebuia striata;34,3;130;NA
+1729;PP_24;143;Bignoniaceae;Tabebuia striata;34,6;130;NA
+1730;PP_24;144;Myristicaceae;Otoba novogranatensis;37;130;NA
+1731;PP_24;145;Malvaceae;;31,3;130;NA
+1732;PP_24;146;Fabaceae;;43;130;NA
+1733;PP_24;147;Myristicaceae;Virola macrocarpa;33,2;130;NA
+1734;PP_24;148;Fabaceae;Lonchocarpus macrophyllus;37,5;130;NA
+1735;PP_24;149;Sapotaceae;;32;194;NA
+1736;PP_19;1;Melastomataceae;Miconia theizans;44,5;130;8,74
+1737;PP_19;2;Melastomataceae;;42,7;130;11,68
+1738;PP_19;3;Rubiaceae;;66,2;130;12,25
+1739;PP_19;4;Urticaceae;Cecropia gabrielis;65;130;17,12
+1740;PP_19;5;Moraceae;Ficus crassiuscula;48,7;130;11,99
+1741;PP_19;6;Melastomataceae;Conostegia acuminata;32,6;130;NA
+1742;PP_19;7;Euphorbiaceae;Sapium stylare;48,9;130;NA
+1743;PP_19;8;Melastomataceae;;64,9;130;9,3
+1744;PP_19;9;Lauraceae;;41,7;130;11,07
+1745;PP_19;10;Urticaceae;Cecropia gabrielis;87,2;130;16,01
+1746;PP_19;11;Rubiaceae;Elaeagia karstenii;67;130;13,93
+1747;PP_19;12;Euphorbiaceae;Croton killipianus;65,6;130;13,19
+1748;PP_19;13;Melastomataceae;;48,4;130;12,48
+1749;PP_19;14;Rubiaceae;Elaeagia karstenii;38;130;NA
+1750;PP_19;15;Fabaceae;Inga multijuga;48,4;130;17,4
+1751;PP_19;16;Melastomataceae;Conostegia montana;32,8;130;NA
+1752;PP_19;17;Euphorbiaceae;Croton killipianus;55,8;130;12,64
+1753;PP_19;18;Euphorbiaceae;Alchornea coelophylla;33;130;9,81
+1754;PP_19;19;Euphorbiaceae;Alchornea coelophylla;55,1;130;16,82
+1755;PP_19;20;Euphorbiaceae;Alchornea coelophylla;79,6;130;21,58
+1756;PP_19;21;Euphorbiaceae;Sapium stylare;71,2;130;24,94
+1757;PP_19;22;Rubiaceae;Dioicodendron dioicum;42,6;130;11,77
+1758;PP_19;23;Euphorbiaceae;Sapium stylare;81,8;130;32,51
+1759;PP_19;24;Melastomataceae;;42,3;130;14,45
+1760;PP_19;25;Chloranthaceae;Hedyosmum cuatrecazanum;80,3;130;16,27
+1761;PP_19;26;Melastomataceae;;64,4;126;19
+1762;PP_19;27;Rubiaceae;Elaeagia karstenii;62,5;130;NA
+1763;PP_19;28;Chloranthaceae;Hedyosmum cuatrecazanum;88,9;130;13,64
+1764;PP_19;29;Chloranthaceae;Hedyosmum cuatrecazanum;NA;130;13,84
+1765;PP_19;30;Euphorbiaceae;Sapium stylare;44,9;130;13,84
+1766;PP_19;31;Rubiaceae;Dioicodendron dioicum;54,2;130;12,91
+1767;PP_19;32;Euphorbiaceae;Croton killipianus;111,8;130;17,67
+1768;PP_19;33;Rubiaceae;Guettarda crispiflora;46,9;130;10,21
+1769;PP_19;34;Melastomataceae;;41,1;130;12,33
+1770;PP_19;35;Melastomataceae;;45,9;130;NA
+1771;PP_19;36;Hypericaceae;Vismia laevis;96,1;130;21,07
+1772;PP_19;37;Melastomataceae;;47,3;140;11,56
+1773;PP_19;38;Fabaceae;Inga multijuga;69,9;130;20,61
+1774;PP_19;39;Lauraceae;;40,5;130;14,78
+1775;PP_19;40;Meliaceae;Guarea glabra;77,1;130;19
+1776;PP_19;41;Euphorbiaceae;Croton killipianus;63;130;16,01
+1777;PP_19;42;Euphorbiaceae;Croton killipianus;36,5;130;16,59
+1778;PP_19;43;Lacistemataceae;Lozania mutisiana;67,7;130;NA
+1779;PP_19;44;Staphyleaceae;Turpinia occidentalis;37,7;130;NA
+1780;PP_19;45;Chloranthaceae;Hedyosmum cuatrecazanum;50,3;130;13,5
+1781;PP_19;46;Hypericaceae;Vismia laevis;58,4;130;15,82
+1782;PP_19;47;Salicaceae;Casearia zahlbruckneri;33,7;130;15,75
+1783;PP_19;48;Hypericaceae;Vismia laevis;77;130;16,49
+1784;PP_19;49;Urticaceae;Cecropia gabrielis;76,7;130;17,9
+1785;PP_19;50;Urticaceae;Cecropia gabrielis;87,4;130;22,42
+1786;PP_19;51;Chloranthaceae;Hedyosmum cuatrecazanum;85,7;160;NA
+1787;PP_19;52;Melastomataceae;Miconia theizans;36,7;130;10,98
+1788;PP_19;53;Rubiaceae;Elaeagia karstenii;40,2;130;NA
+1789;PP_19;54;Melastomataceae;Miconia theizans;45;130;13,22
+1790;PP_19;55;Chloranthaceae;Hedyosmum cuatrecazanum;77,5;166;NA
+1791;PP_19;56;Hypericaceae;Vismia laevis;135,3;130;17,72
+1792;PP_19;57;Lauraceae;;80,1;130;17,08
+1793;PP_19;58;Annonaceae;Guatteria goudotiana;83,9;130;NA
+1794;PP_19;59;Viburnaceae;Viburnum tinoides;36,5;130;NA
+1795;PP_19;60;Moraceae;Ficus americana;41,3;260;NA
+1796;PP_19;61;Annonaceae;Guatteria goudotiana;61,2;130;NA
+1797;PP_19;62;Melastomataceae;;32,9;130;NA
+1798;PP_19;63;Aquifoliaceae;Ilex nervosa;65,5;130;NA
+1799;PP_19;64;Viburnaceae;Viburnum tinoides;37,7;130;NA
+1800;PP_19;65;Rubiaceae;Elaeagia karstenii;109,6;130;NA
+1801;PP_19;66;Primulaceae;Myrsine coriacea;98,2;130;NA
+1802;PP_19;67;Urticaceae;Cecropia gabrielis;88,3;130;NA
+1803;PP_19;68;Sapindaceae;Billia rosea;36,7;130;NA
+1804;PP_19;69;Phyllanthaceae;Richeria grandis;34,5;130;NA
+1805;PP_19;70;Phyllanthaceae;Hieronyma duquei;61,1;130;19,27
+1806;PP_19;71;Euphorbiaceae;Alchornea grandiflora;100,4;130;NA
+1807;PP_19;72;Phyllanthaceae;Hieronyma duquei;38,1;138;NA
+1808;PP_19;73;Sapindaceae;;66,9;130;22,9
+1809;PP_19;74;Annonaceae;Guatteria goudotiana;32,9;130;NA
+1810;PP_19;75;Annonaceae;Guatteria goudotiana;33,7;130;12,75
+1811;PP_19;76;Phyllanthaceae;Richeria grandis;90;130;14,78
+1812;PP_19;77;Symplocaceae;;166,6;130;NA
+1813;PP_19;78;Myrtaceae;;89,5;130;NA
+1814;PP_19;79;Lauraceae;Ocotea javitensis;68,7;151;NA
+1815;PP_19;80;Rubiaceae;Elaeagia pastoensis;39,9;130;NA
+1816;PP_19;81;Calophyllaceae;Calophyllum brasiliense;38,9;130;NA
+1817;PP_19;82;Phyllanthaceae;Richeria grandis;57,4;130;13,1
+1818;PP_19;83;Melastomataceae;Conostegia montana;52,8;130;8,97
+1819;PP_19;84;Rubiaceae;Elaeagia pastoensis;75;130;NA
+1820;PP_19;85;Phyllanthaceae;Hieronyma duquei;66;194;NA
+1821;PP_19;86;Calophyllaceae;Calophyllum brasiliense;NA;130;NA
+1822;PP_19;87;Phyllanthaceae;Richeria grandis;47,7;130;NA
+1823;PP_19;88;Chloranthaceae;Hedyosmum cuatrecazanum;60,5;130;NA
+1824;PP_19;89;Chloranthaceae;Hedyosmum cuatrecazanum;55,3;130;NA
+1825;PP_19;90;Phyllanthaceae;Hieronyma duquei;49,4;130;11,86
+1826;PP_19;91;Phyllanthaceae;Hieronyma duquei;45,5;130;8,69
+1827;PP_19;92;Clethraceae;Clethra fagifolia;35,1;130;NA
+1828;PP_19;93;Calophyllaceae;Calophyllum brasiliense;64,7;130;15,93
+1829;PP_19;94;Phyllanthaceae;Hieronyma duquei;110,3;130;19,55
+1830;PP_19;95;Calophyllaceae;Calophyllum brasiliense;37,9;130;6,22
+1831;PP_19;96;Dichapetalaceae;Stephanopodium aptotum;33,1;130;NA
+1832;PP_19;97;Calophyllaceae;Calophyllum brasiliense;65,8;130;9,95
+1833;PP_19;98;Rubiaceae;Elaeagia pastoensis;66,6;130;12,89
+1834;PP_19;99;Moraceae;Ficus americana;44,7;130;NA
+1835;PP_19;100;Phyllanthaceae;Hieronyma duquei;142;130;NA
+1836;PP_19;101;Phyllanthaceae;Hieronyma duquei;34,9;130;NA
+1837;PP_19;102;Lauraceae;Persea cuneata;46,6;130;NA
+1838;PP_19;103;Rubiaceae;Elaeagia karstenii;49,2;130;10,56
+1839;PP_19;104;Chloranthaceae;Hedyosmum cuatrecazanum;57,5;130;8,8
+1840;PP_19;105;Rubiaceae;Dioicodendron dioicum;33,2;130;NA
+1841;PP_19;106;Hypericaceae;Vismia laevis;71,6;130;12,5
+1842;PP_19;107;Fabaceae;Inga multijuga;102,7;130;NA
+1843;PP_19;108;Hypericaceae;Vismia laevis;66,9;130;NA
+1844;PP_19;109;Aquifoliaceae;Ilex nervosa;56,7;130;NA
+1845;PP_19;110;Cyatheaceae;Cyathea caracasana;32,2;130;NA
+1846;PP_19;111;Hypericaceae;Vismia laevis;99,2;130;NA
+1847;PP_19;112;Chrysobalanaceae;Couepia platycalyx;92,3;130;NA
+1848;PP_19;113;Meliaceae;Ruagea pubescens;38,7;130;12,15
+1849;PP_19;114;Lauraceae;Ocotea javitensis;40,4;130;NA
+1850;PP_19;115;Fabaceae;Inga sierrae;66,5;130;17,78
+1851;PP_19;116;Euphorbiaceae;Croton killipianus;79,9;130;NA
+1852;PP_19;117;Lauraceae;;115,7;130;NA
+1853;PP_19;118;Clethraceae;Clethra fagifolia;33,8;130;NA
+1854;PP_19;119;Aquifoliaceae;Ilex nervosa;50,6;130;12,97
+1855;PP_19;120;Sapindaceae;Billia rosea;38,7;130;12,12
+1856;PP_19;121;Calophyllaceae;Calophyllum brasiliense;92,4;130;20,57
+1857;PP_19;122;Lauraceae;Ocotea javitensis;86,8;130;18,42
+1858;PP_19;123;Arecaceae;Wettinia fascicularis;35,5;130;NA
+1859;PP_19;124;Rubiaceae;Elaeagia pastoensis;83,9;136;NA
+1860;PP_19;125;Araliaceae;;35,5;130;15,23
+1861;PP_19;126;Elaeocarpaceae;Sloanea brevispina;50,5;130;NA
+1862;PP_19;127;Rubiaceae;Elaeagia pastoensis;44,8;130;NA
+1863;PP_19;128;Rubiaceae;Elaeagia pastoensis;46,2;130;NA
+1864;PP_19;129;Euphorbiaceae;Alchornea coelophylla;80,8;130;NA
+1865;PP_19;130;Melastomataceae;Miconia poeppigii;52,9;130;NA
+1866;PP_19;131;Annonaceae;Guatteria goudotiana;46,1;130;NA
+1867;PP_19;132;Elaeocarpaceae;Sloanea brevispina;33,2;130;NA
+1868;PP_19;133;Moraceae;Ficus americana;66,5;130;10,15
+1869;PP_19;134;Chloranthaceae;Hedyosmum racemosum;66,2;130;NA
+1870;PP_19;135;Lauraceae;Ocotea javitensis;76,7;130;NA
+1871;PP_19;136;Hypericaceae;Vismia laevis;67,2;130;14,45
+1872;PP_19;137;Hypericaceae;Vismia laevis;58,6;130;12,34
+1873;PP_19;138;Chloranthaceae;Hedyosmum cuatrecazanum;36,9;130;NA
+1874;PP_19;139;Aquifoliaceae;Ilex nervosa;40,2;130;15,7
+1875;PP_19;140;Hypericaceae;Vismia laevis;31,5;130;NA
+1876;PP_19;141;Aquifoliaceae;Ilex nervosa;49,3;130;NA
+1877;PP_19;142;Hypericaceae;Vismia laevis;47,9;130;NA
+1878;PP_19;143;Chrysobalanaceae;Couepia platycalyx;59,4;130;NA
+1879;PP_19;144;Euphorbiaceae;Alchornea coelophylla;82,4;130;19,63
+1880;PP_19;145;Chrysobalanaceae;Couepia platycalyx;65,8;130;NA
+1881;PP_19;146;Euphorbiaceae;Croton killipianus;59,2;130;NA
+1882;PP_19;147;Lauraceae;Ocotea javitensis;49,1;130;13,71
+1883;PP_19;148;Arecaceae;Wettinia fascicularis;36,7;130;NA
+1884;PP_19;149;Symplocaceae;;46,9;130;19,63
+1885;PP_19;150;Phyllanthaceae;Hieronyma duquei;63,5;130;21,1
+1886;PP_19;151;Melastomataceae;Conostegia montana;70,1;130;40,38
+1887;PP_19;152;Lauraceae;;35,6;130;14,94
+1888;PP_19;153;Phyllanthaceae;;44,8;130;NA
+1889;PP_19;154;Rubiaceae;Elaeagia pastoensis;77,3;130;NA
+1890;PP_19;155;Chloranthaceae;Hedyosmum cuatrecazanum;77,6;130;NA
+1891;PP_19;156;Dichapetalaceae;Tapura colombiana;60,4;130;NA
+1892;PP_19;157;Hypericaceae;Vismia laevis;91,9;130;NA
+1893;PP_19;158;Annonaceae;Guatteria goudotiana;66,9;136;NA
+1894;PP_19;159;Chrysobalanaceae;Couepia platycalyx;48,6;130;NA
+1895;PP_19;160;Rubiaceae;Elaeagia pastoensis;67,4;130;11,57
+1896;PP_19;161;Phyllanthaceae;;55,1;130;NA
+1897;PP_19;162;Euphorbiaceae;Alchornea coelophylla;105,3;130;12,73
+1898;PP_19;163;Rubiaceae;Elaeagia pastoensis;40,4;130;NA
+1899;PP_19;164;Arecaceae;Wettinia fascicularis;35,1;180;NA
+1900;PP_19;165;Cyatheaceae;Cyathea fulva;37;130;NA
+1901;PP_19;166;Dichapetalaceae;Tapura colombiana;52,2;130;NA
+1902;PP_19;167;Annonaceae;Guatteria goudotiana;50;130;NA
+1903;PP_19;168;Annonaceae;Guatteria goudotiana;35,3;130;NA
+1904;PP_19;169;Annonaceae;Guatteria goudotiana;34,3;130;NA
+1905;PP_19;170;Phyllanthaceae;;75,3;130;NA
+1906;PP_19;171;Phyllanthaceae;;44,7;130;NA
+1907;PP_19;172;Hypericaceae;Vismia baccifera;74,7;130;19,85
+1908;PP_19;173;Hypericaceae;Vismia laevis;56,5;130;NA
+1909;PP_19;174;Phyllanthaceae;Hieronyma duquei;40;130;NA
+1910;PP_19;175;Chrysobalanaceae;Couepia platycalyx;106,5;130;NA
+1911;PP_19;176;Annonaceae;Guatteria goudotiana;55;130;NA
+1912;PP_19;177;Annonaceae;Guatteria goudotiana;41,3;130;NA
+1913;PP_19;178;Lauraceae;Ocotea balanocarpa;55,3;130;NA
+1914;PP_19;179;Rubiaceae;Elaeagia pastoensis;40,7;130;10,84
+1915;PP_19;180;Sapindaceae;;34;130;NA
+1916;PP_19;181;Rubiaceae;Elaeagia karstenii;42,3;130;NA
+1917;PP_19;182;Lauraceae;Ocotea javitensis;41,2;130;15,2
+1918;PP_19;183;Phyllanthaceae;Richeria grandis;49,9;140;12,06
+1919;PP_19;184;Primulaceae;Myrsine coriacea;42;140;NA
+1920;PP_19;185;Melastomataceae;Miconia poeppigii;59,8;130;NA
+1921;PP_19;186;Primulaceae;Myrsine coriacea;37,5;130;7,28
+1922;PP_19;187;Lauraceae;;50,5;130;NA
+1923;PP_19;188;Myrtaceae;;44,5;130;10,84
+1924;PP_19;189;Clethraceae;Clethra fagifolia;72,3;130;14,04
+1925;PP_19;190;Euphorbiaceae;Alchornea coelophylla;64,9;130;9,81
+1926;PP_19;191;Euphorbiaceae;Alchornea coelophylla;42,3;130;NA
+1927;PP_19;192;Melastomataceae;Miconia poeppigii;46,4;130;NA
+1928;PP_19;193;Melastomataceae;Miconia poeppigii;65,7;130;NA
+1929;PP_19;194;Lauraceae;Ocotea javitensis;55,6;130;NA
+1930;PP_19;195;Hypericaceae;Vismia laevis;60;130;13,01
+1931;PP_19;196;Hypericaceae;Vismia laevis;53,9;130;14,06
+1932;PP_19;197;Hypericaceae;Vismia laevis;42,9;130;10,91
+1933;PP_19;198;Rubiaceae;Elaeagia pastoensis;50;130;NA
+1934;PP_19;199;Arecaceae;Wettinia fascicularis;31,8;150;NA
+1935;PP_19;200;Lauraceae;Ocotea javitensis;83,3;130;NA
+1936;PP_19;201;Rubiaceae;Elaeagia pastoensis;96,7;125;19,81
+1937;PP_19;202;Annonaceae;Guatteria goudotiana;67,8;130;NA
+1938;PP_19;203;Melastomataceae;Miconia poeppigii;56;130;NA
+1939;PP_19;204;Rubiaceae;Elaeagia pastoensis;54,9;130;8,08
+1940;PP_19;205;Hypericaceae;Vismia laevis;52,9;130;9,81
+1941;PP_19;206;Arecaceae;Wettinia fascicularis;37,4;130;NA
+1942;PP_19;207;Rubiaceae;Elaeagia pastoensis;49,5;130;NA
+1943;PP_19;208;Melastomataceae;Miconia poeppigii;53,1;135;8,93
+1944;PP_19;209;Rubiaceae;Elaeagia pastoensis;92;130;NA
+1945;PP_19;210;Clethraceae;Clethra fagifolia;60;130;NA
+1946;PP_19;211;Hypericaceae;Vismia laevis;48,4;140;11,4
+1947;PP_19;212;Sapindaceae;Billia rosea;42,2;130;NA
+1948;PP_19;213;Sapindaceae;Billia rosea;64,2;130;NA
+1949;PP_19;214;Sapindaceae;Billia rosea;34,6;130;NA
+1950;PP_19;215;Arecaceae;Wettinia fascicularis;37,7;130;NA
+1951;PP_19;216;Clethraceae;Clethra fagifolia;61,7;130;10,79
+1952;PP_19;217;Meliaceae;Guarea glabra;40,6;130;8,08
+1953;PP_19;218;Magnoliaceae;Magnolia yarumalensis;38,4;130;11,26
+1954;PP_19;219;Annonaceae;Guatteria goudotiana;39;150;NA
+1955;PP_19;220;Lauraceae;Ocotea balanocarpa;62,8;130;NA
+1956;PP_19;221;Myrtaceae;;58,7;130;NA
+1957;PP_19;222;Sapindaceae;Billia rosea;51,4;140;NA
+1958;PP_19;223;Annonaceae;Guatteria goudotiana;35,6;130;9,61
+1959;PP_19;224;Annonaceae;Guatteria goudotiana;53,3;130;NA
+1960;PP_19;225;Euphorbiaceae;Alchornea coelophylla;73,8;130;13,24
+1961;PP_19;226;Annonaceae;Guatteria goudotiana;38;127;NA
+1962;PP_19;227;Euphorbiaceae;Alchornea coelophylla;48,5;130;10,46
+1963;PP_19;228;Euphorbiaceae;Alchornea coelophylla;39,7;130;8,09
+1964;PP_19;229;Euphorbiaceae;Alchornea coelophylla;40,4;130;12,03
+1965;PP_19;230;Euphorbiaceae;Alchornea coelophylla;50,5;130;14
+1966;PP_19;231;Lauraceae;;33,3;130;9,3
+1967;PP_19;232;Rubiaceae;Elaeagia pastoensis;32,7;130;NA
+1968;PP_19;233;Salicaceae;Casearia zahlbruckneri;33,9;130;NA
+1969;PP_19;234;Phyllanthaceae;Hieronyma duquei;32,4;130;NA
+1970;PP_19;235;Annonaceae;;33,7;130;NA
+1971;PP_19;236;Lauraceae;;34,4;130;NA
+1972;PP_19;237;Chloranthaceae;Hedyosmum cuatrecazanum;30,9;130;NA
+1973;PP_19;238;Melastomataceae;Miconia theizans;34,3;130;NA
+1974;PP_19;239;Hypericaceae;Vismia laevis;37,8;130;NA
+1975;PP_19;240;Lauraceae;Beilschmiedia tovarensis;36,3;130;NA
+1976;PP_19;241;Euphorbiaceae;Alchornea coelophylla;54,8;130;NA
+1977;PP_19;242;Rubiaceae;Elaeagia karstenii;40,5;130;11,67
+1978;PP_19;243;Euphorbiaceae;Croton killipianus;79,5;130;17,01
+1979;PP_19;244;Lauraceae;;56;130;13,46
+1980;PP_19;245;Melastomataceae;;35,6;130;NA
+1981;PP_19;246;Melastomataceae;;55,6;174;NA
+1982;PP_19;247;Chloranthaceae;Hedyosmum cuatrecazanum;43,1;130;NA
+1983;PP_19;248;Lauraceae;;42,5;130;NA
+1984;PP_20;1;Chloranthaceae;Hedyosmum cuatrecazanum;39;130;9,98
+1985;PP_20;2;Lauraceae;Ocotea javitensis;51,8;130;13,23
+1986;PP_20;3;Lauraceae;Beilschmiedia tovarensis;35,5;130;NA
+1987;PP_20;4;Annonaceae;Guatteria goudotiana;73,6;130;12,43
+1988;PP_20;5;Melastomataceae;Miconia poeppigii;60,3;130;NA
+1989;PP_20;6;Melastomataceae;Miconia poeppigii;48,6;145;NA
+1990;PP_20;7;Myrtaceae;Myrcia popayanensis;32,8;130;7,32
+1991;PP_20;8;Phyllanthaceae;Hieronyma duquei;39,9;NA;NA
+1992;PP_20;9;Lauraceae;Ocotea javitensis;56;130;8,59
+1993;PP_20;10;Lauraceae;Ocotea javitensis;41,4;130;5,83
+1994;PP_20;11;Melastomataceae;Miconia poeppigii;57,2;176,5;NA
+1995;PP_20;12;Euphorbiaceae;Alchornea coelophylla;51,7;130;15,02
+1996;PP_20;13;Annonaceae;Guatteria goudotiana;103,3;130;NA
+1997;PP_20;14;Euphorbiaceae;Alchornea coelophylla;36,5;130;NA
+1998;PP_20;15;Calophyllaceae;Calophyllum brasiliense;39,8;130;11,58
+1999;PP_20;16;Piperaceae;Piper longispicum;30,1;130;NA
+2000;PP_20;17;Sapindaceae;Billia rosea;80,1;225;NA
+2001;PP_20;18;Sapindaceae;Billia rosea;49,6;130;NA
+2002;PP_20;19;Annonaceae;Guatteria goudotiana;63;140;NA
+2003;PP_20;20;Melastomataceae;Miconia aponeura;36,9;130;NA
+2004;PP_20;21;Phyllanthaceae;Richeria grandis;38;130;NA
+2005;PP_20;22;Euphorbiaceae;Alchornea grandiflora;NA;130;NA
+2006;PP_20;23;Hypericaceae;Vismia laevis;40,3;130;9,67
+2007;PP_20;24;Piperaceae;;39,1;233;NA
+2008;PP_20;25;Melastomataceae;Miconia poeppigii;71,8;135;NA
+2009;PP_20;26;Fabaceae;Abarema callejasii;46,6;135;NA
+2010;PP_20;27;Annonaceae;Guatteria goudotiana;41,6;130;NA
+2011;PP_20;28;Fabaceae;Inga sierrae;68;130;14,78
+2012;PP_20;29;Annonaceae;Guatteria goudotiana;32,7;130;NA
+2013;PP_20;30;Lamiaceae;Aegiphila integrifolia;35,3;130;NA
+2014;PP_20;31;Hypericaceae;Vismia laevis;53,2;130;13,57
+2015;PP_20;32;Chloranthaceae;Hedyosmum cuatrecazanum;73,5;130;11,43
+2016;PP_20;33;Melastomataceae;Miconia theizans;39,7;130;8,83
+2017;PP_20;34;Hypericaceae;Vismia laevis;64,6;130;NA
+2018;PP_20;35;Melastomataceae;Miconia aponeura;56,3;130;NA
+2019;PP_20;36;Hypericaceae;Vismia laevis;54,7;130;NA
+2020;PP_20;37;Hypericaceae;Vismia laevis;73;130;NA
+2021;PP_20;38;Melastomataceae;Miconia aponeura;43,1;130;NA
+2022;PP_20;39;Myrtaceae;;34,9;130;NA
+2023;PP_20;40;Clethraceae;Clethra fagifolia;34,4;130;NA
+2024;PP_20;41;Annonaceae;Guatteria goudotiana;50,6;130;16,24
+2025;PP_20;42;Euphorbiaceae;Alchornea coelophylla;104,3;230;NA
+2026;PP_20;43;Styracaceae;;52,3;130;NA
+2027;PP_20;44;Rubiaceae;Elaeagia pastoensis;59,1;180;13,22
+2028;PP_20;45;Annonaceae;Guatteria goudotiana;44,7;125;NA
+2029;PP_20;46;Phyllanthaceae;Hieronyma duquei;74;130;NA
+2030;PP_20;47;Ochnaceae;Godoya antioquiensis;42,4;140;NA
+2031;PP_20;48;Annonaceae;Guatteria goudotiana;67,1;140;NA
+2032;PP_20;49;Annonaceae;Guatteria goudotiana;38,7;130;17,6
+2033;PP_20;50;Dichapetalaceae;Tapura colombiana;47,9;130;14
+2034;PP_20;51;Lauraceae;;114,8;130;NA
+2035;PP_20;52;Phyllanthaceae;Hieronyma duquei;75;130;NA
+2036;PP_20;53;Myrtaceae;;35,6;130;NA
+2037;PP_20;54;Clethraceae;Clethra fagifolia;38,4;260;NA
+2038;PP_20;55;Melastomataceae;Topobea albertiae;52,1;130;NA
+2039;PP_20;56;Primulaceae;Myrsine coriacea;53,4;130;NA
+2040;PP_20;57;Arecaceae;Wettinia fascicularis;38,8;130;NA
+2041;PP_20;58;Cyatheaceae;Cyathea fulva;30,7;130;NA
+2042;PP_20;59;Euphorbiaceae;Alchornea coelophylla;51,6;130;NA
+2043;PP_20;60;Magnoliaceae;Magnolia yarumalensis;34,4;130;NA
+2044;PP_20;61;Phyllanthaceae;Hieronyma duquei;88,6;130;NA
+2045;PP_20;62;Podocarpaceae;Podocarpus oleifolius;63,4;130;12,84
+2046;PP_20;63;Arecaceae;Wettinia fascicularis;33,1;130;NA
+2047;PP_20;64;Myrtaceae;;36,9;130;NA
+2048;PP_20;65;Euphorbiaceae;Alchornea grandiflora;39,4;130;NA
+2049;PP_20;66;Primulaceae;Myrsine coriacea;56,9;130;NA
+2050;PP_20;67;Clethraceae;Clethra fagifolia;53,9;130;10,64
+2051;PP_20;68;Annonaceae;Guatteria goudotiana;39,2;130;NA
+2052;PP_20;69;Dichapetalaceae;Tapura colombiana;50,2;130;15,76
+2053;PP_20;70;Aquifoliaceae;Ilex pustulosa;42,4;130;NA
+2054;PP_20;71;Myrtaceae;Eugenia dittocrepis;93,1;130;NA
+2055;PP_20;72;Euphorbiaceae;Alchornea coelophylla;79,3;130;12,97
+2056;PP_20;73;Lauraceae;;68,9;130;NA
+2057;PP_20;74;Rubiaceae;Elaeagia pastoensis;44,1;130;12,27
+2058;PP_20;75;Chrysobalanaceae;Couepia platycalyx;55,2;130;9,33
+2059;PP_20;76;Indet;;80,4;130;14,2
+2060;PP_20;77;Phyllanthaceae;Richeria grandis;52,3;130;15,77
+2061;PP_20;78;Rubiaceae;Elaeagia pastoensis;32,5;130;12,87
+2062;PP_20;79;Rubiaceae;Elaeagia pastoensis;54,7;130;12,48
+2063;PP_20;80;Euphorbiaceae;Alchornea coelophylla;71,7;130;NA
+2064;PP_20;81;Rubiaceae;Elaeagia pastoensis;46,9;150;NA
+2065;PP_20;82;Lauraceae;;60,4;130;14,27
+2066;PP_20;83;Aquifoliaceae;Ilex pustulosa;39,6;130;NA
+2067;PP_20;84;Annonaceae;Guatteria goudotiana;34,1;130;NA
+2068;PP_20;85;Rubiaceae;Elaeagia pastoensis;38;130;NA
+2069;PP_20;86;Rubiaceae;Elaeagia pastoensis;36,3;130;NA
+2070;PP_20;87;Symplocaceae;;42;130;8,74
+2071;PP_20;88;Phyllanthaceae;Hieronyma duquei;46,7;130;6,49
+2072;PP_20;89;Rubiaceae;Elaeagia pastoensis;72,7;130;NA
+2073;PP_20;90;Clethraceae;Clethra fagifolia;63,8;205;NA
+2074;PP_20;91;Cyatheaceae;Cyathea caracasana;40;130;NA
+2075;PP_20;92;Lauraceae;;45,3;130;NA
+2076;PP_20;93;Myrtaceae;Myrcia popayanensis;58,7;130;NA
+2077;PP_20;94;Lauraceae;;47,9;130;NA
+2078;PP_20;95;Rubiaceae;Elaeagia pastoensis;45,8;130;NA
+2079;PP_20;96;Clethraceae;Clethra fagifolia;100;130;14,31
+2080;PP_20;97;Phyllanthaceae;Hieronyma duquei;60;130;NA
+2081;PP_20;98;Euphorbiaceae;Alchornea coelophylla;49,7;130;NA
+2082;PP_20;99;Euphorbiaceae;Alchornea coelophylla;52,8;130;NA
+2083;PP_20;100;Euphorbiaceae;Alchornea coelophylla;47,8;130;NA
+2084;PP_20;101;Aquifoliaceae;Ilex nervosa;32,2;130;7,88
+2085;PP_20;102;Melastomataceae;Miconia poeppigii;51;130;NA
+2086;PP_20;103;Annonaceae;Guatteria goudotiana;66,5;130;NA
+2087;PP_20;104;Indet;;35,7;130;NA
+2088;PP_20;105;Euphorbiaceae;Alchornea coelophylla;67;130;NA
+2089;PP_20;106;Lauraceae;;38,4;130;8,52
+2090;PP_20;107;Euphorbiaceae;Alchornea coelophylla;73,9;130;NA
+2091;PP_20;108;Phyllanthaceae;Phyllanthus callejasii;NA;130;10,72
+2092;PP_20;109;Cyatheaceae;Cyathea fulva;39,5;130;NA
+2093;PP_20;110;Aquifoliaceae;Ilex pustulosa;41,5;130;NA
+2094;PP_20;111;Chloranthaceae;Hedyosmum cuatrecazanum;49,8;130;16,17
+2095;PP_20;112;Rubiaceae;Elaeagia pastoensis;81,6;130;15,63
+2096;PP_20;113;Arecaceae;Wettinia fascicularis;40,6;130;NA
+2097;PP_20;114;Annonaceae;Guatteria goudotiana;34,7;130;NA
+2098;PP_20;115;Cyatheaceae;Cyathea fulva;37,8;130;NA
+2099;PP_20;116;Melastomataceae;Miconia aponeura;50,2;130;NA
+2100;PP_20;117;Aquifoliaceae;Ilex pustulosa;35,4;130;NA
+2101;PP_20;118;Melastomataceae;Miconia aponeura;46,6;130;NA
+2102;PP_20;119;Lauraceae;Ocotea javitensis;36,8;130;10,77
+2103;PP_20;120;Myrtaceae;Myrcia popayanensis;37,8;130;NA
+2104;PP_20;121;Sapindaceae;Billia rosea;81,7;130;NA
+2105;PP_20;122;Melastomataceae;Topobea albertiae;45,5;147;NA
+2106;PP_20;123;Ochnaceae;Godoya antioquiensis;39,9;130;NA
+2107;PP_20;124;Styracaceae;;35,3;130;15,1
+2108;PP_20;125;Indet;;42,9;130;10,65
+2109;PP_20;126;Clethraceae;Clethra fagifolia;41,5;130;NA
+2110;PP_20;127;Clethraceae;Clethra fagifolia;50,2;130;NA
+2111;PP_20;128;Annonaceae;Guatteria goudotiana;39,7;130;12,16
+2112;PP_20;129;Meliaceae;Ruagea pubescens;41,8;130;10,98
+2113;PP_20;130;Clusiaceae;Clusia alata;50,2;130;NA
+2114;PP_20;131;Annonaceae;Guatteria goudotiana;60,3;130;NA
+2115;PP_20;132;Elaeocarpaceae;Sloanea brevispina;54,9;130;12,16
+2116;PP_20;133;Annonaceae;Guatteria goudotiana;32,2;130;NA
+2117;PP_20;134;Hypericaceae;Vismia laevis;81,5;130;NA
+2118;PP_20;135;Fabaceae;Inga multijuga;37,1;130;12,97
+2119;PP_20;136;Fabaceae;Inga multijuga;48,7;130;NA
+2120;PP_20;137;Annonaceae;Guatteria goudotiana;73,4;130;NA
+2121;PP_20;138;Cyatheaceae;Cyathea fulva;33,8;150;NA
+2122;PP_20;139;Hypericaceae;Vismia laevis;71,5;130;17,51
+2123;PP_20;140;Hypericaceae;Vismia laevis;36,7;130;NA
+2124;PP_20;141;Annonaceae;Guatteria goudotiana;42,6;130;NA
+2125;PP_20;142;Annonaceae;Guatteria goudotiana;61,3;130;NA
+2126;PP_20;143;Sapindaceae;Billia rosea;75,9;130;NA
+2127;PP_20;144;Sapindaceae;Billia rosea;80,3;130;NA
+2128;PP_20;145;Sapindaceae;Billia rosea;76,5;130;NA
+2129;PP_20;146;Annonaceae;Guatteria goudotiana;53,7;130;NA
+2130;PP_20;147;Sapindaceae;Billia rosea;59,9;130;NA
+2131;PP_20;148;Annonaceae;Guatteria goudotiana;64,7;130;NA
+2132;PP_20;149;Annonaceae;Guatteria goudotiana;45,1;130;NA
+2133;PP_20;150;Annonaceae;Guatteria goudotiana;41,9;130;11,88
+2134;PP_20;151;Hypericaceae;Vismia laevis;67,3;230;NA
+2135;PP_20;152;Meliaceae;Ruagea pubescens;70,3;130;12,84
+2136;PP_20;153;Sapindaceae;Billia rosea;66,6;130;NA
+2137;PP_20;154;Sapindaceae;Billia rosea;44;130;NA
+2138;PP_20;155;Sapindaceae;Billia rosea;58,3;180;NA
+2139;PP_20;156;Sapindaceae;Billia rosea;83,8;180;NA
+2140;PP_20;157;Clusiaceae;Clusia trochiformis;75,9;134;15,87
+2141;PP_20;158;Arecaceae;Wettinia fascicularis;44,1;130;NA
+2142;PP_20;159;Primulaceae;Myrsine coriacea;40,6;130;NA
+2143;PP_20;160;Rubiaceae;Elaeagia pastoensis;61,3;130;NA
+2144;PP_20;161;Cyatheaceae;Cyathea caracasana;44,6;130;NA
+2145;PP_20;162;Brunelliaceae;Brunellia goudotii;58,7;130;15,4
+2146;PP_20;163;Euphorbiaceae;Alchornea coelophylla;61;130;14,56
+2147;PP_20;164;Phyllanthaceae;Hieronyma duquei;50,3;130;7,55
+2148;PP_20;165;Euphorbiaceae;Alchornea coelophylla;49,5;130;NA
+2149;PP_20;166;Euphorbiaceae;Alchornea coelophylla;54;130;NA
+2150;PP_20;167;Lauraceae;;45,8;130;NA
+2151;PP_20;168;Myrtaceae;Myrcia popayanensis;83,8;130;NA
+2152;PP_20;169;Phyllanthaceae;Hieronyma duquei;37,7;130;12,87
+2153;PP_20;170;Euphorbiaceae;Alchornea coelophylla;104,4;130;15,87
+2154;PP_20;171;Annonaceae;Guatteria goudotiana;55;130;NA
+2155;PP_20;172;Phyllanthaceae;Hieronyma duquei;74,2;130;NA
+2156;PP_20;173;Arecaceae;Wettinia fascicularis;33,1;130;NA
+2157;PP_20;174;Clethraceae;Clethra fagifolia;84,6;130;NA
+2158;PP_20;175;Annonaceae;Guatteria goudotiana;35,8;130;NA
+2159;PP_20;176;Euphorbiaceae;Alchornea grandiflora;32;130;10,28
+2160;PP_20;177;Sapindaceae;Billia rosea;64;130;NA
+2161;PP_20;178;Euphorbiaceae;Alchornea coelophylla;60,8;130;NA
+2162;PP_20;179;Euphorbiaceae;Alchornea coelophylla;91,4;130;NA
+2163;PP_20;180;Aquifoliaceae;Ilex laurina;44,5;157;NA
+2164;PP_20;181;Phyllanthaceae;Hieronyma duquei;76,6;130;NA
+2165;PP_20;182;Rubiaceae;Elaeagia pastoensis;37,6;130;NA
+2166;PP_20;183;Rubiaceae;Elaeagia pastoensis;71,6;130;NA
+2167;PP_20;184;Rubiaceae;Elaeagia pastoensis;55,7;130;NA
+2168;PP_20;185;Symplocaceae;;69,7;130;10,12
+2169;PP_20;186;Ochnaceae;Godoya antioquiensis;98,7;130;NA
+2170;PP_20;187;Phyllanthaceae;Hieronyma duquei;97,3;130;13,22
+2171;PP_20;188;Phyllanthaceae;Hieronyma duquei;71,7;130;15,17
+2172;PP_20;189;Annonaceae;Guatteria goudotiana;47,4;130;NA
+2173;PP_20;190;Euphorbiaceae;Alchornea coelophylla;54,9;130;NA
+2174;PP_20;191;Euphorbiaceae;Alchornea coelophylla;48,3;130;NA
+2175;PP_20;192;Euphorbiaceae;Alchornea coelophylla;198,2;230;NA
+2176;PP_20;193;Euphorbiaceae;Alchornea coelophylla;58;220;NA
+2177;PP_20;194;Lauraceae;;49,8;210;NA
+2178;PP_20;195;Sapindaceae;Billia rosea;33,7;150;NA
+2179;PP_20;196;Phyllanthaceae;Richeria grandis;39,3;130;9,4
+2180;PP_20;197;Melastomataceae;Miconia aponeura;34,7;130;10,3
+2181;PP_20;198;Lauraceae;;32,8;130;NA
+2182;PP_20;199;Euphorbiaceae;Alchornea coelophylla;36,5;130;NA
+2183;PP_20;200;Melastomataceae;Miconia alternans;30,5;130;NA
+2184;PP_20;201;Fabaceae;Abarema callejasii;31,3;130;NA
+2185;PP_20;202;Melastomataceae;Miconia alternans;31,8;130;NA
+2186;PP_20;203;Araliaceae;;31,6;130;NA
+2187;PP_20;204;Annonaceae;Guatteria goudotiana;32,4;130;NA
+2188;PP_20;205;Euphorbiaceae;Alchornea coelophylla;33,8;130;NA
+2189;PP_20;206;Melastomataceae;Miconia alternans;34,7;130;NA
+2190;PP_20;207;Lauraceae;;33,3;130;NA
+2191;PP_20;208;Rubiaceae;Elaeagia pastoensis;30,2;130;NA
+2192;PP_20;209;Annonaceae;Guatteria lehmannii;32,1;130;NA
+2193;PP_20;210;Rosaceae;Prunus integrifolia;32;130;NA
+2194;PP_20;211;Melastomataceae;Miconia poeppigii;36,4;130;NA
+2195;PP_20;212;Lauraceae;;36,4;130;NA
+2196;PP_20;213;Melastomataceae;Miconia lamprophylla;31,2;130;NA
+2197;PP_20;214;Lauraceae;Aniba muca;33,2;130;NA
+2198;PP_20;215;Euphorbiaceae;Alchornea coelophylla;38,4;130;NA
+2199;PP_20;216;Calophyllaceae;Calophyllum brasiliense;41,8;125;NA

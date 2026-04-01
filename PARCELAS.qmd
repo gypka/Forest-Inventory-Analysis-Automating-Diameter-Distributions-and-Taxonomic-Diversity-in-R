@@ -1,0 +1,234 @@
+---
+title: "Forest Inventory Analysis: Automating Diameter Distributions and Taxonomic Diversity in R"
+format: html
+editor: visual
+---
+**Code Language Note**
+All narrative and analysis in this document is written in English. However, variable names, column headers, and some code comments are in Spanish, as the original dataset and field inventory were conducted in Spanish. This is intentional and does not affect the results or interpretation of the analysis.
+:::
+
+
+**1. Reproducible Sampling and Data Cleaning** A subset of four forest plots was generated through randomized sampling (Seed: 344v). To ensure a robust analysis, data cleaning protocols were implemented: a 10 cm minimum DBH ( Diameter at Breast Height ) floor was applied to sub-threshold individuals, and missing dendrometric records were handled via group-mean imputation (per-plot basis) to maintain the statistical distribution.
+
+```{r}
+bd <- read.csv2("Datos_Taller1.csv")
+set.seed(344)
+
+bd1 <- bd[bd$Parcela %in% sample(unique(bd$Parcela), 4),]
+
+table(bd1$Parcela)
+```
+
+A new variable, `DBH_cm`, was derived from the raw circumference data (`CAP_cm`) using the geometric constant `pi`. This ensures that subsequent structural analyses, such as basal area calculations, are based on diameter units
+
+```{r}
+bd1$DAP_cm <- bd1$CAP_cm/pi
+summary(bd1$DAP_cm)
+```
+
+A minimum threshold of 10 cm was assigned to all individuals with a Diameter at Breast Height (DBH) below this value. Furthermore, missing DBH data were addressed through mean imputation; specifically, null values were replaced with the calculated average DBH of their respective sampling plot to maintain the structural integrity of the dataset for subsequent dendrometric analysis.
+
+```{r}
+bd1$DAP_cm [bd1$DAP_cm < 10 & !is.na(bd1$DAP_cm)] <- 10
+prom <- tapply(bd1$DAP_cm, na.rm= T, bd1$Parcela, mean) 
+bd1$DAP_cm [is.na(bd1$DAP_cm)] <- prom[bd1$Parcela[is.na(bd1$DAP_cm)]]
+summary(bd1)
+```
+
+
+**2. Structural Characterization and Floristic Diversity Assessment**
+
+Following the data cleaning phase, a comprehensive structural and taxonomic analysis was conducted at the plot level. Descriptive statistics for Diameter at Breast Height (DBH), including mean and standard deviation, were calculated alongside stand density normalized to a per-hectare basis (ind ha⁻¹).Floristic richness was quantified by determining the number of species, genera, and families per sampling unit. To evaluate taxonomic uncertainty, both the absolute frequency and the percentage of unidentified individuals were recorded for each plot. Furthermore, the dominant height ($H_d$) was estimated as the arithmetic mean of the top 20% tallest trees with available height records per plot, providing an indicator of upper canopy development and site potential.
+
+
+```{r}
+unicos <- function (x) length(unique(x))
+
+bd1$Genero <-  substr(bd1$Especie, start = 1, stop = (regexpr(" ", bd1$Especie)-1))
+
+df<- data.frame(
+  promedio_DAP = round(tapply(bd1$DAP_cm, bd1$Parcela, mean), 3),
+  sd_DAP = round(tapply(bd1$DAP_cm, bd1$Parcela, sd), 3),
+  num_ind = tapply(bd1$Placa, bd1$Parcela, max),
+  num_esp = tapply(bd1$Especie, bd1$Parcela,  function(x) length(unique(x)) ),
+  num_gen = tapply(bd1$Genero, bd1$Parcela,  unicos ),
+  num_fam = sapply(tapply(bd1$Familia, bd1$Parcela,  unique ), length),
+  num_sin_info = tapply(bd1$Especie == "", bd1$Parcela,sum),
+  porcentaje = round(((tapply(bd1$Especie == "", bd1$Parcela,sum)*100)
+                /(tapply(bd1$Especie, bd1$Parcela,length))),3)
+)
+summary(df)
+df
+
+
+```
+
+The vertical structure of the forest stands was characterized by estimating the dominant height (H_d) for each sampling unit. This parameter was defined as the arithmetic mean of the upper stratum, specifically the top 20% of individuals with available height records within each plot (n = 20%). By filtering for the tallest individuals, this metric provides a robust proxy for site productivity and avoids the high variability often associated with suppressed or understory trees.
+
+```{r}
+#### (12) Filtrar registros con altura válida
+alturas <- bd1[!is.na(bd1$Altura_m), ]
+
+#### (13) Ordenar alturas de mayor a menor por parcela
+# Usamos split para separar por parcela y sort con decreasing=TRUE
+lista_alturas <- split(alturas$Altura_m, alturas$Parcela)
+lista_ordenada <- lapply(lista_alturas, sort, decreasing = TRUE)
+
+#### (14) Calcular el promedio del 20% superior de forma dinámica
+# Creamos una función que calcula el n (20%) y saca el promedio
+calc_hdom <- function(x) {
+  n <- ceiling(length(x) * 0.20) # Calcula el 20% real de esta parcela
+  mean(x[1:n])                   # Promedia solo los n más altos
+}
+
+# Aplicamos la función a cada elemento de la lista ordenada
+hdom_valores <- sapply(lista_ordenada, calc_hdom)
+
+#### (15) Asignar al dataframe (Ya no necesitas cambiar números manuales)
+df$Hdom <- round(hdom_valores, 3)
+
+# Verificar y Exportar
+print(df)
+write.csv2(df, "Tabla_datos_parcela_punto2.csv", row.names = FALSE)
+
+```
+
+**3. Allometric Relationship: DBH vs. Total Height**
+
+The allometric relationship between Diameter at Breast Height (DBH) and total height was examined for the four selected forest plots. To facilitate a comparative structural analysis, a unified scatter plot was generated. Individual trees were represented by distinct color codes corresponding to their respective sampling units. This visualization allowed for the identification of vertical growth patterns and potential stratification differences among the studied plots.
+
+````{r}
+bd1$DAP_m<-bd1$DAP_cm/100
+summary(bd1$DAP_m)
+#bd1$DAP_m
+#bd1
+````
+
+```{r}
+colores_parcelas <- c("#00c5cd", "#473c8b", "lightgoldenrod3", "#CD3278")
+plot(bd1$DAP_m, bd1$Altura_m,
+     type = "p",
+     col = colores_parcelas, 
+     ylim = c(5,50),
+     xlim = c(0, 1),
+     pch=18, 
+     las=1,
+     cex.main= 1, 
+     xlab = "DBH (m)", 
+     ylab = " Height (m)",
+     cex.lab= 1,
+     mar = c(5,5,5,5),
+     family= "serif",
+     font.lab= 6)
+
+legend(x = 0.7, y = 50, legend = c(" Plot 1", " Plot 12", " Plot 19", " Plot 3"), 
+       fill = colores_parcelas, title = " Plot", text.font=6 )
+
+```
+
+
+**4. Identification of Extreme Dendrometric Values**
+
+To characterize the structural boundaries of each sampling unit, the individuals with the minimum and maximum values for Diameter at Breast Height (DBH) and total height were identified. This selection process was performed independently for each plot to capture the full range of variability within the stands. The resulting data were consolidated into a summary table, providing a clear overview of the extreme architectural limits observed during the forest inventory.
+
+
+````{r}
+# max dap
+maxdap_1  <- bd1[bd1$DAP_cm == tapply(bd1$DAP_cm, bd1$Parcela, max)["PP_1"]  & bd1$Parcela == "PP_1",  ]
+maxdap_12 <- bd1[bd1$DAP_cm == tapply(bd1$DAP_cm, bd1$Parcela, max)["PP_12"] & bd1$Parcela == "PP_12", ]
+maxdap_19 <- bd1[bd1$DAP_cm == tapply(bd1$DAP_cm, bd1$Parcela, max)["PP_19"] & bd1$Parcela == "PP_19", ]
+maxdap_3  <- bd1[bd1$DAP_cm == tapply(bd1$DAP_cm, bd1$Parcela, max)["PP_3"]  & bd1$Parcela == "PP_3",  ]
+
+# min dap
+mindap_1  <- bd1[bd1$DAP_cm == tapply(bd1$DAP_cm, bd1$Parcela, min)["PP_1"]  & bd1$Parcela == "PP_1",  ]
+mindap_12 <- bd1[bd1$DAP_cm == tapply(bd1$DAP_cm, bd1$Parcela, min)["PP_12"] & bd1$Parcela == "PP_12", ]
+mindap_19 <- bd1[bd1$DAP_cm == tapply(bd1$DAP_cm, bd1$Parcela, min)["PP_19"] & bd1$Parcela == "PP_19", ]
+mindap_3  <- bd1[bd1$DAP_cm == tapply(bd1$DAP_cm, bd1$Parcela, min)["PP_3"]  & bd1$Parcela == "PP_3",  ]
+
+# max alt
+maxalt_1  <- bd1[bd1$Altura_m == tapply(bd1$Altura_m, bd1$Parcela, max, na.rm = TRUE)["PP_1"]  & bd1$Parcela == "PP_1"  & !is.na(bd1$Altura_m), ]
+maxalt_12 <- bd1[bd1$Altura_m == tapply(bd1$Altura_m, bd1$Parcela, max, na.rm = TRUE)["PP_12"] & bd1$Parcela == "PP_12" & !is.na(bd1$Altura_m), ]
+maxalt_19 <- bd1[bd1$Altura_m == tapply(bd1$Altura_m, bd1$Parcela, max, na.rm = TRUE)["PP_19"] & bd1$Parcela == "PP_19" & !is.na(bd1$Altura_m), ]
+maxalt_3  <- bd1[bd1$Altura_m == tapply(bd1$Altura_m, bd1$Parcela, max, na.rm = TRUE)["PP_3"]  & bd1$Parcela == "PP_3"  & !is.na(bd1$Altura_m), ]
+
+# min alt
+minalt_1  <- bd1[bd1$Altura_m == tapply(bd1$Altura_m, bd1$Parcela, min, na.rm = TRUE)["PP_1"]  & bd1$Parcela == "PP_1"  & !is.na(bd1$Altura_m), ]
+minalt_12 <- bd1[bd1$Altura_m == tapply(bd1$Altura_m, bd1$Parcela, min, na.rm = TRUE)["PP_12"] & bd1$Parcela == "PP_12" & !is.na(bd1$Altura_m), ]
+minalt_19 <- bd1[bd1$Altura_m == tapply(bd1$Altura_m, bd1$Parcela, min, na.rm = TRUE)["PP_19"] & bd1$Parcela == "PP_19" & !is.na(bd1$Altura_m), ]
+minalt_3  <- bd1[bd1$Altura_m == tapply(bd1$Altura_m, bd1$Parcela, min, na.rm = TRUE)["PP_3"]  & bd1$Parcela == "PP_3"  & !is.na(bd1$Altura_m), ]
+
+# tablas
+max_dap <- rbind(maxdap_1, maxdap_12, maxdap_19, maxdap_3)
+max_dap$Observación <- "DAP maximo"
+min_dap <- rbind(mindap_1, mindap_12, mindap_19, mindap_3)
+min_dap$Observación <- "DAP minimo"
+max_alt <- rbind(maxalt_1, maxalt_12, maxalt_19, maxalt_3)
+max_alt$Observación <- "Alt maxima"
+min_alt <- rbind(minalt_1, minalt_12, minalt_19, minalt_3)
+min_alt$Observación <- "Alt minima"
+
+tabla_final <- rbind(max_alt, min_alt, max_dap, min_dap)
+tabla_final
+write.csv2(tabla_final, "maximos y minimos, punto 4.csv")
+````
+
+
+***5. Diameter Class Distribution and Structural Patterns***
+
+The horizontal structure of the selected forest plots was analyzed by generating diameter distributions. Trees were categorized into 5 cm class intervals, with a specific accumulated category for individuals with a DBH $\ge$ 60 cm to account for large-diameter specimens. To allow for a synchronous structural comparison, a four-panel graphical layout was implemented. This visualization facilitated the identification of recruitment patterns and the overall successional stage of each stand based on the frequency of individuals across diameter classes.
+
+
+```{r}
+dap_pp1  <- c(bd1$DAP_cm[bd1$Parcela == "PP_1"])
+dap_pp12 <- c(bd1$DAP_cm[bd1$Parcela == "PP_12"])
+dap_pp19 <- c(bd1$DAP_cm[bd1$Parcela == "PP_19"])
+dap_pp3  <- c(bd1$DAP_cm[bd1$Parcela == "PP_3"])
+
+grafica <- function(datos, nombre) {
+  l  <- c(10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 90)
+  mc <- c(12.5, 17.5, 22.5, 27.5, 32.5, 37.5, 42.5, 47.5, 52.5, 57.5, "60 <")
+  x_mc   <- cut(datos, breaks = l, labels = mc, right = FALSE)
+  marcas <- table(x_mc)
+  barplot(marcas, ylim = c(0, 160),
+          xlab = "DBH (m)", ylab = "Frecuency",
+          family = "serif", font = 1, font.lab = 6,
+          col = "#CAE1FF", las = 1, cex.names = 1)
+  mtext(nombre, side = 3, adj = 0, line = 1.5, font = 7)
+}
+
+par(mfrow = c(2, 2))
+grafica(dap_pp1,  "Plot 1")
+grafica(dap_pp12, "Plot 12")
+grafica(dap_pp19, "Plot 19")
+grafica(dap_pp3,  "Plot 3")
+```
+
+
+**6. Floristic Composition and Taxonomic Dominance**
+
+The floristic composition was evaluated by quantifying family-level abundance within each sampling unit. To identify the primary taxonomic drivers of each stand, the ten most abundant families per plot were isolated and ranked. These results were visualized using a multi-panel bar chart, providing a comparative overview of family dominance. This analysis allowed for the characterization of the botanical identity of the plots and the identification of common patterns in family distribution across the study area.
+
+```{r}
+grafpp1  <- (sort(table(bd1$Familia[bd1$Parcela == "PP_1"  & !is.na(bd1$Familia)]), decreasing = T)[1:10])
+grafpp12 <- (sort(table(bd1$Familia[bd1$Parcela == "PP_12" & !is.na(bd1$Familia)]), decreasing = T)[1:10])
+grafpp19 <- (sort(table(bd1$Familia[bd1$Parcela == "PP_19" & !is.na(bd1$Familia)]), decreasing = T)[1:10])
+grafpp3  <- (sort(table(bd1$Familia[bd1$Parcela == "PP_3"  & !is.na(bd1$Familia)]), decreasing = T)[1:10])
+
+#| fig-width: 12
+#| fig-height: 9
+
+par(mfrow = c(2, 2))
+par(mar = c(9, 4, 3, 1))
+
+barplot(grafpp1,  col = "#CAE1FF", las = 2, family = "serif", font = 1, font.lab = 6, ylim = c(0, 50), ylab = "Frequency")
+mtext("Plot 1",  side = 3, adj = 0, font = 7, line = 1.5)
+
+barplot(grafpp12, col = "#CAE1FF", las = 2, family = "serif", font = 1, font.lab = 6, ylim = c(0, 50), ylab = "Frequency")
+mtext("Plot 12", side = 3, adj = 0, font = 7, line = 1.5)
+
+barplot(grafpp19, col = "#CAE1FF", las = 2, family = "serif", font = 1, font.lab = 6, ylim = c(0, 50), ylab = "Frequency")
+mtext("Plot 19", side = 3, adj = 0, font = 7, line = 1.5)
+
+barplot(grafpp3,  col = "#CAE1FF", las = 2, family = "serif", font = 1, font.lab = 6, ylim = c(0, 50), ylab = "Frequency")
+mtext("Plot 3",  side = 3, adj = 0, font = 7, line = 1.5)
+```
